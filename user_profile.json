@@ -1,0 +1,80 @@
+{
+  "user": {
+    "name": "Ned",
+    "briefing_name": "The Morning Brief"
+  },
+
+  "core_goal": "Become broadly knowledgeable across politics, science, technology and ideas through a personalised daily briefing.",
+
+  "interests": {
+    "uk_politics": 10,
+    "global_politics": 8,
+    "ai": 10,
+    "science": 8,
+    "philosophy_and_ideas": 9,
+    "adventure_opportunities": 9,
+    "travel_opportunities": 8,
+    "mathematics": 5,
+    "economics": 3,
+    "markets": 2
+  },
+
+  "preferences": {
+    "briefing_length": "20-25 minutes",
+    "include_opposing_viewpoints": true,
+    "label_bias": true,
+    "avoid_false_balance": true,
+    "explain_complex_topics_simply": true,
+    "include_context": true
+  },
+
+  "politics": {
+    "uk_priority": "very_high",
+    "world_regions": [
+      "USA",
+      "China",
+      "European Union",
+      "Russia",
+      "Middle East",
+      "India",
+      "Africa",
+      "Latin America",
+      "Southeast Asia"
+    ]
+  },
+
+  "science": {
+    "physics": "high",
+    "ai_research": "very_high",
+    "astronomy": "high",
+    "medicine": "medium",
+    "biology": "only_major_breakthroughs",
+    "chemistry": "only_major_breakthroughs",
+    "climate": "low",
+    "engineering": "low"
+  },
+
+  "academic_papers": {
+    "nature": true,
+    "science": true,
+    "arxiv": "major_papers_only",
+    "cell": false,
+    "nejm": false
+  },
+
+  "opportunities": {
+    "expeditions": "high",
+    "research_opportunities": "high",
+    "government_fellowships": "high",
+    "think_tanks": "high",
+    "political_internships": "high",
+    "scholarships": "low"
+  },
+
+  "content_preferences": {
+    "essays": true,
+    "short_stories": true,
+    "important_articles": true,
+    "book_recommendations": false
+  }
+}
