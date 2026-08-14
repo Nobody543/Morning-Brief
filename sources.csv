@@ -3,7 +3,6 @@ UK01,BBC Politics,UK Politics,Centre/public broadcaster,10,Mainstream neutral UK
 UK02,UK in a Changing Europe,UK Politics,Centre/policy analysis,10,"Academic analysis on UK-EU relations and politics, replaces paywalled FT Politics",https://ukandeu.ac.uk/feed/,yes,daily
 UK03,Institute for Government,UK Politics,Neutral policy,10,Neutral Whitehall/policy analysis,https://www.instituteforgovernment.org.uk/rss.xml,yes,daily
 UK05,The Guardian Politics,UK Politics,Centre-left,8,Centre-left UK political coverage,https://www.theguardian.com/politics/rss,yes,daily
-UK06,New Statesman,UK Politics,Left/centre-left,7,"Left/centre-left commentary, a few pieces metered",https://www.newstatesman.com/feed,partial,daily
 UK07,ConservativeHome,UK Politics,Centre-right/right,8,"Grassroots Conservative commentary, replaces paywalled Telegraph Politics",https://conservativehome.com/feed/,yes,daily
 UK08,UnHerd,UK Politics,Right/contrarian,7,"Contrarian commentary, replaces paywalled Spectator",https://unherd.com/feed/,yes,daily
 UK09,Centre for Social Justice,UK Politics,Centre-right policy,9,Centre-right social policy think tank,https://www.centreforsocialjustice.org.uk/feed,yes,daily
@@ -20,7 +19,6 @@ SC03,Quanta Magazine,Science,,10,Full-text science journalism,https://api.quanta
 SC04,Phys.org,Science,,8,Replaces hard-metered Scientific American,https://phys.org/rss-feed/,yes,daily
 SC05,MIT News,Science,,8,University research news,https://news.mit.edu/rss/feed,yes,daily
 SC06,NASA News,Science,,9,Official space agency news,https://www.nasa.gov/feed/,yes,daily
-SC07,Symmetry Magazine,Science,,9,"Replaces CERN News: no working CERN feed found after multiple attempts (404 on every path). Symmetry covers the same particle-physics beat (CERN, Fermilab) and is jointly published by both labs",https://www.symmetrymagazine.org/feed,yes,daily
 SC08,ESA News,Science,,8,Official European space agency news,https://www.esa.int/rssfeed/Our_Activities/Space_News,yes,daily
 SC09,ScienceDaily,Science,,7,Replaces subscription-gated New Scientist,https://www.sciencedaily.com/rss/all.xml,yes,daily
 AI01,OpenAI Blog,AI,,10,Official lab announcements,https://openai.com/news/rss.xml,yes,daily
@@ -33,7 +31,7 @@ AI07,Hugging Face Blog,AI,,7,Open-source AI community and model releases,https:/
 AP01,Nature Research,Papers,,8,"Abstract-level current-issue feed, significance filtering happens downstream via SC01/AI04/etc",https://www.nature.com/nature.rss,no,daily
 OP02,UK Government Opportunities,Opportunities,,8,No reliable RSS for fellowships - needs weekly manual check or change-detection against a specific gov.uk page,,no,weekly
 OP03,Civil Service Fast Stream,Opportunities,,9,Static application page not a feed - needs weekly manual check,,no,weekly
-OP05,Earthwatch,Opportunities,,9,Expedition and fieldwork opportunities blog,https://earthwatch.org/feed,yes,daily
+OP05,Earthwatch,Opportunities,,9,"Expedition and fieldwork opportunities blog. Fixed: correct domain is earthwatch.org.uk, not .org",https://earthwatch.org.uk/feed/,yes,daily
 ID01,Aeon Essays,Ideas,,10,Full-text philosophy and ideas essays,https://aeon.co/feed.rss,yes,daily
 ID02,Noema Magazine,Ideas,,8,"Philosophy, ideas and politics essays, replaces The Atlantic",https://www.noemamag.com/feed/,yes,daily
 ID03,The Point Magazine,Ideas,,8,"Philosophical essays, replaces The New Yorker",https://thepointmag.com/feed/,yes,daily
