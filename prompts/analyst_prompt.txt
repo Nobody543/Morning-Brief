@@ -1,0 +1,20 @@
+[ANALYST PROMPT - placeholder, to be written in build step 4]
+
+Role: mid-tier model. Produces a summary for each article (or cluster) the
+scout stage selected.
+
+Inputs:
+- One selected candidate or cluster (from the scout stage output)
+- Full article text, when Full_Text = yes in sources.csv and the fetch
+  succeeded
+- Feed snippet/headline only, when Full_Text = no, paywalled, or the
+  full-text fetch failed - this must be explicitly flagged in the output,
+  not silently treated the same as a full-text summary
+
+Expected output: structured summary (headline, key points, bias label where
+relevant, source attribution, flag for headline-only coverage) ready for the
+editor stage to compose into sections.
+
+TODO: write the actual instructions and output schema here once full-text
+fetch fallback logic exists to test against both source types (Full_Text
+yes/no from sources.csv).

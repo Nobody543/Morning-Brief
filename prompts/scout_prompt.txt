@@ -1,0 +1,23 @@
+[SCOUT PROMPT - placeholder, to be written in build step 3]
+
+Role: fast/cheap model. Ranks and filters today's candidate articles against
+user_profile.json before anything is sent to the analyst stage.
+
+Inputs:
+- candidates.csv (today's new, unseen articles from fetch_feeds.py)
+- user_profile.json (interest weights)
+
+Expected output: structured JSON, one entry per candidate (or per cluster),
+each with a relevance score and short reason. Only entries above the
+relevance threshold get passed forward to the analyst.
+
+Must also:
+- cluster candidates that clearly refer to the same underlying event
+  (e.g. Reuters + AP on one story, or two think tanks on one development)
+  and pass the cluster forward as a single item with multiple attached
+  source perspectives, instead of near-duplicate separate entries. This is
+  what implements "include opposing viewpoints" rather than repetition.
+- respect per-category priorities in sources.csv, not just topic weights.
+
+TODO: write the actual instructions and output schema here once
+fetch_feeds.py produces real candidates.csv output to test against.

@@ -1,0 +1,28 @@
+[EDITOR PROMPT - placeholder, to be written in build step 5]
+
+Role: strongest model. Composes the final brief from the analyst's per-item
+summaries. This is the stage where output quality actually shows up, so it
+gets the most instruction detail once written for real.
+
+Inputs:
+- All analyst-stage summaries for the day
+- user_profile.json (preferences: briefing_length, include_opposing_viewpoints,
+  label_bias, avoid_false_balance, explain_complex_topics_simply,
+  include_context)
+
+Must enforce:
+- Total length lands in the user's target read time (see
+  preferences.briefing_length in user_profile.json)
+- Per-section word budgets so no single topic crowds out the rest
+- Bias labelling on opinionated/partisan sources
+- Opposing viewpoints presented together for clustered stories, not as
+  false balance on settled facts (avoid_false_balance)
+- Plain-language explanation of complex topics (explain_complex_topics_simply)
+- Consistent section structure that the HTML email template can map onto
+
+Expected output: final brief text, structured by section, ready for
+rendering into the HTML email template.
+
+TODO: write the actual instructions here once real analyst-stage output
+exists to test against, and confirm the target read time / section budgets
+produce something that actually reads as 20-25 minutes.
