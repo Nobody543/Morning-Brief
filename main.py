@@ -767,8 +767,13 @@ def archive_and_mark_seen(brief):
 
 def send_email(brief_html, subject):
     api_key = os.environ["RESEND_API_KEY"]
-    to_email = os.environ["TO_EMAIL"]
-    from_email = os.environ.get("FROM_EMAIL", "Morning Brief <onboarding@resend.dev>")
+    # .strip() defensively - a GitHub secret pasted with a trailing newline
+    # or leading space is a common, invisible cause of exactly this kind of
+    # rejection, and there's no way to inspect a secret's raw value to rule
+    # it out other than stripping it and logging what was actually used.
+    to_email = os.environ["TO_EMAIL"].strip()
+    from_email = os.environ.get("FROM_EMAIL", "Morning Brief <onboarding@resend.dev>").strip()
+    print(f"[send] from={from_email!r} to={to_email!r}")
 
     response = requests.post(
         "https://api.resend.com/emails",
