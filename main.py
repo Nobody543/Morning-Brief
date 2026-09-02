@@ -772,7 +772,12 @@ def send_email(brief_html, subject):
     # rejection, and there's no way to inspect a secret's raw value to rule
     # it out other than stripping it and logging what was actually used.
     to_email = os.environ["TO_EMAIL"].strip()
-    from_email = os.environ.get("FROM_EMAIL", "Morning Brief <onboarding@resend.dev>").strip()
+    # `.get(key, default)` only falls back when the key is fully absent - it
+    # doesn't help when the key exists but is empty, which is exactly what
+    # happens here: the workflow YAML references ${{ secrets.FROM_EMAIL }},
+    # so GitHub Actions sets FROM_EMAIL="" whenever that secret doesn't
+    # exist, rather than omitting the env var. `or` catches both cases.
+    from_email = (os.environ.get("FROM_EMAIL") or "Morning Brief <onboarding@resend.dev>").strip()
     print(f"[send] from={from_email!r} to={to_email!r}")
 
     response = requests.post(
