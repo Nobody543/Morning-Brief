@@ -776,6 +776,11 @@ def send_email(brief_html, subject):
         json={"from": from_email, "to": [to_email], "subject": subject, "html": brief_html},
         timeout=30,
     )
+    if not response.ok:
+        # raise_for_status() alone only reports the status code - Resend's
+        # response body explains *why* (unverified sender, bad recipient,
+        # etc.), and that's the part actually worth seeing when this fails.
+        print(f"[send] [FAIL] Resend {response.status_code}: {response.text}", file=sys.stderr)
     response.raise_for_status()
     return response.json()
 
