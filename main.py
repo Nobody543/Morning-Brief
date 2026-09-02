@@ -655,40 +655,92 @@ def run_editor_stage(client):
 # ---------------------------------------------------------------------------
 
 def render_html(brief):
+    # Matches the masthead/wire-dispatch design reviewed in chat, but rebuilt
+    # email-safe: every rule is inline (no CSS custom properties / :root -
+    # Outlook and other clients don't reliably apply those), no flex/grid,
+    # and no dark-mode media query, since dark-mode email support is patchy
+    # enough that one well-designed light theme is the safer default. The
+    # Google Fonts link degrades gracefully to the serif/monospace fallback
+    # stack on clients that strip external font loading.
+    INK = "#1C2333"
+    INK_MUTED = "#5A6275"
+    ACCENT = "#A5690E"
+    ACCENT_SOFT = "#C98A2E"
+    RULE = "#DAD8E4"
+    BG = "#F2F1F6"
+    SERIF = "'Newsreader', Georgia, 'Times New Roman', serif"
+    MONO = "'Space Mono', 'Courier New', monospace"
+
+    # Avoid strftime's "%-d" (no leading zero) - it's a Linux-only extension
+    # that raises on Windows, and this runs both locally and on GH Actions.
+    now = datetime.now(timezone.utc)
+    today_display = f"{now.day} {now.strftime('%B %Y')}"
+
     parts = [
-        '<div style="max-width:640px;margin:0 auto;font-family:Georgia,serif;'
-        'color:#222;line-height:1.5;">',
-        f'<h1 style="font-size:22px;border-bottom:2px solid #222;padding-bottom:8px;">'
+        '<link rel="preconnect" href="https://fonts.googleapis.com">',
+        '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>',
+        '<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;'
+        '0,500;0,600;1,500;1,600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">',
+        f'<div style="max-width:680px;margin:0 auto;padding:32px 20px;background:{BG};'
+        f'font-family:{SERIF};color:{INK};-webkit-font-smoothing:antialiased;">',
+        f'<div style="text-align:center;border-top:2px solid {INK};'
+        f'border-bottom:1px solid {INK};padding:20px 0 16px;margin-bottom:36px;">',
+        f'<p style="font-family:{MONO};font-size:11px;letter-spacing:0.14em;'
+        f'text-transform:uppercase;color:{INK_MUTED};margin:0 0 10px;">'
+        f'Personal Briefing &middot; Wire &amp; Desk Reports</p>',
+        f'<h1 style="font-family:{SERIF};font-style:italic;font-size:26px;'
+        f'font-weight:600;line-height:1.28;margin:0 0 14px;">'
         f'{html.escape(brief["subject"])}</h1>',
-        f'<p style="color:#666;font-style:italic;">'
+        f'<p style="font-family:{MONO};font-size:11px;letter-spacing:0.08em;'
+        f'text-transform:uppercase;color:{INK_MUTED};margin:0;">'
+        f'{today_display}<span style="color:{RULE};margin:0 8px;">&bull;</span>'
         f'About {brief["estimated_read_minutes"]} minute read</p>',
+        "</div>",
     ]
+
     for section in brief["sections"]:
         parts.append(
-            f'<h2 style="font-size:18px;margin-top:32px;color:#111;">'
+            f'<h2 style="font-family:{MONO};font-size:12px;font-weight:700;'
+            f'letter-spacing:0.16em;text-transform:uppercase;color:{ACCENT};'
+            f'border-bottom:1px solid {RULE};padding-bottom:10px;margin:40px 0 24px;">'
             f'{html.escape(section["section_title"])}</h2>'
         )
-        for item in section["items"]:
+        items = section["items"]
+        for idx, item in enumerate(items):
+            border = f"border-bottom:1px solid {RULE};" if idx < len(items) - 1 else ""
+            parts.append(f'<div style="padding:0 0 24px;margin-bottom:24px;{border}">')
             parts.append(
-                f'<h3 style="font-size:16px;margin-bottom:4px;">'
-                f'{html.escape(item["headline"])}</h3>'
+                f'<h3 style="font-family:{SERIF};font-size:19px;font-weight:600;'
+                f'line-height:1.32;margin:0 0 8px;">{html.escape(item["headline"])}</h3>'
             )
             if item.get("bias_label"):
                 parts.append(
-                    f'<p style="font-size:12px;color:#888;margin:0 0 8px;">'
-                    f'{html.escape(item["bias_label"])}</p>'
+                    f'<p style="font-family:{MONO};font-size:11px;color:{ACCENT_SOFT};'
+                    f'margin:0 0 12px;">{html.escape(item["bias_label"])}</p>'
                 )
             for para in item["body"].split("\n\n"):
                 para_html = html.escape(para).replace("\n", "<br>")
-                parts.append(f'<p style="margin:0 0 12px;">{para_html}</p>')
-            links_html = ", ".join(
-                f'<a href="{html.escape(l)}" style="color:#555;">{html.escape(s)}</a>'
+                parts.append(
+                    f'<p style="font-size:16px;line-height:1.6;margin:0 0 12px;'
+                    f'max-width:62ch;">{para_html}</p>'
+                )
+            links_html = '<span style="color:{0};margin:0 6px;">/</span>'.format(RULE).join(
+                f'<a href="{html.escape(l)}" style="color:{INK_MUTED};text-decoration:underline;">'
+                f'{html.escape(s)}</a>'
                 for s, l in zip(item["sources"], item["links"])
             )
             parts.append(
-                f'<p style="font-size:12px;color:#999;margin:0 0 20px;">'
-                f'Sources: {links_html}</p>'
+                f'<p style="font-family:{MONO};font-size:11px;color:{INK_MUTED};margin:0;">'
+                f'SOURCES &mdash; {links_html}</p>'
             )
+            parts.append("</div>")
+
+    parts.append(
+        f'<p style="font-family:{MONO};font-size:10px;letter-spacing:0.08em;'
+        f'text-transform:uppercase;color:{INK_MUTED};text-align:center;'
+        f'border-top:1px solid {RULE};padding-top:20px;margin-top:24px;">'
+        f'The Morning Brief &middot; Compiled for Ned</p>'
+    )
     parts.append("</div>")
     return "\n".join(parts)
 
