@@ -96,12 +96,14 @@ def main():
     parser.add_argument(
         "--days",
         type=int,
-        default=2,
+        default=1,
         help=(
-            "only keep entries published within this many days (default: 2). "
-            "Some feeds (e.g. OpenAI, Hugging Face) return their full history "
-            "rather than just recent posts, so this keeps candidates.csv sane. "
-            "Entries with no parseable date are kept regardless."
+            "only keep entries published within this many days (default: 1, "
+            "since this runs daily - raise it if a run gets missed and you "
+            "want the next one to catch up). Some feeds (e.g. OpenAI, Hugging "
+            "Face) return their full history rather than just recent posts, "
+            "so this also keeps candidates.csv - and scout's daily cost - "
+            "sane. Entries with no parseable date are kept regardless."
         ),
     )
     args = parser.parse_args()

@@ -13,14 +13,6 @@ WP04,The Conversation (World/Politics),Global Politics,Liberal internationalist/
 WP05,War on the Rocks,Global Politics,Strategic analysis,9,"Foreign policy/security specialist analysis, replaces paywalled Foreign Affairs",https://warontherocks.com/feed/,yes,daily
 WP07,International Crisis Group,Global Politics,Neutral,9,Conflict analysis and monitoring,https://www.crisisgroup.org/rss.xml,yes,daily
 WP08,CSIS,Global Politics,Centre,8,Strategic and international studies think tank,https://www.csis.org/rss.xml,yes,daily
-SC01,Nature News,Science,,10,"News desk coverage (briefings/news articles), distinct from AP01's research current-issue feed",https://www.nature.com/nature/rss/news,yes,daily
-SC02,Science News (AAAS),Science,,9,Generous free meter (~10 articles/month),https://www.sciencenews.org/feed,partial,daily
-SC03,Quanta Magazine,Science,,10,Full-text science journalism,https://api.quantamagazine.org/feed/,yes,daily
-SC04,Phys.org,Science,,8,Replaces hard-metered Scientific American,https://phys.org/rss-feed/,yes,daily
-SC05,MIT News,Science,,8,University research news,https://news.mit.edu/rss/feed,yes,daily
-SC06,NASA News,Science,,9,Official space agency news,https://www.nasa.gov/feed/,yes,daily
-SC08,ESA News,Science,,8,Official European space agency news,https://www.esa.int/rssfeed/Our_Activities/Space_News,yes,daily
-SC09,ScienceDaily,Science,,7,Replaces subscription-gated New Scientist,https://www.sciencedaily.com/rss/all.xml,yes,daily
 AI01,OpenAI Blog,AI,,10,Official lab announcements,https://openai.com/news/rss.xml,yes,daily
 AI02,Anthropic News,AI,,10,"Anthropic has no official public RSS feed (confirmed: no autodiscovery tag, no working /rss.xml). Confirmed working workaround: Google News site-search feed, returns live Anthropic news items",https://news.google.com/rss/search?q=site:anthropic.com/news&hl=en-US&gl=US&ceid=US:en,yes,daily
 AI03,Google DeepMind Blog,AI,,9,Official lab announcements,https://deepmind.google/blog/rss.xml,yes,daily
@@ -28,12 +20,3 @@ AI04,Import AI,AI,,10,Jack Clark's weekly AI newsletter,https://importai.substac
 AI05,SemiAnalysis,AI,,8,"Compute/chips/AI industry analysis, deep-dives sometimes paywalled",https://semianalysis.com/feed/,partial,daily
 AI06,Ars Technica AI,AI,,8,Replaces metered MIT Technology Review AI,https://arstechnica.com/ai/feed/,yes,daily
 AI07,Hugging Face Blog,AI,,7,Open-source AI community and model releases,https://huggingface.co/blog/feed.xml,yes,daily
-AP01,Nature Research,Papers,,8,"Abstract-level current-issue feed, significance filtering happens downstream via SC01/AI04/etc",https://www.nature.com/nature.rss,no,daily
-OP02,UK Government Opportunities,Opportunities,,8,No reliable RSS for fellowships - needs weekly manual check or change-detection against a specific gov.uk page,,no,weekly
-OP03,Civil Service Fast Stream,Opportunities,,9,Static application page not a feed - needs weekly manual check,,no,weekly
-OP05,Earthwatch,Opportunities,,9,"Expedition and fieldwork opportunities blog. Fixed: correct domain is earthwatch.org.uk, not .org",https://earthwatch.org.uk/feed/,yes,daily
-ID01,Aeon Essays,Ideas,,10,Full-text philosophy and ideas essays,https://aeon.co/feed.rss,yes,daily
-ID02,Noema Magazine,Ideas,,8,"Philosophy, ideas and politics essays, replaces The Atlantic",https://www.noemamag.com/feed/,yes,daily
-ID03,The Point Magazine,Ideas,,8,"Philosophical essays, replaces The New Yorker",https://thepointmag.com/feed/,yes,daily
-ID04,Longreads,Ideas,,8,Curated long-form journalism (links out to originals),https://longreads.com/feed/,yes,daily
-ID05,The Critic Magazine,Ideas,,8,"Replaces Prospect Magazine (no working feed found after multiple attempts) and RSA Lectures (video/audio, no transcription step yet). The Critic covers the same long-form UK politics/culture/ideas beat, text format",https://thecritic.co.uk/feed/,yes,daily

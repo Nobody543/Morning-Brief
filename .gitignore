@@ -8,8 +8,13 @@ __pycache__/
 .venv/
 venv/
 
-# Pipeline working files (regenerated each run)
+# Pipeline working files (regenerated each run - output/*.html and
+# seen_articles.csv ARE committed, per the plan's archive step)
 candidates.csv
+scout_output.csv
+analyst_output.json
+brief.json
+brief_artifact*.html
 
 # OS
 .DS_Store

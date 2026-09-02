@@ -9,7 +9,7 @@
   "interests": {
     "uk_politics": 10,
     "global_politics": 8,
-    "ai": 10,
+    "ai": 7,
     "science": 8,
     "philosophy_and_ideas": 9,
     "adventure_opportunities": 9,
@@ -20,7 +20,7 @@
   },
 
   "preferences": {
-    "briefing_length": "20-25 minutes",
+    "briefing_length": "600-1800 words",
     "include_opposing_viewpoints": true,
     "label_bias": true,
     "avoid_false_balance": true,
