@@ -720,9 +720,16 @@ def render_html(brief):
                 )
             for para in item["body"].split("\n\n"):
                 para_html = html.escape(para).replace("\n", "<br>")
+                # No max-width here (was 62ch) - ch units are computed from
+                # the current font's character metrics, and a mobile client
+                # that doesn't load the Newsreader font and falls back to a
+                # generic serif can compute a far narrower width than
+                # intended, producing the "one word per line" bug seen in
+                # testing. The outer .page div already caps reading width at
+                # 680px in real pixels, which doesn't have this failure mode.
                 parts.append(
-                    f'<p style="font-size:16px;line-height:1.6;margin:0 0 12px;'
-                    f'max-width:62ch;">{para_html}</p>'
+                    f'<p style="font-size:16px;line-height:1.6;margin:0 0 12px;">'
+                    f'{para_html}</p>'
                 )
             links_html = '<span style="color:{0};margin:0 6px;">/</span>'.format(RULE).join(
                 f'<a href="{html.escape(l)}" style="color:{INK_MUTED};text-decoration:underline;">'
