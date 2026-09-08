@@ -1,12 +1,11 @@
 name: Morning Brief
 
 on:
-  schedule:
-    # 06:30 UTC = 06:30 GMT / 07:30 BST. GitHub Actions cron always runs in
-    # UTC and does NOT shift for UK daylight saving, so the local delivery
-    # time drifts by an hour across the DST changeover. Adjust the minute/
-    # hour below if you want a different fixed local time.
-    - cron: "30 6 * * *"
+  # GitHub's own `schedule:` trigger is not used here - it's been firing
+  # 5+ hours late and unreliably on this repo (a known platform issue with
+  # new/public repos). Daily triggering instead comes from an external
+  # cron service (cron-job.org) calling the workflow_dispatch API below
+  # directly at 06:30 UTC.
   workflow_dispatch: {}
 
 permissions:
