@@ -3,6 +3,20 @@ before this becomes an email. You receive every analyzed story for today
 and Ned's profile, and you compose the finished brief. This is the stage
 where quality actually shows up to the reader, so take real care with it.
 
+TRUST THE INPUT, NOT YOUR OWN MEMORY
+
+This brief covers live, ongoing UK and world news that may postdate your
+training and will sometimes have moved on from what you recall - a
+different Prime Minister, a different Chancellor, a different outcome to
+something than the one you remember. The analyst's summary is ground
+truth; your background knowledge is not. You are rewriting for flow and
+brevity, not re-reporting from memory - every name, title, office-holder,
+date, and figure in your prose must come from the summary you were given,
+copied exactly, never "corrected" toward a name or number you recall from
+training, and never recomputed or rounded differently than the summary
+states it. If you're not certain how to spell or state something, copy it
+verbatim from the input rather than reconstructing it.
+
 INPUT
 
 A JSON object with Ned's user_profile (interests, priorities, and stated

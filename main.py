@@ -498,6 +498,26 @@ def parse_target_word_count(briefing_length):
     return f"approximately {low}-{high} words"
 
 
+_MONEY_RE = re.compile(
+    r"£\s?\d[\d,]*(?:\.\d+)?\s?(million|billion|thousand|m\b|bn\b|k\b)?", re.I
+)
+_MONEY_SUFFIX_EXPAND = {"million": "m", "billion": "bn", "thousand": "k"}
+
+
+def extract_money_figures(text):
+    """Pull out £-figures like '£72m' or '£100,000' from text, normalized
+    (no spaces/commas, lowercase suffix) so the same amount written two
+    different ways still compares equal."""
+    figures = set()
+    for match in _MONEY_RE.finditer(text):
+        number = re.sub(r"[£,\s]", "", match.group(0))
+        suffix = (match.group(1) or "").lower()
+        suffix = _MONEY_SUFFIX_EXPAND.get(suffix, suffix)
+        number = re.sub(r"(million|billion|thousand)$", "", number, flags=re.I)
+        figures.add(number.rstrip("m").rstrip("bn").rstrip("k") + suffix if suffix else number)
+    return figures
+
+
 def run_editor_stage(client):
     with open(ANALYST_OUTPUT_FILE, encoding="utf-8") as f:
         analyst_items = json.load(f)
@@ -568,6 +588,7 @@ def run_editor_stage(client):
     for section in brief["sections"]:
         for item in section["items"]:
             sources, links, native_cats = [], [], set()
+            source_text_parts = []
             for item_id in item["item_ids"]:
                 if not (0 <= item_id < len(analyst_items)):
                     print(f"[editor] [WARN] out-of-range item_id {item_id}, skipping", file=sys.stderr)
@@ -576,6 +597,8 @@ def run_editor_stage(client):
                 src = analyst_items[item_id]
                 if src["category"] in allowed_sections:
                     native_cats.add(src["category"])
+                source_text_parts.append(src["headline"])
+                source_text_parts.append(src["summary"])
                 for s, l in zip(src["sources"], src["links"]):
                     if (s, l) not in zip(sources, links):
                         sources.append(s)
@@ -583,6 +606,26 @@ def run_editor_stage(client):
             item["sources"] = sources
             item["links"] = links
             del item["item_ids"]
+
+            # The editor rewrites the analyst's summary into finished prose,
+            # and free-text rewriting occasionally drifts a number or a name
+            # away from what the source actually said (seen in practice: a
+            # donation figure inflated from £72m to £372m, and a real
+            # Chancellor's name swapped in over the fictional one this brief
+            # is actually tracking). This can't fix the drift, but it makes
+            # it loud instead of silent - any £-figure in the edited body
+            # that isn't grounded in the source summary gets logged so it's
+            # caught the same day rather than in a later manual audit.
+            body_figures = extract_money_figures(item["body"])
+            source_figures = extract_money_figures(" ".join(source_text_parts))
+            unsourced = body_figures - source_figures
+            if unsourced:
+                print(
+                    f"[editor] [WARN] '{item['headline'][:60]}' body has £-figure(s) "
+                    f"{sorted(unsourced)} not found in the source summary - possible "
+                    f"fabrication/drift, please double-check",
+                    file=sys.stderr,
+                )
 
             target = section["section_title"]
             if len(native_cats) == 1:
@@ -759,6 +802,17 @@ def archive_and_mark_seen(brief):
 
     with open(f"output/{today}.html", "w", encoding="utf-8") as f:
         f.write(html_content)
+
+    # Also archive the analyst stage's raw per-item output. Previously only
+    # the final HTML was kept, so when a fact turned out wrong in the
+    # finished brief there was no way to tell whether it was already wrong
+    # coming out of the analyst or introduced by the editor's rewrite -
+    # this makes that diagnosable instead of guesswork.
+    if os.path.exists(ANALYST_OUTPUT_FILE):
+        with open(ANALYST_OUTPUT_FILE, encoding="utf-8") as f:
+            analyst_content = f.read()
+        with open(f"output/{today}.analyst.json", "w", encoding="utf-8") as f:
+            f.write(analyst_content)
 
     with open(SEEN_FILE, "a", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)

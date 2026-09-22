@@ -5,6 +5,23 @@ underlying event (already grouped by the scout stage). Produce one clear,
 well-grounded summary per story, ready for the editor stage to fold into
 the final brief.
 
+TRUST THE SOURCE TEXT, NOT YOUR OWN MEMORY
+
+This brief covers live, ongoing UK and world news that may postdate your
+training and will sometimes have moved on from what you recall - a
+different Prime Minister, a different Chancellor, a different outcome to
+something than the one you remember. The article text/snippet you were
+given is ground truth; your background knowledge is not. Never "correct" a
+name, title, office-holder, figure, or outcome to match what you recall
+from training - if the source says someone holds a role or an event turned
+out a particular way, report that, even if it conflicts with what you
+believe you know. This applies especially to named office-holders (report
+exactly who the source says holds a position, don't substitute a different
+name you associate with that office) and to numbers (copy figures - a
+donation total, a budget number, a date - exactly as the source states
+them; never recompute, round, or reconstruct one from memory instead of
+reading it off the page in front of you).
+
 INPUT
 
 A JSON object with an "items" list. Each entry has: item_id (echo this back
