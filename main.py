@@ -518,6 +518,65 @@ def extract_money_figures(text):
     return figures
 
 
+def find_money_correction(flagged, source_figures):
+    """A flagged figure like '372m' that isn't in the source is often a
+    digit inserted/duplicated onto a real source figure like '72m' - if
+    exactly one source figure is a suffix of the flagged one (same units,
+    fewer leading digits), that's almost certainly the real amount."""
+    candidates = [
+        g for g in source_figures
+        if g != flagged and flagged.endswith(g) and flagged[: -len(g)].isdigit()
+    ]
+    return candidates[0] if len(candidates) == 1 else None
+
+
+# Deliberately narrow two-word "First Last" matcher - the goal isn't
+# catching every name in the text, it's finding confident same-surname
+# swaps (see find_name_correction), so under-matching is the safe failure
+# mode here, not over-matching institutional phrases like "Foreign
+# Secretary" or "European Union". Titles ("Chancellor John Healey") are
+# handled by sliding a two-word window over consecutive capitalized words
+# rather than a single non-overlapping regex match, so "John Healey" is
+# still found even though "Chancellor John" comes right before it.
+_CAP_WORD_RE = re.compile(r"[A-Z][a-z'-]+")
+_NAME_STOPWORDS = {
+    "Politics", "Government", "Party", "Union", "Bank", "Office", "Minister",
+    "Secretary", "Department", "Assembly", "Parliament", "Congress", "Court",
+    "Service", "Council", "Committee", "Authority", "Commission", "Agency",
+    "Force", "Group", "Fund", "Trust", "Foundation", "Institute", "Board",
+    "Corporation", "Company", "Media", "News", "Times", "Post", "Guardian",
+    "Herald", "Journal", "Review", "Report", "Budget", "Plan", "Bill", "Act",
+    "Scheme", "Programme", "Program", "Strategy", "Policy", "Summit",
+    "Conference", "Forum", "Kingdom", "States", "Nations", "East", "West",
+    "General", "UK", "EU", "US", "Chancellor", "President", "Governor",
+    "Speaker", "Leader", "Mayor", "Ambassador", "Director", "Prime",
+    "Deputy", "Shadow", "Chief", "Vice",
+}
+
+
+def extract_person_names(text):
+    """Set of (first, last) tuples for plausible two-word person names."""
+    words = [(m.group(0), m.start(), m.end()) for m in _CAP_WORD_RE.finditer(text)]
+    names = set()
+    for (first, _, end1), (last, start2, _) in zip(words, words[1:]):
+        if text[end1:start2] != " ":
+            continue
+        if first in _NAME_STOPWORDS or last in _NAME_STOPWORDS:
+            continue
+        names.add((first, last))
+    return names
+
+
+def find_name_correction(flagged, source_names):
+    """flagged = (first, last). If the source pairs that same surname with
+    exactly one different first name, that's a confident swap - the same
+    pattern as 'Rachel Healey' in the edited text vs 'John Healey' in the
+    source it was built from."""
+    first, last = flagged
+    alternatives = {f for f, l in source_names if l == last and f != first}
+    return (next(iter(alternatives)), last) if len(alternatives) == 1 else None
+
+
 def run_editor_stage(client):
     with open(ANALYST_OUTPUT_FILE, encoding="utf-8") as f:
         analyst_items = json.load(f)
@@ -585,16 +644,19 @@ def run_editor_stage(client):
     allowed_sections = {"UK Politics", "Global Politics"}
     regrouped = {name: [] for name in allowed_sections}
     used_ids = set()
+    reverts = []
     for section in brief["sections"]:
         for item in section["items"]:
             sources, links, native_cats = [], [], set()
             source_text_parts = []
+            item_srcs = []
             for item_id in item["item_ids"]:
                 if not (0 <= item_id < len(analyst_items)):
                     print(f"[editor] [WARN] out-of-range item_id {item_id}, skipping", file=sys.stderr)
                     continue
                 used_ids.add(item_id)
                 src = analyst_items[item_id]
+                item_srcs.append(src)
                 if src["category"] in allowed_sections:
                     native_cats.add(src["category"])
                 source_text_parts.append(src["headline"])
@@ -612,20 +674,47 @@ def run_editor_stage(client):
             # away from what the source actually said (seen in practice: a
             # donation figure inflated from £72m to £372m, and a real
             # Chancellor's name swapped in over the fictional one this brief
-            # is actually tracking). This can't fix the drift, but it makes
-            # it loud instead of silent - any £-figure in the edited body
-            # that isn't grounded in the source summary gets logged so it's
-            # caught the same day rather than in a later manual audit.
-            body_figures = extract_money_figures(item["body"])
-            source_figures = extract_money_figures(" ".join(source_text_parts))
-            unsourced = body_figures - source_figures
-            if unsourced:
+            # is actually tracking). Check both the edited headline and body
+            # against the source text they were built from - any £-figure
+            # not grounded in the source, or any name whose surname the
+            # source pairs with a different first name, is a confident sign
+            # of drift. When found, don't just log it: revert that item's
+            # headline and body back to the analyst's original (ungrafted,
+            # closer-to-source) wording before it can reach the email, and
+            # record what was corrected so a note can be added for Ned.
+            edited_text = item["headline"] + " " + item["body"]
+            source_text = " ".join(source_text_parts)
+            source_figures = extract_money_figures(source_text)
+            source_names = extract_person_names(source_text)
+            unsourced_figures = extract_money_figures(edited_text) - source_figures
+            name_swaps = [
+                (name, find_name_correction(name, source_names))
+                for name in extract_person_names(edited_text)
+                if name not in source_names
+            ]
+            name_swaps = [(bad, good) for bad, good in name_swaps if good]
+
+            if unsourced_figures or name_swaps:
+                corrections = []
+                for figure in sorted(unsourced_figures):
+                    corrected = find_money_correction(figure, source_figures)
+                    corrections.append(
+                        f"£{figure} -> £{corrected}" if corrected
+                        else f"£{figure} (not found in source)"
+                    )
+                for (bad_first, bad_last), (good_first, good_last) in name_swaps:
+                    corrections.append(
+                        f"{bad_first} {bad_last} -> {good_first} {good_last}"
+                    )
                 print(
-                    f"[editor] [WARN] '{item['headline'][:60]}' body has £-figure(s) "
-                    f"{sorted(unsourced)} not found in the source summary - possible "
-                    f"fabrication/drift, please double-check",
+                    f"[editor] [WARN] '{item['headline'][:60]}' reverted to analyst "
+                    f"wording - unsourced detail(s): {'; '.join(corrections)}",
                     file=sys.stderr,
                 )
+                if item_srcs:
+                    item["headline"] = " / ".join(s["headline"] for s in item_srcs)
+                    item["body"] = "\n\n".join(s["summary"] for s in item_srcs)
+                reverts.append({"headline": item["headline"], "corrections": corrections})
 
             target = section["section_title"]
             if len(native_cats) == 1:
@@ -670,6 +759,7 @@ def run_editor_stage(client):
         for name in ("UK Politics", "Global Politics")
         if regrouped[name]
     ]
+    brief["auto_reverts"] = reverts
 
     # Read time is measured from actual output, never asked of the model -
     # "how many words did I just write" turned out to be something the
@@ -689,7 +779,7 @@ def run_editor_stage(client):
     print(
         f"[editor] '{brief['subject']}' - {len(brief['sections'])} section(s), "
         f"{n_items} item(s), {word_count} words, ~{brief['estimated_read_minutes']} "
-        f"min (measured) -> {BRIEF_FILE}"
+        f"min (measured), {len(reverts)} auto-revert(s) -> {BRIEF_FILE}"
     )
 
 
@@ -784,6 +874,30 @@ def render_html(brief):
                 f'SOURCES &mdash; {links_html}</p>'
             )
             parts.append("</div>")
+
+    if brief.get("auto_reverts"):
+        # A small "corrections" note, styled like a wire-service erratum -
+        # when the automated check below caught the edited wording
+        # introducing a detail the source didn't actually support, that
+        # item was reverted to the analyst's original wording before
+        # sending. Surfaced here rather than only in a log, since a log
+        # nobody reads same-day doesn't actually catch anything.
+        parts.append(
+            f'<div style="border-top:1px solid {RULE};padding-top:16px;margin-top:24px;">'
+            f'<p style="font-family:{MONO};font-size:10px;font-weight:700;'
+            f'letter-spacing:0.1em;text-transform:uppercase;color:{INK_MUTED};'
+            f'margin:0 0 8px;">Automatic Corrections</p>'
+        )
+        for revert in brief["auto_reverts"]:
+            corrections_str = "; ".join(revert["corrections"])
+            parts.append(
+                f'<p style="font-family:{MONO};font-size:10px;line-height:1.6;'
+                f'color:{INK_MUTED};margin:0 0 6px;">'
+                f'&#x201c;{html.escape(revert["headline"][:80])}&#x201d; &mdash; edited '
+                f'wording included a detail not found in the source and was reverted: '
+                f'{html.escape(corrections_str)}</p>'
+            )
+        parts.append("</div>")
 
     parts.append(
         f'<p style="font-family:{MONO};font-size:10px;letter-spacing:0.08em;'
