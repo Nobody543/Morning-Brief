@@ -1,0 +1,282 @@
+[
+  {
+    "headline": "UK to review Chagos Islands deal after Trump criticism undermines US support",
+    "summary": "Defence Secretary Wes Streeting has confirmed the UK will review its Chagos Islands agreement with Mauritius, following Donald Trump's description of the deal as \"terrible\" and his statement that the US would not support it. Trump made the remarks to Prime Minister Andy Burnham. The original deal, signed by the previous government, would have handed sovereignty of the archipelago to Mauritius, ending a long-running territorial dispute. Trump's opposition and the withdrawal of US backing has forced a reconsideration of the agreement.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "UK faces rising debt costs and slower growth as energy prices spike amid Middle East conflict and climate impacts",
+    "summary": "Warnings have emerged that the UK economy faces headwinds from ballooning debt costs and slower growth prospects. Higher energy prices driven by the conflict in the Middle East and climate change are expected to hit economic growth, creating fiscal pressures ahead of the government's Budget announcements.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "UK losing up to \u00a36.5bn annually in EU trade due to unaligned product testing standards",
+    "summary": "The UK is forgoing substantial annual exports to the EU because successive governments have failed to secure a mutual recognition agreement that would eliminate duplicate product testing requirements. Research by the IPPR thinktank estimates the loss at around \u00a36.5bn per year\u2014equivalent to 0.18% of national income. Motor vehicle and parts exports would be \u00a32.48bn\u2013\u00a33.42bn higher annually; electronics could add \u00a31.17bn\u2013\u00a31.67bn; pharmaceuticals an estimated \u00a3740m\u2013\u00a3820m. Many companies have abandoned EU exports or relocated subsidiaries within the trade bloc to avoid the administrative burden of meeting differing standards.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/sep/24/uk-losing-billions-in-eu-trade-due-to-mismatched-product-rules"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Tony Blair urges Labour to work towards EU rejoining within decade, piling pressure on Burnham",
+    "summary": "Former Prime Minister Tony Blair has publicly called on current PM Andy Burnham to put EU membership back on the political table, saying Britain should work towards rejoining the bloc within the next decade. Blair is pressing Burnham to use his 10-year plan, due in November, to revisit the 2016 Brexit referendum outcome. The intervention adds to growing pressure on Burnham to abandon Labour's current reluctance to reopen the Brexit debate, with polling suggesting a pledge to rejoin could boost Labour's electoral chances.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/sep/24/tony-blair-britain-rejoin-eu-next-10-years-brexit"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "UK's intelligence assessment: climate crisis poses critical national security and defence threat",
+    "summary": "Foreign Secretary Ed Miliband has presented findings from a UK intelligence report\u2014previously suppressed under former PM Keir Starmer\u2014warning that climate change and nature collapse pose serious threats to national security and defence. Miliband made a presentation to foreign ministers from the EU, Kenya and other nations at a private meeting during the UN General Assembly in New York, detailing how environmental collapse would lead to conflict, migration crises and food shortages worldwide. The intelligence assessment identifies the coming El Ni\u00f1o weather pattern as posing a particularly critical threat to nations' defences.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/environment/2026/sep/23/uk-climate-crisis-national-security-report-suppressed-starmer-ed-miliband"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Andy Burnham's radical vision: can new PM deliver on promise to end 40 years of neoliberalism?",
+    "summary": "A Guardian investigation examines the ideological figures and campaign groups driving Andy Burnham's plans to reshape Britain after he took office following Keir Starmer's departure as PM. Burnham has declared an intention to end 40 years of neoliberal economic policy. The piece traces how frustration with the Starmer government\u2014which the campaign group Compass felt was intellectually bankrupt and retreating toward far-right rhetoric on immigration\u2014has fuelled calls for radical change. Burnham's incoming administration is being shaped by advisers and thinkers who view the previous government as having failed to modernise Labour's approach.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/news/ng-interactive/2026/sep/24/labours-last-chance-the-people-shaping-andy-burnhams-grand-plans-for-britain"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Burnham's first Trump meeting navigates treacherous diplomatic waters at UN General Assembly",
+    "summary": "Prime Minister Andy Burnham's first meeting with US President Donald Trump at the UN General Assembly appears to have exceeded low expectations. One of Burnham's senior aides warned him beforehand that dealing with the unpredictable Trump would be risky\u2014the political equivalent of white-water rafting. Despite Trump's tendency to deploy a known playbook with first-time meetings with other world leaders, his unpredictability meant the encounter could have gone awry. British aides expressed relief that the meeting was at the \"top end of their expectations,\" though the summary suggests turbulent diplomatic challenges lie ahead for the UK-US relationship.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/sep/23/andy-burnham-first-donald-trump-meeting-united-nations-un-general-assembly"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "AI leaders warn UN of rising security risks as artificial intelligence systems grow more powerful",
+    "summary": "Leaders in artificial intelligence development have warned the United Nations of emerging security risks as AI systems become increasingly powerful. The warning was delivered to the global body as countries and companies grapple with how to manage the risks posed by advanced AI systems.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Tech leaders urge UN to regulate AI, calling for human control over powerful systems",
+    "summary": "Major technology executives have made an appeal to the United Nations for international oversight and control of advanced AI systems. While full details of the AP article were not accessible, the core argument centers on the need for maintaining human authority over increasingly powerful AI technologies before they advance beyond human ability to manage them.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHBObE1ZM3ZSc0QwNURQWkZkS2tORVNRMHhNUUhvNjNZRjR4RHNIVWlyUE5qZV82WVowbEFFX2RhR09TeE5WMHQ4S3l0TkdZTjN3YWdvVUNfRUZYdTZVOW9jc3YtQlNHdWNjcFh4cl9jNlk4VDkxMlFJc18ybzlLN3B4NjZxZVB3cFNBTy1mSXlLVmZlbDRpdXd4WVljVEtaZGxkRHpIMTBSZw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Sam Altman tells UN Security Council: AI must remain under human control to avoid catastrophe",
+    "summary": "OpenAI CEO Sam Altman addressed the UN Security Council, framing AI as having the potential for either a positive \"Renaissance of creativity and discovery\" or a destructive \"Industrial Revolution of upheaval.\" He emphasized that powerful AI systems must be kept under human control, warning that letting systems advance faster than institutions can manage them poses severe risks. Altman identified two key dangers: first, losing control entirely as AI moves too fast to follow or intervene; second, undue concentration of power in too few hands. He stressed that companies must not accept excessive technological risk for competitive advantage, and that AI models should not be developed if they cannot be reliably kept under human control, noting that catastrophe risks at any level\u2014whether 10%, 1%, or 0.1%\u2014are unacceptable. Altman positioned human agency and purpose at the center of beneficial AI: systems should expand people's capabilities to learn, create, and build rather than automating human purpose away.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "OpenAI Blog"
+    ],
+    "links": [
+      "https://openai.com/index/sam-altman-un-security-council-remarks"
+    ],
+    "category": "AI",
+    "priority": 10
+  },
+  {
+    "headline": "Anthropic's Claude AI discovers novel enzyme system with CRISPR-like repeats",
+    "summary": "Anthropic has announced that its Claude AI system discovered a previously unknown enzyme system featuring CRISPR-like repeating sequences. CRISPR refers to molecular tools that act as a biological \"scissors,\" allowing scientists to edit DNA with precision; systems with CRISPR-like repeats suggest potential applications in genetic research and editing. The discovery represents an example of AI being used to accelerate scientific research and discovery.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Anthropic News"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5"
+    ],
+    "category": "AI",
+    "priority": 10
+  },
+  {
+    "headline": "UK Conservatives propose slashing universal credit for inadequate national insurance contributions",
+    "summary": "The Conservative Party has announced a plan to cut universal credit payments by a third for claimants who have not paid sufficient national insurance contributions, restricting the reduced \"subsistence allowance\" to a dedicated debit card that would prevent purchases of alcohol and tobacco. Charities have condemned the proposal as a \"fast track to increased poverty,\" citing ongoing impacts of austerity cuts and the cost-of-living crisis on families. The model is based on an Australian cashless debit card system that was eventually scrapped after trials found limited evidence it changed recipient behavior.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/sep/23/tories-target-universal-credit-claimants-plan-condemned-fast-track-to-poverty"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "England to introduce vocational GCSEs alongside traditional subjects in education overhaul",
+    "summary": "The UK government is implementing its biggest GCSE qualification changes in over a decade, introducing vocational courses starting in 2029 to address a youth employment crisis. From 2029, pupils will be able to supplement compulsory GCSE subjects\u2014English, maths, and sciences\u2014with new vocational options including construction, creative media production, and child development. The overhaul is framed as a response to nearly a million young people currently out of work or training, and is part of the government's strategy to offer educational pathways suited to diverse student needs.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/education/2026/sep/23/vocational-gcse-radical-shake-up-education-system-england"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "UK defence contractors commit to 40,000 annual apprenticeships and jobs for young people",
+    "summary": "Defence contractors have pledged to create 40,000 apprenticeships, work experience placements, and job openings for young people each year. Health Secretary Wes Streeting, characterizing his role as leading a \"ministry for growth,\" positioned the commitment as evidence that Labour's planned increase in defence spending will translate into domestic UK jobs. The pledge is part of Labour's broader effort to justify accelerated defence investment, which may necessitate tax increases, by demonstrating tangible employment benefits.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/education/2026/sep/23/uk-defence-contractors-40000-apprenticeships-work-placements-jobs-wes-streeting"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Russia wages 'industrial-scale assault' on UK's information environment, Burnham tells UN",
+    "summary": "Prime Minister Andy Burnham has accused Russia of conducting an \"industrial-scale assault\" on the UK's information environment, using bot armies and fake websites to spread disinformation, interfere in elections, foment discord, and damage inter-community relations. This argument updates former US President Barack Obama's 2020 warning about an \"epistemological crisis\" facing democracies, where the ability to distinguish truth from falsehood corrodes institutional trust. The Guardian's editorial commentary notes that while the Russian threat is real, the story is incomplete without acknowledging how domestic extremists amplified by US technology platforms contribute to the same erosion of shared factual reality\u2014a point suggesting the disinformation problem is not solely foreign-originated but enabled by complicity in domestic technology infrastructure.",
+    "bias_label": "Editorial opinion piece alongside news context",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/commentisfree/2026/sep/23/the-guardian-view-on-russian-disinformation-a-foreign-threat-that-relies-on-uk-complicity"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Trump orders US diplomats to say 'super intelligence' instead of 'artificial intelligence'",
+    "summary": "Following a call from Donald Trump, the Trump administration has instructed US diplomats to use the term \"super intelligence\" rather than \"artificial intelligence\" in official communications. The directive appears to reflect a reframing of how the US government discusses AI capability and represents an attempt to influence the terminology used in international discourse on the technology.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDBXSVlKYjVLV1hzNnphbmpRampOMGcxUDBCVDdfanV2QmNUWk5fTW5PMFJ1SzB1VUZUQ25GUG55YXgycE13eU5jSlNiUGk5MUZTSFhHQU9pSlJXX1g3Uk82QXc4YktHdVUycnF4OEplZWRyY2txSVZEQTBHMHU3VHhHSW9NUW9HdnUwelBYdHFFSWlhWnJyUVdTUWI4dE5IODNGY2NDZC0?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Researchers outline potential AI doomsday scenarios seen as risks to humanity",
+    "summary": "AP News reports on research examining scenarios in which AI development could pose existential risks to humanity. Artificial superintelligence (ASI) is a hypothetical form of AI that would exceed human intelligence across all domains simultaneously, including reasoning, creativity, and problem-solving. While ASI doesn't exist today, researchers have warned of potential risks if such systems were ever developed, ranging from economic displacement to existential threats. The piece examines these doomsday scenarios as part of ongoing academic discussion about AI safety and the need for governance frameworks.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVWM2Y2lmU00td3FCNE1PLVc3dERmcTZvRVBKQUtUeHBncUE3djJMcjFwRjJYXzluYWxkaUIyYzBSVHFUTmNvNzNwbWNORExLdlFad2h0Znl4Sm9CNnV1bFc0cGx5WUpLMTZBV2NDM1dER3JObHZ2cTQ1eGQ3QWd3SEN4YWFjY3NHUFNCeXNzaEItX2RnS00yUDVzQlhkc2c?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Bernie Sanders proposes ban on artificial superintelligence and creation of AI oversight department",
+    "summary": "Senator Bernie Sanders has introduced legislation to ban artificial superintelligence development while establishing a new federal Department of AI to oversee the technology sector. ASI refers to hypothetical AI systems that would surpass human-level intelligence across all cognitive domains. Sanders' bill represents a policy push to preemptively restrict development of this theoretical but potentially high-risk technology before it emerges. The proposal reflects growing policy attention to AI governance among some lawmakers, though it faces questions about feasibility and international cooperation requirements given the global nature of AI development.",
+    "bias_label": "Left-leaning; reflects Sanders' known skepticism of emerging technologies and preference for aggressive regulatory frameworks",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUdRQmdleGhGWFdlb2tYWHhuRW5GX1kyWF9pcXA1aFNvNUNNMEJKbURCZmxBWU0xaFlFSWdnelk0LVA3MmF0MXpaNm9PR1VGZFBuYWM2WnV3OXcxTEw0QVI2Ylk5bVpUS3U3MFR1dmNoYTlNMUk0cjRnNDZ0eFhXRldVNjFIT1IzMFE2VjNVelk1VUhIbTRNXzFxMA?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "US and China extend trade truce as Trump administration welcomes Xi",
+    "summary": "Reuters reports that the Trump administration has extended a trade truce with China, with President Trump hosting Chinese leader Xi. The report indicates diplomatic engagement rather than escalation on trade tensions between the two countries. The extension suggests continuation of negotiations or a pause in tariff disputes that have defined US-China trade relations in recent years.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVBYbDJtMVNJRWNyaDlFLXhaWDBIbERYTkRRYVliRGR3eklaai1JTHBhZ2tOTjBqRk1CSTFvOENrMjduNVhWRUFiNzRsbDg0Y1ZJdFlKTy1oSUVBaUpTNlkwVS02emZkaHVUZVRaZjJleVhJWF9uY09xSHZMOVh3YXh2aVMwV09HeGJGSXVZTWZCRE5iNHdNdDI0bDU5aXZvMjJzMQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "UK signals willingness to lead global AI standards-setting efforts",
+    "summary": "UK government official Andy Burnham told the UN that Britain is prepared to take a leading role in developing international standards for artificial intelligence governance. The statement signals UK intent to shape global AI regulation frameworks before the technology matures further. This positions the UK as willing to engage in international coordination on AI policy, potentially counterbalancing efforts by other major technology powers to set standards unilaterally.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNHpCck9HeUt6OXBEQk55bHQ5X2JSOGRuSHVmakpVV1k1R0VTT3JmOTM2RmJyQXVIN255Yk5rdEpIYlp1ZjZaZ3NyX212aUsxLV90eDk0OXJ1cTVkY3FBTVBfQ2hsUlZ5NzBCUm12UGJRam03cHZ1RTU4SHoxYmVwa3hKUFdkSmMtbjVsTkZVeG1FZDEzQUlFX0JCTVB4SHJVNnc?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  }
+]
