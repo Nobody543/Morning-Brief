@@ -1,0 +1,230 @@
+[
+  {
+    "headline": "Burnham launches 'Your First Home' scheme to help first-time buyers without family financial backing",
+    "summary": "Prime Minister Andy Burnham has announced a new help-to-buy programme called 'Your First Home' designed to help first-time buyers in England who have regular income but lack savings for a large deposit or family financial support. The initiative specifically targets those without access to the 'bank of mum and dad,' addressing a structural barrier to home ownership for younger generations without inherited wealth.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics",
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/politics/2026/sep/26/andy-burnham-announces-new-scheme-for-first-time-home-buyers-england"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Burnham: radical change possible despite economic headwinds, fiscal stability crucial before tackling bigger problems",
+    "summary": "On the eve of Labour conference, Prime Minister Andy Burnham told the Guardian that despite challenging public finances ahead of next month's budget, he can still deliver on promises of radical change for the country. He emphasised that achieving fiscal stability is a prerequisite for being able to focus on larger policy reforms, though he indicated room for targeted action even under tight constraints.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/sep/26/burnham-pledges-radical-change-labour-conference-exclusive"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "China and US agree to AI dialogue and tariff cuts on $30 billion in goods during Xi visit",
+    "summary": "During a visit to the US, China and the US have agreed to establish dialogue channels on artificial intelligence and to cut tariffs on approximately $30 billion in goods, marking a moment of potential de-escalation in trade tensions between the two countries.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "China and US establish AI safety channel and agree to continue trade and military talks",
+    "summary": "China and the US have agreed to create an AI safety dialogue channel and to maintain ongoing trade and military negotiations, reflecting a diplomatic effort to manage tensions and establish guardrails around emerging technology competition.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDVpNXhQYUFNLTZHUVJkeGFXYnhyT0hFSm5CeEZxYi0wNTlxMjRxR3ZYdTNxa2I1bmVDZzRDWVRENFRkRTVmb2FxdDlweGpkOEJnODZpaXl1THFxcDQ5MDVNTWpBTVp1VEE4LU9NSjI4X0N5YjIzckFDU29HZktWWWlYWkMybTluQkZ0Mm5IY2NUSEEzeWp3OQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Rayner criticises Home Office visa reforms for care workers as 'disruptive' and moving the goalposts",
+    "summary": "Housing Secretary Angela Rayner has renewed her criticism of Home Office reforms that would require low-paid migrant workers in non-graduate roles to spend 15 years in the UK before qualifying for permanent settlement. She has described the policy as 'disruptive' and as moving the goalposts, having previously attacked it as 'un-British,' signalling ongoing internal Labour government tension over immigration policy.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics",
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cmx2zz035q99o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/politics/2026/sep/26/angela-rayner-care-worker-visa-reforms-labour-conference"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Prime Minister pledges \u00a3210m for high street regeneration fund",
+    "summary": "Prime Minister Burnham has announced a \u00a3210 million fund to support communities in transforming derelict buildings and keeping local businesses open on high streets across the UK, part of broader regeneration efforts.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cve8xx47rnjxo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Northern Ireland court overturns Orange Order march ban after nearly 30 years, allowing loyalist parade down Garvaghy Road",
+    "summary": "A court has overturned a ban and permitted an Orange Order loyalist parade to proceed down Garvaghy Road in Portadown, Northern Ireland, for the first time in nearly 30 years. The march is scheduled for Sunday morning and has raised concerns about potential sectarian violence, following a legal back-and-forth in recent days. (The Orange Order represents Protestant/unionist traditions; Garvaghy Road is a nationalist area, making the route historically contentious in Northern Ireland's divided communities.)",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/sep/26/belfast-court-decision-orange-order-march-garvaghy-road"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Milburn review recommends fast-track disability benefits access for severely disabled young people",
+    "summary": "A government review led by former Labour health secretary Alan Milburn will recommend that severely disabled young people aged 16-24 with complex lifelong needs should receive fast-track, unconditional access to disability benefits rather than having to repeatedly prove they cannot work, removing the burden of ongoing assessments for those with little prospect of employment.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/society/2026/sep/26/severely-disabled-young-people-fast-track-benefits-milburn"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "How long can Labour's feel-good factor last?",
+    "summary": "Laura Kuenssberg examines Labour's transformed spirits since Andy Burnham became PM and asks what challenges lie ahead that could test the party's popularity.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Glasgow City Council pauses fire-and-rehire plan for 23,000 staff",
+    "summary": "Glasgow City Council has paused its plan to dismiss and rehire 23,000 staff members. Talks between the council and three unions will resume early next week in an attempt to reach a new pay deal and avoid the widespread redundancies.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c6kg090rx2kdo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Burnham reaches out to farmers to rebuild trust after Starmer-era tax changes",
+    "summary": "Prime Minister Andy Burnham is attempting to rebuild relations with the farming community following tax changes introduced under his predecessor Keir Starmer that damaged rural relations. The Guardian reports ministers have been engaging with farming activists, with Burnham himself contacting prominent farmers to build bridges.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/sep/26/andy-burnham-farmers-build-back-trust"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Government accelerates work on laws to ban concert ticket touts",
+    "summary": "The government is stepping up efforts to deliver legislation outlawing for-profit resale of concert tickets on platforms like Viagogo and StubHub, a pledge made in Labour's 2024 election manifesto. Artists including Tinie Tempah and Mike Joyce (drummer from The Smiths) have increased pressure on the government to deliver on the commitment to stop fans being exploited by ticket resellers.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/business/2026/sep/26/work-intensifying-uk-laws-stamp-out-concert-ticket-touts"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "China challenges US positions on Iran and Cuba at UN",
+    "summary": "China has pushed back against US stances on Iran and Cuba during a UN speech, signalling ongoing diplomatic tensions between the two powers on Middle Eastern and Caribbean policy.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmFyYk05dGVubEpsSTJ2dGwxcWtFNEx0ZDNybVVaMndCOUpzOTV5SHNjdmw0eHFCQzlsSHZONU91bHVjeU9lQ1RjSTJSM0pZRDhzUUNENHl1b1daMUxkajZ2QklCNTY5bXUxV0dEczRhZTJmU0VKWHhUeWN0OG5OYWRXdWRYUHJOaFJWbjlySGpEdUQtaDdDWThfTWk?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Iran reaffirms commitment to diplomacy after Trump rejects peace plan",
+    "summary": "Following Trump's rejection of a peace plan, Iran has insisted it remains committed to finding a diplomatic solution to regional tensions.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVF9ZM3dkR3ZQUWpnUVNzR0lsd0tkTTZkZ1AwN1RnZzVzQXo3WjZWY0VTNVo4dU9PM3ZfUnBKWUZuTWtRa01jNUxtVHhyZW1TakhIWlhCdl9UV0gxc3BWMUdTZ2x2Z2czNEVNV3JVYkJGOEYzSU5MREtHYldqdXZDXy1jdWlsTVZKR3pZTy1qS01IT1FpZDlkZVBLUHEzTXVDSDFlRWhva1Vsdld3cVhnUXZiYnNxTUhtb2c?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Pope warns artificial intelligence poses risks to humanity on France visit",
+    "summary": "Pope Francis has warned that a \"paradise of machines\" through excessive AI development could undermine human dignity as he begins a visit to France.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0JDWkxQellXWFhSUEQ1QnBGOXkyQ1pHTkptZlAtYzhWbXZtMjJPSzRvRGd6MU01NF9MRE9Ya08wRmlPZEFzdW50TGJUMU9XQ0JBZGNxVVZQVnItaGNIQXVJMld0anFha1M2Z3paWFF0OXVpX1lYSWY5WTRaV1FlREp1T3I?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "House Democrats outline extensive Trump oversight plans, including potential impeachment",
+    "summary": "House Democrats are planning sweeping oversight of the Trump administration, with impeachment cited as an available option if warranted during the coming term.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcy10ZFE2SGc4eGtIcnVnWUNmQ0I3YTZJc3RwX21XNV9BOUpoVFBILURqSy1PRUNxeEtmVWZSRnFDYXBCbHVCdzRKZU9CdHg2bW5qaVhTY0lqTzhDTE0ySlZqaDJnbS1jSlF5aXE1ZzNCdFhUV0xheFY1dV9zLUNJVHZQdXNZcndoV3ZJYmY2SjBSdlJXQUhIeEhJYVJTS2Y2OGt5bXE4cEFBMUdfaDRvRDg0ZzZjMHFaLVB4MDVBLWpZNTFLa29V?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  }
+]
