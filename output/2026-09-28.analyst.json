@@ -1,0 +1,278 @@
+[
+  {
+    "headline": "Burnham announces NHS-style universal social care system for next election",
+    "summary": "Prime Minister Andy Burnham has pledged to fight the next election with a plan to create an NHS-style universal social care system free at the point of use for all in England, addressing what he called the \"unfair\" current system. Speaking at Labour's conference in Liverpool, Burnham acknowledged he is willing to expend significant political capital to fund the service, saying he will \"rip the plaster off\" to radically transform care. The proposal comes as social care remains a long-standing issue Burnham has campaigned on for decades, though the timing means no substantive reforms would arrive before the 2029 election.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "BBC Politics",
+      "BBC Politics",
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/cvlyldk7zek1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/politics/2026/sep/27/andy-burnham-election-nhs-style-care-service-labour-conference"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Social care reform carries high stakes for Burnham's premiership",
+    "summary": "As Burnham pursues his social care overhaul pledge, analysts question whether his reform plans will deliver tangible results or whether he will follow the path of previous leaders who have over-promised and under-delivered on the issue. The BBC analysis examines the political risk-reward balance of his approach, noting that decades of campaigning on social care have made it central to his political identity, but the inherent difficulty of the challenge\u2014balancing immediate fiscal constraints with long-term structural reform\u2014means execution will prove as critical as ambition.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c8y5z63x0ykno?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Institute for Government assesses Burnham's conference test: five critical areas for early proof of leadership",
+    "summary": "The Institute for Government identifies five priority areas where Burnham must demonstrate serious intent at conference to justify the political momentum Labour has gained. First, he must use the moment\u2014when political capital is highest\u2014to prepare the ground for tough budget choices, as the economic outlook has deteriorated since March due to the Iran war, raising inflation and borrowing costs. Second, he must avoid ducking decisions on public service reform, particularly the capacity crisis in prisons, NHS restructuring after the ill-fated abolition of NHS England, and social care delivery timelines. Third, he should lead public opinion on health and disability benefits reform rather than follow it, as two pending reviews (Timms on disability, Milburn on youth employment) will soon require difficult choices about welfare sustainability. Fourth, he must explain how his ambitious devolution agenda will become reality given local government capacity and reluctance to accept mayoral structures without financial incentives. Finally, he should clarify his constitutional reform ambitions\u2014how he ranks electoral reform, Lords reform, and a written constitution against voter priorities. The analysis warns that conference presents both opportunity and danger: while his party is in buoyant mood, a new prime minister with an underdeveloped policy agenda faces intense lobbying from party members to commit to their priorities, and the true test of leadership will be setting expectations for difficult choices rather than pleasing the membership.",
+    "bias_label": "think-tank analysis; generally neutral but advisory in tone",
+    "headline_only": false,
+    "sources": [
+      "Institute for Government"
+    ],
+    "links": [
+      "https://www.instituteforgovernment.org.uk/comment/labour-conference-2026-andy-burnham-pass-test-leadership"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Ed Miliband pledges more progressive foreign policy, acknowledges Labour's Palestine stance fell short",
+    "summary": "Foreign Secretary Ed Miliband will tell the Labour conference that the party's previous approach to Palestinian rights was insufficient and that the Burnham government will pursue more explicitly progressive foreign policy. Miliband will announce sanctions on Israeli settlements as part of a shift toward what he frames as a new era of principled diplomacy, with the UK positioning itself as a leader among like-minded countries. This represents a repositioning from Labour's earlier stance, responding to pressure from party members and campaigners who pushed the party to take a stronger stance on Palestinian issues.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/sep/28/ed-miliband-labour-former-stance-palestine-fell-short"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "UK opens new legal refugee routes prioritizing Afghan women and Palestinians",
+    "summary": "Home Secretary Shabana Mahmood will announce a new legal refugee resettlement scheme that unfreezes paths for Afghan women and girls and Palestinians, putting the most vulnerable on a faster track to permanent status. The move marks a significant shift in approach after the abrupt closure of the Afghan resettlement scheme last year and subsequent tightening of refugee protections that kept status under constant review for two decades. However, experts quoted note that the numbers involved are too small to materially deter Channel crossings, suggesting the announcement addresses political commitments to specific vulnerable groups rather than systemic migration challenges.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/sep/27/shabana-mahmood-uk-refugee-resettlement-scheme-afghan-women-girls-palestinians"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Burnham's radical reset agenda clashes with deteriorating economic conditions",
+    "summary": "As Labour converges on Liverpool, PM Burnham promises \"stability\" in public finances, but the economic backdrop is darkening. The Guardian's economics commentary flags that surging energy bills, higher borrowing costs, and rising inflation\u2014driven partly by the ongoing US-Israeli conflict with Iran\u2014are creating fiscal pressures that may force uncomfortable choices. Longer duration of the Iran war increases the likelihood of higher UK mortgage rates and energy bills just as the government wrestles with its own rising borrowing costs, creating a bind between Burnham's reform ambitions and the fiscal constraints he will face when presenting his first budget.",
+    "bias_label": "opinion/analysis column",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/business/2026/sep/27/burnham-plan-radical-reset-economic-reality"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Trump indicates willingness to meet Anthropic CEO amid AI policy debate",
+    "summary": "President Trump has signalled he would dine with Anthropic CEO Dario Amodei amid mounting debate over AI policy and governance. The development underscores the high stakes around AI regulation as the technology develops rapidly and political figures engage directly with major AI firms.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXRoRE9HbFkyajhqd25WRy1GRFQtTGlncWhsTEJMS0N4YWxLV21rRml3TlVtZm1FUTlLQmJidHEtZlpodF9Mb2N6TGhzaE83NnJ1ZC0za0VjYW1QYUJJUDZ5ZktLXzdxX21ON0dKbjNaLU1YRUI2V2JhN0s4NVBiY3E0ZjZXenBKckdmcmxKWGhxVkU3Q2xCTlE5S2t4NXplakVWV1EtYk54MEtDTEF2VFFhTlRZb00zUEln?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Anthropic and OpenAI raise AI safety alarm and seek influence over regulation",
+    "summary": "Major AI companies Anthropic and OpenAI are publicly sounding warnings about artificial intelligence safety risks while simultaneously seeking to shape how AI will be controlled and regulated. The positioning reflects both genuine concerns about emerging risks and corporate interest in influencing the regulatory framework that will govern the industry.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1V4cHRDMlBrTDlxNlRReXJ5S2lkWFZWRmpFY3g3ZUlHbENldDRnRGRhTVhsZnU4bTZPLUNvbmlQenhqSndSSEtDVEVHQXU1VWpMSThJVWlVbHBTMkpScFVZUUdkSk1jZHJwaDhlQV9BR2dwUlNDVnlmY1Rtd0xuTWxxLVl2Y2M5NEhlWHp6Q2UwNXJSZVE3LWV3WF9ad21iSS1r?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Work and pensions chief rejects current benefits system as barrier to employment at Labour conference",
+    "summary": "Labour's work and pensions secretary has condemned the existing welfare system for consigning too many people to a life on benefits rather than enabling them to work. The statement came as Prime Minister Andy Burnham discussed social care reform at the Labour party conference, with the Health Foundation estimating that a free-at-point-of-delivery social care system similar to the NHS would cost \u00a318bn. Burnham contested this figure as \"not that high,\" while deferring specifics to Louise Casey's ongoing official review, promising to outline his vision in a conference speech on Tuesday before determining implementation timescales.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Labour risks repeating two-party politics nostalgia in fragmented political landscape, argues Harris",
+    "summary": "Guardian columnist John Harris criticises Labour's \"Hope Again\" conference slogan as symptomatic of the party overlooking structural changes to British politics. Harris argues that the two-party system Labour may be nostalgic for is genuinely over, with Reform UK remaining a persistent electoral force despite current troubles. He points to concerning signs including quasi-paramilitary groups and local protests against asylum accommodation (citing a planned referendum in Barnham, Norfolk), while noting that PM Burnham has held cordial talks with a US president Harris characterises as having brought \"modern de facto fascism\" to America and seeking to export it to Europe. Harris suggests Labour must adapt to permanent political fragmentation rather than clinging to an earlier, simpler political order.",
+    "bias_label": "Left-leaning editorial perspective",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/commentisfree/2026/sep/27/labour-party-two-party-politics-reform-andy-burnham"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Burnham defers Heathrow third runway decision pending consultation results",
+    "summary": "Prime Minister Andy Burnham has declined to back a third runway at Heathrow, stating he will wait for the results of a consultation on a scheme with an estimated cost of \u00a333bn.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Labour delegates celebrate Burnham takeover as relief tempered by fiscal concerns",
+    "summary": "Labour conference attendees expressed relief and gratitude that deposing Keir Starmer in favour of Andy Burnham as party leader has proven a successful political gamble, marking a stark contrast to last year's conference when Burnham was sidelined after a failed coup attempt. However, delegates' mood of optimism is tempered by concerns about significant fiscal challenges ahead. The shift signals a dramatic reversal for Burnham, who departed Liverpool early last year after his unsuccessful move against Starmer, but faces mounting budget pressures despite the short-term morale boost.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/sep/27/burnham-bounce-gives-labour-a-second-chance-but-budget-realities-are-looming"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Burnham signals social care as defining priority while deflecting early election speculation",
+    "summary": "Prime Minister Andy Burnham has made clear in an interview that social care reform is his key priority\u2014\"the hill he'll die on.\" The interview also defuses weeks of media speculation about calling an early election, with Burnham stating definitively there would be no snap poll before 2029. Despite ruling out an election he had never genuinely planned, he faced criticism from rightwing outlets of \"bottling it.\" The contrast with his position last year is striking: a year ago, Burnham was attempting a half-hearted coup against Keir Starmer at conference that \"fizzled out almost before it had started,\" leaving him politically damaged and on the fringes. His current position of confidence and authority marks a complete reversal of that failed manoeuvre.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/sep/27/andy-burnham-laura-kuenssberg-show-social-care"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Guardian editorial urges Burnham to nationalise Thames Water rather than seek private sector solution",
+    "summary": "The Guardian's editorial board argues that Prime Minister Andy Burnham should nationalise Thames Water rather than pursue private sector restructuring. Thames Water, which serves 16 million customers, faces a \u00a319bn debt burden and has been placed into a special administration regime following a cross-party parliamentary committee recommendation for temporary state control. The editorial criticises the proposed path of restructuring debt and wiping out shareholders while keeping the company in private hands, arguing this would reward repeated failures including customer service collapse, river pollution, and billions in shareholder payouts. The piece highlights a reversal: Burnham previously campaigned in Makerfield saying there was \"a very strong case for public ownership\" to solve Thames Water's problems, but as PM is now considering allowing elected mayors to \"oversee\" rather than own private water companies\u2014a position the editorial dismisses as insufficient without genuine control.",
+    "bias_label": "Left-leaning editorial stance",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-thames-water-andy-burnham-should-nationalise-this-failed-monopoly"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Hundreds block Portadown loyalist parade after court green-lights first march on nationalist road in 28 years",
+    "summary": "Hundreds of protesters blocked the route of the Drumcree parade\u2014a highly contentious Orange Order march along the predominantly nationalist Garvaghy Road in Portadown\u2014after the Parades Commission granted clearance for the procession to proceed. This is the first time since 1998 that the march has been permitted on this historically significant route, nearly 30 years of prohibition. The decision provoked Sinn F\u00e9in leaders to join protesters on the streets, denouncing it as \"madness.\" Talks were expected to proceed on Monday to resolve the standoff.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/uk-news/2026/sep/27/tense-standoff-loyalist-march-portadown-protesters-block-route"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "European military unpreparedness poses strategic risk as regional tensions rise",
+    "summary": "An UnHerd piece argues that Europe is unprepared for Russia, asserting that wars cannot be won on the battlefield alone\u2014an implied warning about broader strategic, economic, or political vulnerabilities in European readiness.",
+    "bias_label": "Right-leaning editorial perspective",
+    "headline_only": true,
+    "sources": [
+      "UnHerd"
+    ],
+    "links": [
+      "https://unherd.com/2026/09/europe-isnt-ready-for-russia/?edition=us"
+    ],
+    "category": "UK Politics",
+    "priority": 7
+  },
+  {
+    "headline": "Five men arrested near RAF Lakenheath on terrorism offences",
+    "summary": "Five men have been arrested near RAF Lakenheath, a major UK air base hosting US military operations, on suspicion of preparing a terrorist act under the Terrorism Act. Arrests were made after enhanced security was implemented at the base. Trump said those arrested were looking to do \"big damage,\" though full details of the alleged plot remain unclear from the available reports. The base, located in Suffolk, has been central to US military operations in the Middle East, including the conflict with Iran.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World",
+      "Reuters World",
+      "Reuters World",
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOThaUHcwMHZuZEY2dldUNjhYQ29PeWRJdEYxWFBPV3NEUUdSc0l4MkdhN3liTGdyNG9XaEhwWG8xRk8xR29JVlA0ZEV2ZXM3RVZCRDlPSHhzU29Pek9tZVREdUdvOHRXS1ZuaTR0TXVGV253bkplU1lNbG85WXRjYzcwV2ZSekFCa1gtR1RtV09zM3NYeF93?oc=5",
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWHc5RUdiaXQtbXdvOFRWT1JwcmxSdkVKNjZ1YjJqa3lnX1JhWWVaMmVqVUg0UWhkci1VUDhHOUZCelAwb1diVWptYjN4YWE3WDgtdFRYcUhGNGhNR2F3X2xFcUtBcHhPWDFqWXppMU9ZeHBCUGljeW43YVBPSTAzdUh3eVpRMmRxWVdvLUdEcTFKd3VLaXlldEdJZw?oc=5",
+      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ3h5T1ZCaEJEeHBqOUpFdUpoOGVvTkI5Qjgxd29YdEQtYzQ4TVRuM20xQXFLVXpIdllBeGZUa24tbmNyUnFIN2I5dkE1aHBSc0ExSU5JVXdkYVJIYXUyZ3dTQUUtVWdnMHo5TzJXa2YtVjVoTDNJRmE2ZmdIQ3hTRlM5LW9pMnY3R01QellEb2xKbVJ6ZngwYlAwOGpRUDRBUTBkRkc1QmxJWHJfTm1QX2hzYXBWU3ZaTmJzUkZsWUkwdw?oc=5",
+      "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcERWNlhSekhlZGNhNVZ4dTZra2o2b3ZEdGFOeFhYWi02T2JlZ2VPNlZ6ZUQ1ODI1MHc3WElaaVRnV2RlZTlUeHhSR1pSN1NOanZiZkEyNnNtaXhPWS1qYXNrSDlIb1M0S3dwMktBNUJUd244MlZuTHJrNk12SGNCckdRSXBCZWxQWml1MHZHdEkwYjVlSEsyX0FOLTRWYlRZ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Iran's military says it is ready for potential renewed US attack",
+    "summary": "Iran's army has stated it is prepared for a potential fresh US military strike, according to a Reuters report from 27 September. No additional context is provided about what triggered this statement or specific circumstances cited by Iranian military officials.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxQbVBhbkluN19hdE9jdGtYdDdlZXNYWGd3T25HUGREMlVVb2ZZWmlrYU0tYTJreW9YcjlMeUhwdXp2UlNPMTFtUXFOWVh6enk2TG45VEtKNEw1bnZKdTUyQnhNdmZ1VmhEYXhYZkFObl9KcHROa1h0S2QyVE83MnQwMnp5bjN2UTM4NmpKeUM5eFNTQzg4RXRCWFNpZEhmdw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "French far-right parties secure enough Senate seats to form caucus",
+    "summary": "Far-right leaders in France say they have won sufficient seats in recent Senate elections to establish their own parliamentary caucus, marking a further consolidation of the far-right's institutional presence in the French legislature.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaDJBSm5PZEgyWXNtNE5iZkF2cmVCNjhOakZMczZsdHFEd3hlVDdFTU44S0JVaHVmb1ozbEpudjVncUhic3l2RnNIVHltdi16cWZSM1p5M29hZ1ZlRU85aHZvckRSdGJ0X2M3bjVtXy1WS2xQcmh4cjBmUy05MWtXa0hkV2xSSVBHWVBvb1FpeXdob2o5QzRYVmNQV1ZrMFhjRVYwN19UYmRGRXNNOGpQTzEySUZFUjQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  }
+]
