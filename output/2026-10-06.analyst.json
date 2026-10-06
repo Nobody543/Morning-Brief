@@ -1,0 +1,210 @@
+[
+  {
+    "headline": "Conservatives pledge \u00a310bn 'Britannia Shield' air defence system ahead of Russian threat",
+    "summary": "The Conservative Party has pledged \u00a310 billion for a new 'Britannia Shield' air and missile defence system, modelled on Israel's Iron Dome system. Shadow defence secretary James Cartlidge said Britain needs to be ready to defend itself from potential aerial attacks through investment in advanced radar and interceptor missiles. The announcement comes amid NATO allies' warnings of Russian drone incursions into UK airspace, providing the strategic rationale for the policy.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics",
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/politics/2026/oct/05/conservatives-britannia-shield-israel-iron-dome"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Green Party turbulence over 'Zionism is racism' motion deepens amid international criticism",
+    "summary": "The UK Green Party is facing significant internal and international backlash following the adoption of a controversial motion declaring Zionism a form of racism and backing a single democratic Palestinian state in historic Palestine. The party chair of its Jewish members said she could leave the party, while Labour MPs and the European Greens have demanded clarity on the position. Germany's Green co-leader called the policy \"intolerable and unacceptable,\" and Israel's foreign ministry has banned Green Party leader Zack Polanski from entering the country. Multiple sources note the tension between the party's direct-democracy structure and leadership responsibility; The Guardian reports Polanski was absent when members voted, and observers suggest he failed to exercise sufficient influence when the party needed leadership on the divisive issue.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics",
+      "BBC Politics",
+      "BBC Politics",
+      "BBC Politics",
+      "The Guardian Politics",
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cjy56yxxwy3po?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cm4g1dxe50nyo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cjr4yx9663q6o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/cke8r159n0d0o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/politics/2026/oct/05/green-party-england-wales-zionism-racism-vote-europe-germany",
+      "https://www.theguardian.com/politics/2026/oct/05/zack-polanski-may-rue-lack-of-leadership-when-greens-needed-him-to-act"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Franco-British rapprochement offers opportunity for European leadership, analyst argues",
+    "summary": "Dr John N. T. Helferich argues in an academic brief that the recent warming of Franco-British relations\u2014symbolised by the Bayeux Tapestry's loan to London\u2014should be leveraged to build wider European coalitions. He notes two fundamental shifts underpinning this opportunity: Britain's \"special relationship\" with the United States has fractured, especially under Donald Trump's return to open hostility, making Paris less concerned that Britain will bring American influence into closer European integration; and public opinion in Britain has swung decisively against Brexit, with 57% of Britons now saying leaving the EU was wrong and 59% favouring closer EU ties. These shifts coincide with Europe seeking new leadership amid Germany's stated intention to assert itself more militarily. The timing remains largely aspirational; the article appears primarily analytical rather than reporting concrete policy initiatives.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "UK in a Changing Europe"
+    ],
+    "links": [
+      "https://ukandeu.ac.uk/from-the-bayeux-tapestry-to-a-new-entente-the-prospects-for-franco-british-leadership-in-europe/"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "UK's G20 presidency presents opportunity for Andy Burnham to advance progressive agenda on AI and climate",
+    "summary": "A Guardian opinion piece by Michael Jacobs, a professor of political economy at the University of Sheffield, argues that the UK's upcoming G20 presidency\u2014held by Prime Minister Andy Burnham starting next year\u2014represents a crucial global platform that has received little public attention. Jacobs contends that while Burnham has signalled focus on domestic policy, chairing the world's largest economies presents an opportunity to advance progressive priorities on AI regulation, climate action, food security, and broader economic challenges amid global turbulence. The piece is framed as commentary urging the PM to use the role strategically, rather than reporting on announced G20 agenda items.",
+    "bias_label": "opinion",
+    "headline_only": false,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/commentisfree/2026/oct/05/uk-g20-presidency-andy-burnham-global-stage-technology-food-climate-economy"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "AI-assisted targeting systems risk undermining Western military legitimacy by removing human oversight",
+    "summary": "A strategic analysis from War on the Rocks argues that while AI-embedded targeting systems like the Maven Smart System (built by Palantir with Anthropic's Claude) dramatically accelerate military decision-making, they risk becoming a \"strategic own goal\" if Western militaries fail to preserve meaningful human oversight and decision-making. The author, Dan Summers, contends that NATO's eighty-year durability has rested on moral legitimacy, shared values, and rules-based constraint on force\u2014not just nuclear deterrence. As AI compresses the kill chain to machine speed, oversight mechanisms built for human-speed decisions collapse. The piece argues that earlier weapons technologies (radar, automated air defence) still left final human decisions intact, but AI itself reaches verdicts faster than humans can question or understand them. Summers calls for allied governments to agree now on which judgments must remain human before systems are fully integrated, and to redesign (not abandon) oversight structures. This is a defence-focused analysis assessing risks to Western strategy.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "War on the Rocks"
+    ],
+    "links": [
+      "https://warontherocks.com/cogs-of-war/the-ai-assisted-strategic-own-goal-in-the-kill-chain/"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "OpenAI outlines phased approach to EU text watermarking requirement for detecting AI-generated content",
+    "summary": "OpenAI has published its strategy for complying with the EU AI Act's requirement that generated text be machine-identifiable. The company is implementing textGrain, an invisible watermarking technology that embeds a statistical signal into word choices, with a detector that assesses whether passages contain OpenAI watermarks. Starting today, API customers globally can opt in to watermarking for select models (off by default); over coming weeks, watermarks will be added to eligible ChatGPT and Codex output in the EU. Access to the detector will initially be limited to approved researchers and expert organizations. OpenAI acknowledges significant limitations: detection rates drop substantially for shorter or more mathematically constrained text (80% accuracy on 200-token passages vs. 95% on 400 tokens), and editing weakens watermarks (replacing 10% of words reduced detection from 92% to 66%). The company plans to open-source the technology and emphasizes transparency about what watermarks can and cannot reliably indicate about content provenance.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "OpenAI Blog"
+    ],
+    "links": [
+      "https://openai.com/index/eu-text-provenance"
+    ],
+    "category": "AI",
+    "priority": 10
+  },
+  {
+    "headline": "Conservative shadow chancellor promises tax cuts in every Tory budget",
+    "summary": "On day two of the Conservative Party conference in Birmingham, Shadow Chancellor outlined a series of Conservative policies, including a pledge to cut at least one tax in every Conservative budget should the party return to government. The specifics of which taxes would be prioritised were not detailed in the available coverage.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "No. 10 insists RAF Fairford remains safe despite US withdrawal of bombers",
+    "summary": "Following a threat reported by US media, American B-52 bombers were withdrawn from RAF Fairford airbase on Sunday, days after an incident near the base last week. Downing Street has maintained that the airbase remains secure, though the precise nature of the threat and the timing of the withdrawal suggest heightened security concerns at the UK facility hosting US strategic assets.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Prime Minister Burnham's social care plans draw qualified praise, but implementation must accelerate",
+    "summary": "An Institute for Government analysis praises proposals from Prime Minister Andy Burnham on social care and pay for care workers announced at the Labour Party Conference, but stresses that changes must come quickly to be effective. The piece, quoted in the Guardian, notes that while the ambitions are admirable, the timeline for delivery matters significantly to their success.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Institute for Government"
+    ],
+    "links": [
+      "https://www.instituteforgovernment.org.uk/external-publication/ifg-news/burnhams-plans-social-care-and-its-workers-are-admirable-changes-must"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Burnham's surprise Brexit reversal may inadvertently help Tories, while catching his own cabinet off-guard",
+    "summary": "PM Andy Burnham has abandoned Labour's long-standing strategy of remaining ambiguous about Brexit and is now openly arguing Britain should consider reversing its departure from the EU\u2014",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/commentisfree/2026/oct/06/andy-burnham-eu-tories-kemi-badenoch-brexit"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Spain's PM calls snap election seeking momentum on housing crisis",
+    "summary": "Spain's prime minister has called a snap election, seeking to capitalize on perceived momentum around addressing a housing crisis. The timing suggests a strategic political move to consolidate support on an issue that has drawn public attention.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYUJUb21rRnJmOXJKSnBLSXRwLTh5ZFlUWGk0c01pODBGb0lUUXJuRmIxOHRTMTdzRGxTcFBqYXFodGM4V2RRNmlrTk1OZHR4REpqQXgxQ1ZRVnowanpnUE1hbWxzc3E5NkYxUnExVzN0bl94ZUFvUks0LTFzLTk1QUpCbXRPa2hEVHhwa01ZeTNFMDZ2?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "FlyDubai attack probe examines red flags around suspect",
+    "summary": "Investigators examining an attack linked to FlyDubai have identified multiple red flags concerning the suspect involved. The factual summary focuses on what is known so far about the case and concerning indicators that emerged during the probe.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNm9qX3E3UDhoUnlxWnZ4UUR4NFUtLXhrOTA1Q3RqcGpCRnFabVhZRDVqV1dFUlVZZnVSTk5CcmNPTWRoQTFhNXF3ZG1ld2VZOG5iajlMMm5STTZyWUpza1pCb3BaaU94ZkVndVBjVk1fcU5yVXJZbTJoeWswQTJ6WkZjbHBZdmw4WVMtTjlmeEQzUmV3VWZ5Y3FKWkRTUkJ5YjVBMk5tQQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Saudi-backed Yemeni forces claim gains against Houthis near strategic strait",
+    "summary": "Saudi-backed Yemeni forces say they have expelled Houthi rebels from several areas around a key strait, marking claimed territorial gains in an ongoing conflict. The Houthis are Iran-backed fighters who have periodically disrupted shipping in the strategically important Red Sea region.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0w0ZVR4U0toYjViellrallFRmhET1JQaDV3azRxcGpITmhFRFQwY0h5cjlQaC0zM01ZSURLMzdDRkxTLU8zRzVBZENHRnRuYmUwbE1VR19WbWdZdzZ5SGxVMWUtUTVjdEh3UlJycDhwZG5SSVQzX3ZaeVpfbjVJM3U4eEJiU0hfcmZXTFBNbVJsWkVjeWM3MHZWNWktVFlnQ0g1bGJKTQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Quebec separatists win election but miss majority as independence debate intensifies",
+    "summary": "Quebec separatist parties committed to holding an independence referendum have won the province's election but failed to secure a majority government. The result leaves them controlling the legislature without an outright mandate to proceed unilaterally on their core separatist platform.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ1pGcWtHWVIxdy0wNGF4Z1V6Qy1aM1NQaHZaNm9vOXduVV8xbEFjbWZIU2hlV2JlTXJmYU5IeFY0bVBmZmlnUG1iYkduVUFMTmpKNGlLMmM2T3MtemxQNXltUFB4YmhqeWMwbUtacGlYVW9qQ2ROV1hGM2o3eWZLMWlUWEFmai0xOHc?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  }
+]
