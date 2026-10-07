@@ -1,0 +1,282 @@
+[
+  {
+    "headline": "Chancellor plans over \u00a31bn intervention to protect poorer households from January energy bill rises",
+    "summary": "Chancellor John Healey is preparing a major policy intervention for this month's budget to help lower-income households facing significant energy bill increases in January. The spending package, exceeding \u00a31 billion, will primarily expand support for households on certain benefits. Officials are working on radical changes to how much energy companies can charge consumers.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/money/2026/oct/06/chancellor-plans-major-intervention-to-help-poorer-uk-households-with-rising-energy-bills"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "West Bank tensions escalate as settler violence and Palestinian intifada risk intensify",
+    "summary": "As Israeli settler violence against Palestinians in the West Bank has accelerated with apparent military acquiescence, alongside increasingly severe Israeli restrictions on Palestinian daily life, experts warn of rising potential for a new Palestinian uprising or intifada. The article notes that conditions in the West Bank today are dramatically worse than in either 1987 (when the first intifada began) or 2000 (when the second broke out), with Palestinians experiencing virtually no sense of political future. The first intifada began as largely nonviolent and drew on decades of local organizing and civil society; the second (2000-2005) became much more militarized under armed groups like Hamas. Analysis indicates that any sustained new uprising would require organized leadership and civil coordination to sustain momentum beyond initial protest.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "War on the Rocks"
+    ],
+    "links": [
+      "https://warontherocks.com/kindling-catalyst-and-containment-will-the-west-bank-ignite/"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Iran struggles to rebuild missile and drone production after extensive Israeli and U.S. strikes in 2025-26",
+    "summary": "Iranian missile and drone production faces severe long-term constraints after comprehensive Israeli and U.S. military strikes in 2025 and early 2026 systematically damaged both manufacturing facilities and defense supply chains. Since 2024, Iran has expended thousands of ballistic missiles, cruise missiles, and attack drones in retaliatory strikes against Israel and U.S. military bases, and Israeli and U.S. counterstrikes destroyed additional systems and launchers. Though U.S. and Israeli officials have claimed Iran can no longer produce missiles and drones, Iran's rapid recovery through spring 2026 raised concerns among some Israeli officials that production could reach hundreds of missiles per month. In the near term, Iran can likely assemble new systems from prewar stockpiles of finished components\u2014potentially hundreds or thousands\u2014but rebuilding severely damaged industries for long-term production of improved or new systems remains a major challenge.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "War on the Rocks"
+    ],
+    "links": [
+      "https://warontherocks.com/iran-faces-severe-challenges-to-rebuild-missile-and-drone-production/"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Conservative leader Badenoch says she would prefer another election to alliance with Reform UK",
+    "summary": "Conservative Party leader Kemi Badenoch ruled out any deal with Reform UK, stating she would rather call a fresh election. Badenoch also pledged to cut employment costs for young workers aged 21 to 24.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Badenoch's \u00a310bn air defence plan reflects shared UK political concern over military preparedness",
+    "summary": "Conservative leader Kemi Badenoch has unveiled a \u00a310 billion air defense plan, an initiative that reflects broad cross-party agreement that the UK faces growing threats to its airspace and must strengthen its defenses in a deteriorating security environment.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cm86zqg553q8o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Parti Qu\u00e9b\u00e9cois victory in Quebec: independence referendum pledged but delayed until Trump leaves office",
+    "summary": "Canada's Parti Qu\u00e9b\u00e9cois, which won power in Quebec, has promised to hold the province's third vote on independence but plans to delay the referendum until after Donald Trump leaves office.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/videos/cjr4yl39pg4ro?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Conservative attempts to recapture Reform UK voters risk backfiring, analysts warn",
+    "summary": "Research from the British Election Study Internet Panel suggests that Conservative efforts under Kemi Badenoch to win back voters who have switched to Reform UK are unlikely to succeed substantially and risk alienating existing Conservative supporters. The analysis compares Conservative voter destinations since the 2019 election, finding that while the party has hemorrhaged votes to Reform, attempting to appeal directly to those voters by adopting similar positions may alienate the wider moderate base that kept the Conservatives viable. The article notes the party remains in third place in most opinion polls despite talk of a 'Keminaissance' following Badenoch's leadership elevation, with little electoral recovery evident since May 2026.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "UK in a Changing Europe"
+    ],
+    "links": [
+      "https://ukandeu.ac.uk/chasing-reform-voters-could-backfire-for-badenoch/"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Think tank warns Conservative energy efficiency regulation cuts will cost new homebuyers \u00a31,000 annually",
+    "summary": "The Institute for Government, citing analysis quoted in The Guardian, argues that Conservative plans to cut energy efficiency requirements for builders will impose long-term costs on new home buyers of approximately \u00a31,000 per year. The plans are part of broader Conservative conference announcements, alongside proposals to scrap Natural England and the Environment Agency in England.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Institute for Government"
+    ],
+    "links": [
+      "https://www.instituteforgovernment.org.uk/ifg-news/tory-plan-cut-energy-efficiency-rule-builders-will-cost-new"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Labour rules out future cooperation with Greens over Zionism policy",
+    "summary": "Senior Labour figures have said the party is highly unlikely to work with the Greens in future following the Greens' adoption of a policy classifying Zionism as a form of racism. One Labour minister said cooperation was unforeseeable, while a government official called for Labour to formally rule out coalition or other arrangements with the party.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/oct/06/labour-figures-rule-out-working-with-greens-after-zionism-is-racism-vote"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Badenoch announces \u00a32.3bn National Insurance cut for young workers",
+    "summary": "Conservative leader Kemi Badenoch announced a \u00a32.3 billion proposal to halve employer National Insurance contributions on jobs worked by young people. The proposal was set to feature in her speech scheduled for later that day.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "China signals late entry into WHO leadership race",
+    "summary": "China is planning a late entry into the race for the World Health Organization leadership, according to sources cited in a Reuters exclusive.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSkRieWJvclpiRUFlZFdteTRvYWJYRS13aHQ4NHp5QnpGbDBmV2x1MkJPWEZmclJrdnVyczVIakxaRTRKbDhjU0NTaERGVW42YjVSendveEMwd01KTEFORUNPd0w2VHE5MnoyaF9oTkljbzRyeTdQMXpwb0YwcU1YNi0tV2wzWV9qdEw5MUhPaExWZ3c4NkVldHNlSGFYZy1sd210U1BSN2xqQnhoY2psQ3VLUmNwZzN5bnA1UXpJR09zaEdWRUY0aWRDQQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Satellite images reveal attack aircraft at new China-Laos military base",
+    "summary": "Satellite imagery shows attack aircraft and military vehicles at a newly constructed military base in Laos shared with China, according to a Reuters exclusive report.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc2s5NXhEaktubHFvamZHMVhEVEc5cFRIUUUwVzZtMGs5VWlXWlRXRWRfakNuMXozeWZsSUx3QzkxWi01aDJGcjVTaG5CN1Uxd2hTcmhRSHhVV1g1Q3VwZDFpb1JJVUU0LWJVU1JPYjVHeDg3dWhiaGtTN3kwLUIyMjlxanBuX0tDZEdLNFhiZ3Y4VzFtNXFkb3dsMWtzOWM2TTJ5aC1nbmwwbXFRSTFwMWpOZE1ic2QydVlMWmo4b3Bva2dTVzEwYnpVWWU2dw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "School protests in France reach 'heaviest toll in decades'",
+    "summary": "Ongoing school protests across France are causing disruptions described as the worst impact seen in decades, according to Reuters reporting.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmtvTm9vbkpQcVdlWl9Lall5TlIyS1g2aWpJSEh3Z0hKbzdOYmZkRUlNWVRHMkZsOFNaMkwyNjhpVEtfQW9vUjhnTV93VlRGOXVnOUg1M0loSmk1bzF2dFJldExORU9tYTdabmQtTWNMOHkxbWhLZUR4bElDYUp5bWN2RmV2bVhVYVB3WW1KLXJaRVREdVQ1WXpuMUJtUXFk?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Bolsonaro wins significant backing in Brazil despite ballot ban",
+    "summary": "Brazil's former President Jair Bolsonaro achieved significant electoral success despite his name not appearing on the ballot, according to Reuters reporting.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGJQQTNfMUcycE9keHpsOGI5RDRCN0gxbm1acFllTlNBRnVCbWFHb2ExdWZPYUJWLWpHMDVxbk5JdUt2WDNFNGdIWDU3WUxVWnVjUzVWNHpzUTBYQTBVVTdWVE9ZNkJGWkhYbE5DNTVIcXYxY2tOYzBDNTRvR1JUV1ljVDE2WUxHZlZ5MXNaV3RfR2czSFNvcHgyYndHdGtEYWNFbU9oX2VqdTNEaUxNR3B1bw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Kremlin warns Lithuania on nuclear arms ban repeal",
+    "summary": "The Kremlin has warned Lithuania that lifting its nuclear arms ban carries risks of further escalation, according to Reuters reporting.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmQtenlCMkVCU2J2YWRBcHJQTERlMVRVWmY4ZDVUaXVEVHdGazlkZGVqdURreGh1MFRSTkhoWnhBbjZzVHVYekpUd3NHRl9rNDJ4ZXhRU04yQzhnTlZuVWpYLTNtSDlyUXplaERBWVY3eVhBbDMxR2tseUZQdkJVQVZuQVRwTDRZbmRmbEdJZ2tWWFo2b3F6eG9WSXVGMVp3RGx3ZnJLNWExejk4Q2FuQi13MUtFZ1FmdWlYbXk5VQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "US Vice President Vance demands Iran cut nuclear enrichment to end conflict",
+    "summary": "US Vice President JD Vance has stated that Iran must reduce its nuclear enrichment activities as a condition for ending ongoing conflict, according to a Reuters exclusive.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ3R3RzJuRF9NSlo0bWNMaGY3dTdUbXRmSU1BMml2V2RLd0sxazNvVUNRdXpHa21Ebk4tVWtLeHZXMG5xM2ZUVG1aTEJDU0FRWnRHZnozTHQxdVRjeTJvbXRKNzFpNG1wR3RqVDlKMXpXY09hYlFKVlF4RW5uQjJJMXhKOEt3c0ZLWE4tbWZlQW5hUnRnckxmaU1mU0R0SWwzRGNXdGo0ZTVTUXBlSHlfakN1Yw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Ukraine warns of Russian preparations for massive attack",
+    "summary": "Ukrainian President Zelenskiy said on October 6 that intelligence indicates Russia is preparing a large-scale attack. The report comes amid continued fighting in the Ukraine-Russia war, with both sides actively engaged in combat operations.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU3BvN0RtZlBjUkl6T2RMRGhCS1ZhSnl5Q1RqOGRvOTE0aHBNMTVhU1VQc3BkenhpVk9WbVVGd1ZuZDNvRDFXWER6V0xadWtZcFVVVzlNakZ2bENjWl82TVVQZ0xVbTNEUUh5MnBHX1B1Y012SjdQemFSbDI5a1U5eXlOOGpTSUFoYnpJMWdhZThHU2Q0c2szNXlDRFAta3pVQ2czX00xTk5FOVdZSEoxWk54VHBqNmk3SlI0?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "US forecasters raise oil price projections as Iran conflict impacts global supplies",
+    "summary": "The U.S. Energy Information Administration raised its oil price forecasts again, citing the Iran war's drain on global stockpiles. Elevated geopolitical tensions in the Middle East are driving concerns about future energy availability and pricing.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZk8xUmkwZm83ZUdaTWpWaEVibFZzckNxOVFNOG9OTjlWdzJBdXRqWk5GUUFoME5DWXJmNThNRlIzdVBxUXNfeGd5cTFFNjlVZmg1VkFwVXdONzVLNGh0RVF5S203NlRieWFBNEY3b0dnZlZ3MERxUGlYWTRDaGwzYUJaYWJxWjI1WTlJbDNfMFJ0TVlqSjdFNnl6SVF6UVhmQlhNM2pRUnltSDVMMXNmS21JZkMySWNFVjhtbXVSMUw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Russia responds to suspected pneumonic plague death in laboratory worker",
+    "summary": "A laboratory worker in Russia has died after a suspected case of pneumonic plague\u2014the most virulent and rapidly fatal form of plague, caused by the bacterium Yersinia pestis. Pneumonic plague has an incubation period as short as 24 hours and causes severe respiratory symptoms including cough and breathing difficulty; untreated cases are fatal. It is the only form of plague that spreads person-to-person via respiratory droplets from coughing, typically requiring close contact. The case has prompted responses from Russia and international health authorities.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdHd5LXpXdGhUNXZhbEdVWVhSa2FtSUp6Zk5Yekk4UEtlQ3FmOFk4SGh3RmZkSHJmbGJpNXFlMWRTZmd1Q0dlZXo4NGxyTzYxNVk3TEZQOGpwVWE1YlFCcmNFNU5EZE41LUQ4dGh6UXB6S2MxSmhLSTVHTFh1dkpFV2R4azFfZTlpMUFwa3Q3RGZ3alRfMVE?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Germany arrests former intelligence chief on espionage and treason charges",
+    "summary": "Germany arrested its former foreign intelligence chief on suspicion of espionage and attempted treason on October 7, according to Associated Press reporting. The arrest represents a significant development in German national security matters.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSE1QSWgzLVNrRy1fbFdqc0FwdkctYmcyZ2UxcmxxdWdyRENwM3VKSFpqbnpxVUdpcHJISDlpVV96eDdSV3pyZ0UzZUtRZzR1UEhIQlNhaDdjRVVNWUJrN3dyRDAyMTZjcl9rbWx2QW54ZkV4V1lRNXU5bFJURmlhTG42RkxHODJPWmpOWi1hOWVMVDY1N1phMVJrZWtUSDNOcS0zWWdvZlBBNU1YOFNwWmdYaGMzcFg4ODd2c1dB?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  }
+]
