@@ -1,0 +1,288 @@
+[
+  {
+    "headline": "Burnham to hold security talks with German chancellor over Russian hybrid threats",
+    "summary": "UK Prime Minister Burnham will visit Berlin for official talks with Germany's chancellor focused on deepening security cooperation in response to rising hybrid threats from Russia.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Badenoch pledges Conservative plan to scrap inheritance tax on family homes",
+    "summary": "Conservative leader Kemi Badenoch has announced the party would abolish inheritance tax on family homes and allow couples to leave an additional \u00a31 million tax-free to families, aiming to convince voters the party has changed after its 2024 election defeat.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Greens in turmoil over Zionism motion as party investigates member with al-Qaeda connection",
+    "summary": "The Green Party is investigating member Lubna Speitan following disclosure that she was listed in court documents as a \"close friend\" of a man later jailed for supporting al-Qaeda, amid controversy over a party conference motion on Zionism. The dispute has prompted resignations within the Welsh Greens and drawn a rebuke from Brighton & Hove City Council, which says the motion is incompatible with its inclusion commitments and is refusing to host the party's conference centre.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics",
+      "BBC Politics",
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cmwyq4yq0y6do?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cw62yjely758o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c6p9gzg032n4o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Man charged with attempting to break into Farage's home appears in court",
+    "summary": "Joshua Kerry, 28, appeared at Westminster Magistrates' Court and was remanded in custody following allegations that he attempted to break into the home of Reform leader Nigel Farage.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics",
+      "Reuters World"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/ckj0lj6v3g9vo?at_medium=RSS&at_campaign=rss",
+      "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSlpJWk5vRW1mb0dfSlV6eXE3RW5VYTY2LXV3QlZFWVAwclVObTN3VUFYdlljb2h3UlNiYUlRbXJvLWR5eXo1QmFISDF6cnlVbXpuWl9qV2NHTmoxNnd3TXFUdXY0X3RJUWJIU0paek40QTNnWWNRajNxZHpLRnhuS3o5SzJUaU9nZVhmV2ZJLU91Y3hqYTJzNWsyMXRZaUhzODBqWXotLWpsa0tnUkxjX3lJUUhGQWlMbWc?oc=5"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Badenoch lays out inheritance tax cut plan, drawing accusations of prioritising wealthy voters",
+    "summary": "Conservative leader Kemi Badenoch has announced plans to abolish inheritance tax on family homes and introduce a \u00a31 million additional tax-free allowance for couples, a policy critics say prioritises the affluent middle-class base the party is attempting to shore up in southern England.",
+    "bias_label": "left-leaning framing; Guardian emphasises criticism of policy benefiting the wealthy",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/oct/07/tories-prioritising-rich-voters-inheritance-tax-cut-badenoch-conference-speech"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Labour risks worst parliament on record for living standards amid energy and housing costs crisis",
+    "summary": "The Joseph Rowntree Foundation warns that Britain faces a \"dire\" outlook and Labour is on course to preside over the worst parliament for living standards in modern times, driven by soaring energy and housing costs, with the thinktank calling for bold policy action from the government ahead of chancellor John Healey's upcoming budget.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/business/2026/oct/07/labour-worst-parliament-living-standards-thinktank-analysis"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "UK consulate in East Jerusalem to close as Israeli retaliation for West Bank settlement sanctions",
+    "summary": "The UK consulate in East Jerusalem will close on Thursday after Israel ordered its closure in response to a UK ban on trade with illegal Israeli settlements in the occupied West Bank and sanctions on those who help finance them, marking a low point in UK-Israeli relations with reports the UK is considering retaliatory expulsion of Israeli diplomats from London.",
+    "bias_label": "Palestinian perspective; headline frames Palestinians as bearing the cost of closure",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/2026/oct/07/uk-consulate-east-jerusalem-prepares-close-israel"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "IMF chief warns energy shocks, debt, and AI risks threaten global economic growth",
+    "summary": "The International Monetary Fund's chief has warned that an energy shock, growing global debt levels, and artificial intelligence-related risks pose threats to worldwide economic growth.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWc5YTdRc1hIb1hBUXdiRFY1YlZVQ2lOYTN1RVFIMUhBNDh3Q3M4NnJoRWI1Tzhxc255OHpHeS1TcjJSX1ZoTnNaWEo5VTBNQlJ5Q1pEWnFkSnhWSTlnYUtESFhJcnNZNVV0VkgycHZocFZFOU5hcVg1anpIUWtVckNscjJYeURiVmpIX293bTVteUFQNElQczlwcEJDOUZVbnFEc1p4eVQyVFJFWUZhbUc1ODlhSlViODdFTkJqTUNSbzkySGNR?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Germany's AfD party calls for end to Ukraine support",
+    "summary": "Unable to fetch full article text due to access restrictions. The far-right Alternative for Germany (AfD) has called for an end to German military and financial support for Ukraine, according to Reuters reporting.",
+    "bias_label": "German far-right populist party position",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZUw2cS1sTUdybFdNSnFVSHc2NUdkbllGbnk0ZEVBQVFiNmRycnFGVlp2bE40R3NJR2pfd2J6QnJOeDFsNnlscmZsN3ZuZGhsc1FWR0dYaVdtRDVva0hEb3c0U01QUmR1U2UyLWVzMEEzSC1mLV9Oel9oZmhKY3N3UW9JMnY1V2M?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Tanker attacks in Hormuz strait reach highest level since Iran war began",
+    "summary": "Unable to fetch full article text due to technical error. According to Reuters, attacks on oil tankers in the Strait of Hormuz have hit their highest weekly rate since the start of the Iran conflict, according to unnamed sources. The Strait of Hormuz is a critical global chokepoint for oil shipments, and heightened maritime attacks in the region threaten international energy supplies.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMzlOYkh2NkF3OTFOQ0g5RFdjT0VSZXU4Y0U1cDREQnltUF9XM2VBVlk1bER5cTNTS00yaWctcDdnTjI3TG1jeWVxV3JIT2ctb1JVLVg4Nm13aENfNmlQSVQ2dHZLS2dabVYyYXQydWFEQ25SQVY1UkFORHd6djNHUHFkVEpwa3d6WkRiMy15SFRwV3l4anZiSXQ2YmR2bmxWZFhYTFE1YVNBRnc1ZG0tbHJDT1RacGJ6VmRhV3RnQ3g5UmZvdE5xZ3RB?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Yemen's Houthis claim ballistic missile attack on Riyadh airport",
+    "summary": "The Iranian-backed Houthi militant group has claimed responsibility for a ballistic missile attack on Riyadh airport in Saudi Arabia, according to Reuters. The Houthis have conducted multiple attacks against Saudi and UAE targets over recent months as part of the broader Yemen conflict.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPREc3b1M4OVVFbEtXWE45ZWpjeDNiNGpGVnZIdEJQSUU2R2dmdzF4V3hFZ1RMSlgyX0Fmc295aXo3bGtsbHpYSlM5MUVjLXJsM1ZISFV4NVFQN04wY0M4ZFRud3pzVUd2ZjN4S1dRSzNkenVacC1naWFmdUMtRUVYUlQ3MWY4dHRyOHRkTThCcUYxV0NFOU9qNE5fUW92RmlfYmk3Z0ZqWDlfc2VmNVhHS0tPX2k2Ql94SHlCeThTUzJBUQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Russian strikes kill 11 in major Ukrainian assault, Zelenskiy reports",
+    "summary": "Russian forces conducted one of their largest air strikes on Ukraine, killing 11 people, according to Ukrainian President Volodymyr Zelenskiy. Reuters reports this was among Russia's most significant bombing campaigns of the ongoing war.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWmhLUUVKSm9zZnZNQjhTOHVBVTFBaGVQb2JSZHZLcjd1VE04eFpSaXFuYkNUVlRtMlBNWFlaZmRNeGQtenJuWkZxOTk3TFIwbkRzcEppQmdFcGxqblFZcjdmWmw5cVhxSFFYaFlKVFNhOXlvalU2cm5sUVdIVVoxcDRKX051SlFDcFY3Z1ktV3cwbFRuTGM0R0VaRkN6NDY0RWd2NzBEaW5CYzloT1JUZQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Houthi attacks on Saudi airports kill three civilians",
+    "summary": "Iranian-backed Houthi militants claimed responsibility for attacks on Saudi Arabian airports that killed three people, according to officials cited by the Associated Press. The attacks represent part of the escalating aerial campaign by the Yemen-based group against Saudi targets.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUpvM0tkSFpDT2ZLRGFMcjJjVHdTcHFEc19valhyWEVFanpGWTNRa3hxVkRnRVpMY1BEendVZXRyS2lmSUd6NERTUWl1Q0ZtWU5NMGFfalhWS3M0MVFzTjNrSVJ6ZDBCc3FuR2FJcW1kWnc1amZZZGlkMkRzUlhpTUxVdXRUenR1Wndfd1EwcVNtSXBvVUk1ajJVUlBMUjJF?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Russian strike kills at least 25 in major attack on Ukrainian cities",
+    "summary": "Russian forces carried out a significant coordinated air assault on Ukrainian cities killing at least 25 people, an attack that Ukrainian officials said they had anticipated, according to the Associated Press. The strike underscores the sustained Russian bombardment campaign targeting civilian areas.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdm1KQ2ZLdTNrZ2FXVlpWRW8xV29SZ2dhcElNXzlDQkdGSnZ6RU05VThHSFhuVmtBUkRTeUdZazFDSXFUYUhQdDdON2Q3bE1DNFFSeDRUQUp4OGNzYkRHczNQOVkyQzVyVndNOUJmdGxCLUJjdjBNR01Jb2Fnc3FJSXIzeTctcnprakRZcmxFN0xJTXNN?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Nearly half of US ambassador positions remain vacant amid diplomatic staffing crisis",
+    "summary": "Unable to fetch full article text due to access restrictions. The Conversation reports that almost 50% of U.S. ambassador posts stand empty, while political appointees\u2014often lacking diplomatic experience\u2014are increasingly outnumbering career diplomats in ambassadorial nominations. This staffing gap and shift toward less-experienced political appointees could weaken U.S. diplomatic capacity at a critical time.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Conversation (World/Politics)"
+    ],
+    "links": [
+      "https://theconversation.com/missing-ambassadors-inexperienced-appointees-is-washington-dropping-the-diplomatic-ball-293487"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Experts discuss U.S. and European perspectives on nuclear deterrence amid NATO tensions",
+    "summary": "War on the Rocks and the Royal United Services Institute hosted a members-only webinar featuring defense and diplomatic experts from the U.K., continental Europe, and the United States discussing nuclear deterrence strategy. The discussion covered America's extended nuclear umbrella over Europe, the role of independent British and French nuclear forces, and implications for NATO cohesion\u2014topics of heightened relevance as European security challenges evolve.",
+    "bias_label": "think-tank/expert forum perspective",
+    "headline_only": true,
+    "sources": [
+      "War on the Rocks"
+    ],
+    "links": [
+      "https://warontherocks.com/the-atlantic-brief-u-s-and-european-perspectives-on-nuclear-deterrence/"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Anthropic Discloses AI-Assisted Bioweapon Attempts; Lab-Grown AI-Designed Viruses Already Exist",
+    "summary": "Anthropic has reported five instances in which users attempted to conceal their countries while requesting assistance from Claude in enhancing pathogens or toxins. The disclosure fuels ongoing debate about whether AI development should be throttled. The article notes that AI-designed biological viruses have already been successfully cultivated in laboratories, and argues that despite skepticism\u2014framed alternatively as \"AI doomerism\" or dismissed as marketing\u2014these threats warrant serious consideration in biodefense planning. The piece grapples with how to square the technical capability now demonstrated against the uncertainty about how quickly or reliably AI systems might independently develop catastrophic bioweapons.",
+    "bias_label": "War on the Rocks is a defense-focused think tank; this piece leans into taking bioweapon risks seriously",
+    "headline_only": true,
+    "sources": [
+      "War on the Rocks"
+    ],
+    "links": [
+      "https://warontherocks.com/how-to-defend-against-ai-designed-viruses/"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Conservatives United Behind Badenoch, But Face Uphill Poll Battle Against Labour and Reform",
+    "summary": "Conservative Party leader Kemi Badenoch has secured backing from her own party, but the Conservatives remain significantly behind both Labour and Reform UK in opinion polls. Badenoch was elected party leader in November 2024 after the Conservatives' decisive loss in July's general election that ended 14 years in power, and faces the task of rebuilding a weakened opposition.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Reform Party Clears Itself in Internal Inquiry Over Undercover Donations Sting",
+    "summary": "Reform UK has concluded an internal inquiry into an undercover journalists' investigation that recorded party officials discussing how to secure foreign donations. The party's inquiry found it had not broken the law, though the specifics of what the officials discussed or what legal exposure they faced remain unclear from this snippet alone.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/ckly020edl45o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Conservative Inheritance Tax Overhaul: Who Wins Under the New Plan?",
+    "summary": "The Conservatives have proposed a significant change to inheritance tax policy. BBC Verify has examined the plan and its beneficiaries, though the headline-only format means the specific details of the proposal and distributional impact are not available from this summary.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c9kgj8nn8n0yo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  }
+]
