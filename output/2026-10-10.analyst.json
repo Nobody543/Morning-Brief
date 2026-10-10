@@ -1,0 +1,210 @@
+[
+  {
+    "headline": "Labour wins Holborn and St Pancras by-election, taking seat back from Greens with 45% vote share",
+    "summary": "Sagal Abdi-Wali won the Holborn and St Pancras by-election for Labour with 45% of the vote in a relatively low-turnout contest, defeating Green Party leader Zack Polanski who came second on 33%. Labour's deputy leader said the result showed the party is winning back leftwing voters who became disillusioned under Keir Starmer's leadership. The result is notable because it reflects Labour's recovery: the party is now polling 15 points above the Greens, a sharp reversal from earlier when the Greens had been ahead of Labour before Starmer's resignation as Prime Minister. Starmer's old north London seat remains Labour, and the result suggests the initial damage from his tenure is beginning to heal.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics",
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/videos/c95yn70e678po?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/politics/2026/oct/09/labour-byelection-winning-back-voters-on-left-greens"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Conservative inheritance tax proposal criticised as 'myth-based policy making' by Institute for Government",
+    "summary": "The Institute for Government's Jill Rutter has published a detailed critique of Kemi Badenoch's flagship inheritance tax proposal, which she announced at Conservative conference. Badenoch's plan, which won strong applause from party members, would allow homes passed to children to escape inheritance tax\u2014a policy designed to let families retain ancestral estates, Rutter argues. However, Rutter contends the policy rests on a false premise: that adult children desperately want to inherit and occupy their parents' homes. In reality, 90% of properties already attract no inheritance tax, and most adult inheritors already own their own homes (average life expectancy is in the 80s, meaning most \"children\" inheriting are approaching retirement themselves). Rutter also warns the policy would distort the housing market by incentivizing property owners to over-invest in ever-larger family homes as a tax shelter rather than downsizing, the opposite of what Badenoch promised in prior years when advocating stamp duty abolition to improve housing mobility. Rutter concludes the policy would cost billions to solve a problem that doesn't exist and would divert capital away from productive economic investment into unproductive housing assets.",
+    "bias_label": "Policy critique from think tank with strong emphasis on policy failures",
+    "headline_only": false,
+    "sources": [
+      "Institute for Government"
+    ],
+    "links": [
+      "https://www.instituteforgovernment.org.uk/comment/kemi-badenochs-inheritance-tax-proposals"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Liberal Democrats face leadership revolt as Treasury spokesperson resigns over Ed Davey's performance",
+    "summary": "Charlie Maynard, the Liberal Democrat Treasury spokesperson and a senior frontbench figure, has resigned in an attempt to unseat Ed Davey as party leader. Maynard's departure signals a growing internal revolt, with the resignation coming after months of frustration over concerns that the party is failing to cut through with voters as the Lib Dems slip in polls. The party's deputy leader, Daisy Cooper, has responded by claiming that \"the vast majority of our MPs support Ed... and are furious at this distraction,\" but the public resignation and the backdrop of declining polling suggest real tensions within the leadership.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/oct/09/ed-davey-faces-growing-revolt-against-leadership-as-senior-lib-dem-mp-quits"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Former ICC judge Navi Pillay wins 2026 Nobel Peace Prize; US sanctions ICC hours later",
+    "summary": "South African-born jurist Navi Pillay, a former judge at the International Criminal Court who specialises in international justice and human rights, has been awarded the 2026 Nobel Peace Prize for her work advancing accountability in that field. The honour arrived with extraordinary timing: within hours of the prize announcement, the US imposed sanctions on the ICC itself, according to Reuters. The precise rationale for the US sanctions was not detailed in the available feed material, but the near-simultaneous occurrence of the prize award and the punitive measure underscores continuing US-ICC tension, particularly over the Court's investigation and prosecution activities.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World",
+      "Reuters World",
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlRoWmxDMW0yZ3V4UFd4OWhXaGZQOWJWWnY1QzRFdnRhU0tQalFJbE1ua3hpWFc3ZlAtbERMbl96cG5rUWt1WjJNMFlsUndsN3JsZ1RSUU9CWE9VUVRhdlhwVVZrQ2NLQXRmVWxEdWYwRDFDYkZ5RE9ZeXhOSlBJSkl6b183Q1dXUmJYTHlQcFpqOFM4VHM0?oc=5",
+      "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
+      "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY1JaUVE4ck5QdnpKRUpKbVJWWVRDbnUxNzBCbmZXNWt1SmZJaVZzZEMwd2tWNUJSUG1WOEdLaEdxUWRwVTBXc291WTdWTlRaTWV5VVVmQV9aLV9PVy1uV3NGT1A0OS0zc2JNTUpsclJvWG11UjRKRW1jeTFYaXp0WkR5Zw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Ukrainian drones strike Russian AI data centre, disabling supercomputers used for Yandex model training",
+    "summary": "Ukrainian military drones have successfully attacked a data centre belonging to Yandex, Russia's largest tech company (often described as \"Russia's Google\"), destroying or disabling supercomputers used for training Yandex's AI models. The strike represents a widening of Ukrainian targeting into Russian civilian tech infrastructure as part of the broader conflict, hitting infrastructure that supports Moscow's development of artificial intelligence capabilities.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Ars Technica AI"
+    ],
+    "links": [
+      "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
+    ],
+    "category": "AI",
+    "priority": 8
+  },
+  {
+    "headline": "Lib Dem deputy leader responds to resignation row, defends Ed Davey's leadership",
+    "summary": "Daisy Cooper, the Liberal Democrats' deputy party leader, has responded to Charlie Maynard's frontbench resignation by defending Ed Davey's leadership, stating that \"the vast majority of our MPs support Ed... and are furious at this distraction.\" Her comments confirm the party's attempt to contain fallout from the resignation, which occurred amid broader concerns that the party is failing to gain traction with voters.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Zack Polanski questioned repeatedly on Green Party's Zionism motion after by-election defeat",
+    "summary": "Following his loss in the Holborn and St Pancras by-election, Green Party leader Zack Polanski faced a series of challenging questions from BBC interviewers about the party's handling of a controversial motion passed by members that declared Zionism a form of racism. Polanski was pressed on why he missed a debate on the motion and whether he believes Israel has a right to exist. The repeated questioning across multiple BBC platforms suggests senior party figures have criticised his response to the motion, and the issue appears to have overshadowed the party's by-election campaign in media coverage.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics",
+      "BBC Politics",
+      "BBC Politics",
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/videos/ckq6ngrzpdzlo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c6qjnv07q452o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/cvkgkzgk50lzo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/cxly4jy042eno?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Prime Minister Burnham pledges to curb non-compete clauses in employment contracts",
+    "summary": "Prime Minister Burnham has promised to restrict non-compete clauses in employment contracts, saying that restrictions on what workers can do after leaving their roles have \"gone too far.\" The pledge suggests planned government action to limit restrictive covenants that prevent employees from working for competitors or setting up rival businesses within a specified period after departure, a measure aimed at increasing labour mobility and worker freedoms.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Milburn review calls for new pre-apprenticeship scheme to tackle youth unemployment gap",
+    "summary": "Alan Milburn's review of Britain's youth jobs crisis will recommend establishing a national pre-apprenticeship scheme in England to bridge the gap between school and work. The scheme would offer further education, training and work experience to young people, addressing what Milburn's earlier analysis suggested could become a severe challenge: youth unemployment potentially reaching 1.25 million by the early 2030s if action isn't taken. The review is responding to a dramatic decline in youth apprenticeship starts and represents an attempt to provide a structured pathway for young people currently falling out of the job market.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/education/2026/oct/10/pre-apprenticeship-scheme-landmark-alan-milburn-youth-jobs-crisis-report"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Political rivals prepare for possible Clacton byelection as Farage faces standards inquiry",
+    "summary": "Rivals are preparing for a byelection in Clacton, the seat held by Nigel Farage, amid speculation that a standards investigation into his \u00a35m gift is nearing conclusion. Conservative sources say the party is ready to contest the seat, though senior shadow cabinet figures are divided on whether it would be winnable given Farage's successful byelection victory over the summer. The inquiry and potential byelection would force a fresh contest in a seat Farage recently won.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/oct/09/nigel-farage-byelection-clacton-seat-speculation-5m-gift-inquiry"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "UK coastguard chief Virginia McVea faces resignation calls over disputed pay-cut claim data",
+    "summary": "Virginia McVea, chief executive of the Maritime and Coastguard Agency, is facing calls to resign after an Office for Statistics Regulation investigation found that her agency misrepresented evidence for a controversial plan to remove pay from rescue officers. McVea had claimed over 90% of coastguard rescue officers supported the proposal, citing an official survey, but the regulator concluded the poll data did not sufficiently back up that assertion. The episode raises questions about the use of unverified statistics to justify contentious policy changes.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/society/2026/oct/09/maritime-coastguard-agency-uk-virginia-mcvea-faces-calls-to-resign"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "China and EU reach deal to halve Chinese hybrid vehicle exports",
+    "summary": "China and the European Union have struck a deal aimed at reducing Chinese hybrid vehicle exports to EU markets by half. The agreement appears to be a compromise to address EU concerns about rising Chinese vehicle penetration in European markets, a key tension point in EU-China trade relations.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTHg5eDd4SHlldjU0OVlpTEVOaHB0QVpIOGhaTm9CSVN2WmE2RUtobThWUkpGM1NrMFVxeVFKMnctbEF4aV9JQnZIT0RjaXlWVHBhb3Noam5HemZnd0ZRTy1TSEJjUFljMl9md29ESGFUeVFha29xaWd0a050VjVjV2pFRS1qUWVJVm04SDJJUjRGcXBQUzE3TzhDaV9SWHR6TndZaGhMRUlib0NSekZFenBpUUtuTnZZSy1JekRHaDZoLTA?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Ethiopia says it must defend itself against Eritrea's 'all-out invasion'",
+    "summary": "Ethiopia has declared that it must defend itself against what it characterizes as an all-out invasion from Eritrea, signaling renewed military escalation in a region with a history of conflict. The statement indicates serious cross-border tensions between the two nations.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGFWemFVVDlKWFhiNWRtNXFCTmNyWGhINDBId0VUbUk4bGgta3dwOUlUNXZUZ3pSTmFocG5KY2dkYWRoRktkbDdpX0hiY0w2Si1kWkhfUkhPdHRlX1M1emZVQzBnbkVNU2paNU01RmdiWDZvTHhDaXBqVHN2ZFhud05NeUxJajlJeHVrSDNTeVpFcjA2RXU0THFSeWZDOFJJT0s3UlhHclFKLWJIYmxhdXpTaGcwYm5GWHc?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Study finds AI coding agents produce more output but face human review bottleneck",
+    "summary": "Research shows that while AI coding agents are generating more code, gains in coding efficiency are being absorbed by a human review bottleneck rather than translating into proportional increases in completed software output. The finding suggests that the efficiency gains from AI-assisted coding face practical limits when integrated into human-centered development workflows.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Ars Technica AI"
+    ],
+    "links": [
+      "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
+    ],
+    "category": "AI",
+    "priority": 8
+  }
+]
