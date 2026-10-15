@@ -1,0 +1,176 @@
+[
+  {
+    "headline": "PM Burnham pledges unwavering UK support for Ukraine as Zelensky visits London",
+    "summary": "Prime Minister Andy Burnham welcomed President Zelensky to Downing Street on Wednesday during Ukraine's leader's effort to bolster support among European allies amid friction with Donald Trump. Burnham assured Zelensky that UK support for Ukraine \"will not change.\" According to reports, Zelensky plans to discuss intelligence sharing difficulties and Starlink access with the Prime Minister. The visit reflects UK commitment to Ukraine five years into Russia's invasion, though the Guardian's live reporting also highlighted a parallel diplomatic row involving opposition leader Kemi Badenoch's criticism of Nigel Farage over Chagos Islands negotiations\u2014a separate issue that Trump administration allies reportedly viewed as needlessly undermining the Anglo-American relationship.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "BBC Politics",
+      "BBC Politics",
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Four years on, nuclear escalation remains latent risk in Ukraine war despite frozen front lines",
+    "summary": "Jeremy Shapiro revisits his 2022 warning that the Russia-Ukraine war was heading toward nuclear escalation. Four years into the conflict, Shapiro argues we remain \"on that path,\" but assesses the immediate risk as lower than in late 2022 when Russian forces teetered on the brink of defeat. Nuclear use would require one side to face catastrophic military defeat with existential consequences for regime leadership\u2014a scenario less imminent with front lines now moving glacially and stalled across most sectors. However, if Ukrainian and Western plans to roll back Russian forces in eastern Ukraine and Crimea succeed, nuclear escalation would again become an acute concern. The piece appeared in War on the Rocks, a defense-focused publication.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "War on the Rocks"
+    ],
+    "links": [
+      "https://warontherocks.com/the-paradox-of-victory-when-winning-in-ukraine-raises-the-nuclear-stakes/"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "UK doubles down on military AI ambitions with Ukraine partnership and US deal, but lacks safety guardrails",
+    "summary": "Prime Minister Andy Burnham signed a landmark partnership on August 24, 2026, making the UK the first international partner to access Ukraine's Avengers AI Labs\u2014allowing British military AI systems to train on real battlefield data from five years of warfare. The UK also announced a September 2022 AI and autonomy partnership with the United States focused on military interoperability and critical infrastructure defense. The UK's Defence Investment Plan allocates over $6.6 billion to autonomous systems by 2030. However, commentators Georgia Cole and Isabella Wilkinson warn that rapid integration of military AI risks creating security gaps: \"Kill switch\" anxieties circulate in Westminster about deepening dependency on an untrustworthy US ally, and the government lacks mandatory testing, transparency, and safety guardrails. Historical lessons from Israel's Gaza operations\u2014criticized by human rights organizations for using AI in ways accused of contributing to civilian harm\u2014underscore the stakes of deploying these systems without robust oversight.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "War on the Rocks"
+    ],
+    "links": [
+      "https://warontherocks.com/the-united-kingdoms-military-ai-ambitions-need-guardrails/"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Three Reform UK councillors resign after ITV sting captures racist, misogynistic and violent comments",
+    "summary": "Reform UK faced a fresh crisis when ITV's undercover investigation broadcast on Wednesday captured party councillors and election candidates making graphic threats of extreme violence, racist slurs, and misogynistic remarks. Three councillors have resigned or been suspended as a result. The BBC reported that those filmed have all come under investigation with some having already resigned or been suspended. The Guardian characterized it as a \"fresh crisis\" for the party, which has faced previous scandals. The incident underscores continuing internal discipline problems within Reform ahead of ongoing electoral cycles.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "BBC Politics",
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cw3dj458re1vo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/politics/2026/oct/14/reform-uk-councillors-and-candidates-filmed-making-racist-and-extreme-comments"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Hospitality records show Burnham met Man City chairman twice; PM under pressure over Premier League rule breach",
+    "summary": "Prime Minister Andy Burnham attended two hospitality dinners with Manchester City chairman according to deleted records that have surfaced, adding to political pressure following the club's guilty verdict on Premier League rule breaches. The revelation raises questions about the PM's relationship with the club leadership during the period when those breaches occurred, though the exact scope of the allegations and timing remain unclear from the available snippet.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "UK households paid almost \u00a314,000 extra in costs over five years, TUC warns ahead of budget",
+    "summary": "The Trades Union Congress reported that UK households have paid an average of \u00a313,961 in additional costs for mortgages, loans, energy, and water bills over the past five years, reflecting accumulated pressure from inflation and rising interest rates. With Chancellor John Healey's first budget scheduled for later this month, the TUC urged the government to address the cost-of-living crisis, arguing that hard-pressed households are cutting spending and restraining economic growth. The timing highlights how persistent inflation and higher borrowing costs have eroded household finances even as headline inflation has moderated.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/business/2026/oct/15/uk-households-extra-bills-inflation-tuc"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "UK's approach to China hampered by incoherence and lack of senior expertise, inter-parliamentary report warns",
+    "summary": "An audit by the Inter-Parliamentary Alliance on China (IPAC)\u2014an international grouping of China-sceptic legislators\u2014concluded that the UK's approach to China is \"beset by incoherence\" and handicapped by insufficient senior-level expertise. The report warns that past UK engagement with Beijing has exposed the country to interference risks without delivering promised economic or strategic opportunities. The findings suggest the UK lacks a coherent long-term strategy for managing one of its most complex bilateral relationships at a time of rising geopolitical tensions between China and Western democracies.",
+    "bias_label": "The IPAC is explicitly China-sceptic; the report reflects that institutional perspective.",
+    "headline_only": false,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/oct/14/uks-incoherent-approach-to-china-plagued-by-a-lack-of-expertise-report-says"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Almost two million foreign nationals receive UK benefits or state pension, CSJ inquiry finds",
+    "summary": "A landmark inquiry by the Centre for Social Justice found that nearly two million foreign nationals currently receive UK benefits or the state pension. This figure represents the first comprehensive analysis of its kind examining foreign national benefit receipt. The CSJ, a think tank focused on social policy, released the finding without additional detail available in the provided excerpt about the breakdown of benefit types, eligibility criteria, or policy implications being drawn.",
+    "bias_label": "The Centre for Social Justice is a conservative-leaning think tank; this figure may be presented in a particular policy frame.",
+    "headline_only": true,
+    "sources": [
+      "Centre for Social Justice"
+    ],
+    "links": [
+      "https://www.centreforsocialjustice.org.uk/newsroom/revealed-almost-two-million-foreign-nationals-receiving-benefits-or-state-pension"
+    ],
+    "category": "UK Politics",
+    "priority": 9
+  },
+  {
+    "headline": "UK expands sanctions powers to target supporters of illegal Israeli settlements",
+    "summary": "The UK government has broadened its sanctions regime to add three new grounds for asset freezes and targeting entities: serious violations of international humanitarian law, obstruction of humanitarian assistance, and serious violations of the right to liberty and security of person. The statutory instrument, updating the 2020 global human rights and international humanitarian law sanctions framework, explicitly enables action against those enabling illegal Israeli settlements. The expansion reflects government commitments to apply global human rights obligations with broader reach to individuals and entities that enable unlawful activity.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/oct/14/uk-sanctions-powers-action-supporters-israeli-settlements"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "SpaceX imposes speed limits on Starlink military service, disrupting Ukrainian operations",
+    "summary": "SpaceX implemented speed restrictions on Starlink's military-grade service (Starshield) for Ukraine without warning on October 14, capping terminals to 100 miles per hour, which severely disrupted drone missions, air defence, and logistics operations. Ukrainian officials said the restriction prevented high-speed drones and interceptors from maintaining connectivity, with forces experiencing outages even at lower speeds. Elon Musk stated on social media that \"any limits on speed or usage are decided by the US military and ultimately POTUS\"\u2014placing responsibility with President Trump rather than SpaceX\u2014and emphasized that Starlink's commercial service is restricted to civilian or defensive activities. Ukrainian President Zelenskyy called the slowdown a \"big mistake,\" and officials suggested the timing was politically significant given Musk's close alignment with Trump and recent US pressure on Ukraine over strikes on Russian energy infrastructure.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2VEUDcwZ1kydUhNRmMzSjVVTEdoLUNlS3FVUjctT1JONXNOZjJzS2wwZ21kOVJwakRkbmU4Mnc0THVxMDAwejAyak90aDNWd0N5SElDRF9sbXVUVk54RGUwUko3Z1FlR0RVQlJFTG5LWVdhY2wtdEtmaFp3WEtzZDZoMTNNYnY5WEhyUXczamlWYVNHMzVTczVST2twUkZGMVI3UGZJODdCSGlfZEZzek94bjROQUc0ZnAw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Ohio working-class voters reconsider support for Trump and Republicans",
+    "summary": "Working-class voters in Ohio are reconsidering their support for Trump and the Republican Party, according to reporting on recent voter sentiment in a key swing state.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWno4ZFd2QmdMeXRMUWg2dk1IVGg1VmJ5U19nZVVaZFBueWhMT05PWFZLNnYxZktyVXB4cTlJeGxXdDBROURCazNsN2ZtcnNVcU5MbElLWUhrUklEVjJJcE4zaGFiRXhnVEV6N1ZhRUZlVGpld2pRWm8zNVlJdTJ5UmFYbkl5VXlyeGpOR1RDYXk2SnhiS05RYzJHbUlnaWxxVmU0SDdiR0NaMTFRaTZz?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Le Pen and M\u00e9lenchon gain momentum ahead of 2027 French election",
+    "summary": "A new poll shows Marine Le Pen (National Rally, far-right) and Jean-Luc M\u00e9lenchon (left-wing politician and former presidential candidate) gaining support as France approaches its 2027 presidential election.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTGo4ZU9UdWpJYUdBQXNnUTB4NGQ1cGxhYmlTVmx4TEtqbC11SlgxYTVtUTJHbURwNDhnNFBYZlVDQWF6Z3lISWRabFRSWnkwcUt1Mm41ZXAzUTBtZ29meV9WMlBnQWF5M0NiOTAyZ0xObVhEaEVPYzJCQWFpQWxEZTNyQTdSaHEtV2d3WHFKQUNIYVBRT1hjM0VvMVdsRm56TFg3TUFsclNCRmZtU01n?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  }
+]
