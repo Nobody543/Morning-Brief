@@ -1,0 +1,290 @@
+[
+  {
+    "headline": "Chancellor John Healey set to target banks' profits in Budget tax raid",
+    "summary": "Chancellor John Healey is poised to announce new taxes on Britain's banks in his 28 October budget. Senior banking executives told the BBC they expect to be \"on the menu\" for tax measures. According to The Guardian, the tax raid is intended to help offset damage to public finances from the war in the Middle East. The move comes as Healey is in Bangkok, where the International Monetary Fund praised the UK's progress toward balancing the books.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics",
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "White House ordered restriction on Starshield systems for Ukraine, Reuters reports",
+    "summary": "According to Reuters, an exclusive report reveals the order to limit Starshield systems for Ukraine came from inside the White House. Starshield is a military variant of SpaceX's Starlink satellite internet system, critical for secure military communications in contested environments. The restriction marks a significant limitation on US support for Ukraine's war effort.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFVmdXZNRHVvVzZhYTJWZTRETDgtRElBT0RibUJvX2VfUkI1NGt6Q1lTVmdON21mNjdXTjFNcXBkZlJ5X0NFYkMzOVQwWjZZTjNPN3hlY09Ta3ZUMUVoRm9lWWV4N29rWXV6dXpQNTNCRUhXTHVySUlUZTNaR2dORUVPd3l0SEJOTmJFaTJURnNyTi1icE5qZmsxSDNuNFRKTEd5Q21iSEdtUXJCWEI0UWNwOGZDdw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Equality watchdog opens investigation into Green Party over antisemitism motion",
+    "summary": "The UK's Equality and Human Rights Commission has written to the Green Party following a complaint about a motion describing \"Zionism is racism.\" The party was reported to the watchdog by MPs and antisemitism campaigners.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cmly0np1gldvo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Former DUP leader Jeffrey Donaldson sentenced to 15 years for child sex abuse",
+    "summary": "Jeffrey Donaldson, the former leader of the Democratic Unionist Party (a major Northern Irish political party), has been sentenced to 15 years in prison. He was convicted of 18 counts of sex abuse, including rape, against two women when they were children.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Healey's Budget looms as crucial test of economic credibility",
+    "summary": "An Institute for Government analysis by Hannah White, published in the Financial Times, examines the stakes ahead of Chancellor Healey's first budget. The piece appears to assess whether Healey can use the Budget to demonstrate economic competence and set a sustainable path forward.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Institute for Government"
+    ],
+    "links": [
+      "https://www.instituteforgovernment.org.uk/ifg-news/healeys-budget-moment-he-must-not-miss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Business leaders urge PM Burnham to prioritize repairing Brexit economic damage in EU relations",
+    "summary": "Shevaun Haviland, director general of the British Chambers of Commerce, has called on Prime Minister Andy Burnham to make repairing the economic damage of Brexit his top priority as he reconsiders Labour's red lines on EU membership. Haviland argues that the UK's current trading relationship with the EU is bad for business and welcomed Burnham's reopening of the Brexit debate, even though it creates uncertainty.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/business/2026/oct/16/brexit-economic-damage-andy-burnham-uk-business-eu-trading-relationship"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "UK Defence Secretary Streeting seeks to cool US-UK tensions over Ukraine support during Washington visit",
+    "summary": "UK Defence Secretary Wes Streeting visited Washington to reinforce UK backing for Ukraine and attempt to ease tensions between Britain and the US following a row over Starlink restrictions. Streeting said he was \"reassured directly\" by his US counterpart Pete Hegseth that the Starlink system had been restored. In his speech, Streeting argued that supporting Ukraine serves long-term US interests and presents a business opportunity.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "France backs UK designation under EU's Made in Europe industrial protection rules",
+    "summary": "France has dropped its opposition to including the UK in the EU's \"Made in Europe\" legislation, provided Britain aligns with the EU's position on tariffs for Chinese electric vehicles. This marks a breakthrough for PM Burnham, as France joins Germany in supporting UK designation under the Industrial Accelerator Act\u2014draft legislation designed to protect European manufacturers from low-cost Chinese competition.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/2026/oct/15/france-drops-opposition-to-uk-being-included-in-made-in-europe-legislation"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Ukraine abandons Trump's energy truce and strikes Russian refinery as Zelenskyy says he feels betrayed",
+    "summary": "Ukraine has resumed attacks on Russian energy infrastructure, striking a refinery after abandoning a ceasefire on energy targets that U.S. President Donald Trump announced on October 11. Trump claimed both sides had agreed to halt strikes on each other's energy infrastructure, but Ukrainian President Volodymyr Zelenskyy said he learned of the deal through media reports and was never consulted. Zelenskyy says he now feels betrayed by Trump, particularly after the U.S. president earlier eased sanctions on Russian diesel exports and blamed Ukraine for global fuel shortages. Russia continued striking Ukrainian energy facilities even after Trump's announcement, contradicting claims the ceasefire was holding. The truce was one of several diplomatic overtures Trump pursued, though neither Russia nor Ukraine formally confirmed acceptance before fighting resumed. Russia's sustained attacks on Ukrainian energy infrastructure throughout the war have been a strategic attempt to cripple the country's ability to support its military and civilian population heading into winter.",
+    "bias_label": "Reuters and AP reporting reflects Ukrainian perspective on betrayal and ceasefire violation",
+    "headline_only": false,
+    "sources": [
+      "Reuters World",
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSmt3MmNHZWJGNkVUMEV6MS00VmdnZ3U4LXpGVE5PUk1ZYXA2TjhQWm9lMUtObEVyZTlqejdpeDhKZlV5QVI0dWV6VUE3cXFtSmd3WUQyTldneXBQZjB0dU5lRTItQTc3YWZJRXB6NjRfOGZaVzhYUjExQmhYQ2lWUFlkXzc0TkdNWUl6S0xrMkZBZmNCYWpLUldwVDdsTGh5ZnkxSlFPWEdKWXhzZ2FLRVI3LWk?oc=5",
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOanVvOXBrUl9qVzlNb3ljaFNMclJtU0JkcGMwOHg3WngxQnJhSUc4VzZGV0hvRDBBek9DejBaaTNwWVVSd0thaUt4dXJWZGVEVHdaeXNHQXVpV3pmZVJwN2o2ZDFrTXNGTVdaLTcwY1haLXBlWTRRNnpZSXFFSmllQ0xEdTZHLVRhREJCU3Q3WHlycGhCcEdTSXpjX0VDb1BXYXFiaGp5VjBXQQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Reform UK faces backlash over racist remarks by party members in undercover ITV investigation",
+    "summary": "Reform UK, led by Nigel Farage, has faced renewed criticism after ITV News broadcast an undercover investigation documenting racist, violent, and sexist comments made by party councillors and candidates. The footage, gathered over a year, showed multiple party members making offensive remarks. Farage defended the party's vetting procedures, claiming \"you can't vet for future comments.\" However, a separate Guardian investigation revealed that Farage was warned by senior Reform officials that he was \"protecting\" a high-profile mayoral candidate accused of making racist comments about Labour MP David Lammy, including telling him to \"go home to the Caribbean.\" The investigation also captured Sarah Pochin, one of two female Reform MPs, complaining about sexism within the party, saying other officials \"are so fucking chauvinistic\" and exclude women. The incidents highlight ongoing tensions within the party over recruitment standards and internal culture.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "BBC Politics",
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/crlykvgx1wvxo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/cr9dzq406yddo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "UK threatens visa ban on Eritreans over rejected asylum returns policy",
+    "summary": "Home Secretary Shabana Mahmood has threatened to block all Eritrean citizens from entering the UK unless the Eritrean government agrees to accept the return of rejected asylum seekers and criminals. Mahmood said she would not hesitate to impose such measures on other countries \"refusing to co-operate.\" The Eritrean government's embassy responded by accusing Mahmood of launching a \"perfunctory political gimmick,\" claiming the UK had failed to engage in \"meaningful and appropriate\" dialogue. The dispute reflects tensions in UK immigration policy as the government seeks to enforce deportation agreements with countries of origin.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics",
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/uk-news/2026/oct/15/uk-threatens-to-ban-eritreans-over-returns-policy"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "UK economy grows by 0.1% in August, defying contraction forecasts",
+    "summary": "The UK economy grew by 0.1% in August, exceeding analyst expectations of a slight contraction. Chancellor Healey described the surprise growth as a \"sign of resilience\" ahead of the government's upcoming Budget announcement.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "SNP's Stephen Flynn challenges Burnham on Scottish independence referendum",
+    "summary": "SNP leader Stephen Flynn told the party's conference that independence supporters are \"winning the argument,\" challenging Manchester Mayor Andy Burnham on the issue of a Scottish independence referendum during his conference speech.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cv2d658g1erro?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Culture Secretary Nandy 'minded to intervene' in Sky's \u00a31.6bn ITV takeover bid",
+    "summary": "Culture Secretary Lisa Nandy signaled she is prepared to block Sky's proposed \u00a31.6 billion acquisition of ITV's entertainment division, expressing concern that the deal could affect free expression in media and the variety of Britain's news landscape.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Labour to sever power-sharing deals with Green councils over Zionism stance",
+    "summary": "Labour has announced it will end power-sharing arrangements with Green-led councils that do not align with the party's new position on Zionism, signaling a stricter political boundary between the two parties at local government level.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c6g7x1y577zro?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Farage accused of 'protecting' Reform candidate over racist remarks about David Lammy",
+    "summary": "An undercover ITV investigation revealed that Nigel Farage was told by senior Reform officials that he was \"protecting\" a high-profile mayoral candidate who made racist comments about Labour MP David Lammy, telling him to \"go home to the Caribbean.\" The same investigation also captured Sarah Pochin, one of two female Reform MPs, complaining about sexism within the party, saying other officials \"are so fucking chauvinistic\" and that women are excluded.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/oct/15/farage-accused-protecting-reform-candidate-racist-slurs-david-lammy-itv-film"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "UK threatens visa ban on Eritrea over asylum deportation row",
+    "summary": "Eritrea has withdrawn cooperation with the UK on returning rejected asylum seekers and convicted criminals, prompting the British government to threaten a visa ban. The Guardian describes Eritrea as one of the world's most secretive and repressive states, with documented arbitrary detention and severe restrictions on freedom of expression and religion. The country, located in the Horn of Africa and bordering Sudan, Ethiopia and Djibouti, has not held elections in 33 years since gaining independence from Ethiopia in 1993.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/2026/oct/15/eritrea-repressive-secretive-uk-asylum-returns"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Labour faces pressure to reject 'scrounger' welfare narrative as CSJ releases dependency report",
+    "summary": "A new report from Iain Duncan Smith's Centre for Social Justice claims to identify 3,400 local areas where more than half the working-age population rely on out-of-work benefits, framing them as \"economic opiates\" and creating an interactive postcode map labelled \"welfare hotspots.\" Guardian columnist Frances Ryan argues this language perpetuates harmful \"scrounger rhetoric\" and that Prime Minister Andy Burnham has a chance to reintroduce compassion to welfare policy rather than accepting the conservative framing of mass dependency.",
+    "bias_label": "Left-leaning opinion piece",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/commentisfree/2026/oct/16/right-scrounger-rhetoric-benefits-labour-compassion-welfare"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Labour draws hard line against Green party coalition over 'Zionism is racism' motion",
+    "summary": "Prime Minister Andy Burnham has stated that Labour cannot partner with the Green party while it endorses a \"Zionism is racism\" motion recently backed by Green members, effectively ruling Greens out of future coalition arrangements. The move marks a significant shift from Burnham's previous flexibility on cross-party cooperation. Labour party chair Bridget Phillipson confirmed that unless local Green groups disown the motion, \"Labour will bring any such local arrangement to an end,\" forcing elected Greens in councils like Sheffield and Lewes to choose between maintaining power or adhering to party members' positions. Columnist Gaby Hinsliff argues this represents a new phase where Labour and the Conservatives can exclude populist challengers from power-sharing.",
+    "bias_label": "Opinion piece with political analysis",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/commentisfree/2026/oct/15/andy-burnham-kemi-badenoch-labour-tories-populist-challengers"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Burnham visits Scotland during SNP conference in tactical overshadowing",
+    "summary": "Prime Minister Andy Burnham is expected to visit Scotland on Friday, deliberately timed during the Scottish National Party's conference in Aberdeen, in what the Guardian describes as \"a thinly veiled attempt to overshadow\" SNP leader John Swinney's push for a second independence referendum. The visit marks a departure from Burnham's general restraint toward other political rivals since taking office in July; while he has avoided direct attacks on Nigel Farage and Kemi Badenoch, he has adopted a more confrontational approach with the SNP leadership.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/oct/15/andy-burnham-scotland-visit-snp-conference"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  }
+]
