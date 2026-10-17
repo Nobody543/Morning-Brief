@@ -1,0 +1,290 @@
+[
+  {
+    "headline": "Brexit back on UK political agenda as voters show appetite for closer EU alignment",
+    "summary": "A decade after the 2016 referendum, Brexit is re-emerging as a live political issue. Prime Minister Andy Burnham has broken years of political silence on the subject by signalling openness to revisiting Britain's relationship with Europe at the Labour party conference last month. A poll cited in the report suggests around half of UK voters would now consider rejoining the EU, marking a significant shift from the referendum result. The Guardian notes this reverses the \"once in a generation\" framing former PM David Cameron used to describe the 2016 vote.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/oct/17/brexit-back-british-voters-ready-contemplate-reversal"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Former Foreign Office chief Olly Robbins settles legal claim against government over 2026 dismissal",
+    "summary": "Sir Olly Robbins, who was dismissed as the top civil servant at the Foreign Office by PM Keir Starmer in April 2026 over his handling of the vetting of Peter Mandelson, has reached a settlement with the government over his sacking. Robbins had applied to the High Court for judicial review of Starmer's decision to remove him and has received a six-figure payout as part of the settlement.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "BBC Politics",
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c64g18r402geo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/politics/2026/oct/16/six-figure-payout-olly-robbins-sacked-peter-mandelson-vetting"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "PM Burnham calls for deeper Scottish devolution, moves beyond independence debate",
+    "summary": "On his first substantive visit to Scotland as Prime Minister, Andy Burnham has invited Scottish First Minister Swinney to work together on deeper Scottish devolution, shifting focus away from Scottish independence as a central political issue. Burnham's pitch emphasises finding solutions and moving beyond the independence question.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cmlykv9pey7go?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "All major UK political parties evading the country's fundamental fiscal challenge",
+    "summary": "According to the Institute for Government, at autumn party conferences across the political spectrum, all major UK parties avoided grappling with the genuine fiscal trade-offs facing the country. The Labour government under Burnham promised reforms to the triple lock (the mechanism that sets state pension increases) tied to new social care commitments, but remained silent on broader tax rises needed for sustainable public services. Opposition parties\u2014Conservatives, Reform, Lib Dems and Greens\u2014each proposed different visions (spending cuts, inheritance tax reductions, income tax rises funded by higher taxes on the wealthy) but none confronted underlying pressures. The IfG argues that an ageing population and current service strain mean the status quo is unsustainable; without deliberate action, spending and taxes will rise regardless, yet no party is spelling out which services would shrink or which taxes would increase beyond manifesto retail offers. The institute warns this pattern echoes 2024 and risks repeating \"fiscal fiction\" that has hampered good governance.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "Institute for Government"
+    ],
+    "links": [
+      "https://www.instituteforgovernment.org.uk/comment/no-political-party-acknowledging-uks-fiscal-reality"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Burnham navigates diplomatic minefield as he pursues both Trump relations and closer EU ties",
+    "summary": "A podcast from the Institute for Government examines PM Andy Burnham's emerging foreign policy strategy, which involves managing relationships with Donald Trump's White House while simultaneously exploring a new relationship with Europe\u2014potentially including reversing Brexit. The programme features expert Anand Menon assessing the diplomatic challenges and prospects of these parallel tracks.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "Institute for Government"
+    ],
+    "links": [
+      "https://www.instituteforgovernment.org.uk/podcast/inside-briefing/burnhams-brexit-menu"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Shadow culture secretary Clarke warns against AI market concentration, urges competition safeguards",
+    "summary": "Conservative MP Simon Clarke argues that while cautionary warnings from AI developers about technological risks are important, they must not distract from the broader risk of market concentration as AI is rapidly deployed across the economy. Clarke's piece warns against what he characterises as \"Goog-opoly\"\u2014monopolistic AI control\u2014and calls for regulatory action to ensure competition and choice in the AI sector.",
+    "bias_label": "Conservative perspective on regulation",
+    "headline_only": false,
+    "sources": [
+      "ConservativeHome"
+    ],
+    "links": [
+      "https://conservativehome.com/2026/10/16/simon-clarke-goog-opoly-shows-why-we-need-to-ensure-choice-in-ai/"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "IMF warns AI risks may exceed benefits without ethical safeguards and global framework",
+    "summary": "The IMF chief has cautioned that artificial intelligence poses risks that could outweigh its opportunities unless adequate safeguards and an ethical regulatory framework are put in place globally. The statement reflects growing international concern about AI governance as deployment accelerates worldwide.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2IzOWJIRFRrNjFuc3M5M1RRQUNUS1dQcGVaSVhPa2lZVzd2a0JKamxsTFR4dU5QMThydUVyTks4bXhjM29fOE1oVWltNkVKcnk3ZFZEZmlmWXl5UlZDZXRfSmRfRTltdGU5dGdUbF9hSEI1Qi02R05ScVNvZVJ0V0xvelkxTmFsbXVvM1VjNWRCQU5FZUJXbnFQSUgtYlpxclUtbkV3ejNiVGs2V2pQOS1LNTN5TzZVb00xbGlBVQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "China tightens regulatory grip on AI exports as US-China technology rivalry intensifies",
+    "summary": "Beijing is seeking stricter controls over artificial intelligence exports amid escalating technological competition with the United States. The move reflects China's strategy to maintain advantage in critical AI technology and limit access by rival powers.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Trump Waives Russia-Related Sanctions and Tariffs Under New Law",
+    "summary": "President Trump has waived key Russia-related sanctions and tariffs before they take effect under a new law. The fetch of Reuters' reporting was unsuccessful, so the summary is based on the headline and available snippet alone. This appears to signal Trump's willingness to depart from congressionally mandated Russia sanctions, though the specific mechanisms and scope of the waivers are not detailed in available sources.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Trump Places Russia Sanctions on Hold Despite Having Recently Signed Them",
+    "summary": "President Trump has put new Russia sanctions on hold that he recently signed into law, citing national interest as the justification. The waivers precede the sanctions taking effect. The fetch of the AP reporting was unsuccessful, so this summary reflects the headline and snippet only. The move suggests Trump is invoking executive discretion to delay or suspend congressionally-mandated Russia penalties despite having formally endorsed them into law.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZnJQRmxjVThxTzVHd0pFZ1kwcWtlM0Z1SWUxNVBnRDFFNzBsZmp0TmNFYkEwai0xSW8xcDNvbXpMRU5rU2hoZk1DZ2FuemtfdGVYTlpXN3QwZjV5emVoQlhZa0tDQ0tXM2d1emJRNjJvSHFJYTkwc0pBc1NYc2VyaVVrb2tEb0VEUW9Ka0dhRjM1WER1?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "China Reassesses Its Strategic Relationship with India",
+    "summary": "Chinese experts view India as returning to a middle-power alignment strategy oriented toward economic authority and strategic autonomy, following India's loss of what some Chinese observers call U.S. strategic support. Chinese analysts believe India is now pursuing vigorous outreach to Europe, Japan, Canada and others as part of this rebalancing. The snippet suggests China sees India's recent diplomatic delegations to Beijing as attempts to restore bilateral ties and seek strategic balance. The War on the Rocks piece frames China's view as responding to a perceived shift in U.S. commitment to India, though the full article text was not fetched.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "War on the Rocks"
+    ],
+    "links": [
+      "https://warontherocks.com/chinas-strategic-reassessment-of-india/"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "OpenAI Models Successfully Hacked Crypto Wallet and Breached Websites in Tests",
+    "summary": "OpenAI's AI models successfully hacked a cryptocurrency wallet and breached multiple websites in security testing, demonstrating capabilities that could constitute criminal activity if performed by humans. The exact scope and context of these tests remain unclear from the snippet alone, though the framing suggests this represents either a security vulnerability or a demonstration of concerning AI capabilities in adversarial scenarios.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Ars Technica AI"
+    ],
+    "links": [
+      "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
+    ],
+    "category": "AI",
+    "priority": 8
+  },
+  {
+    "headline": "Reform UK Councillor Resigns Over Racist Remarks Captured in Undercover Investigation",
+    "summary": "Alan Feeney, a Reform UK councillor on Solihull and Birmingham councils, has resigned from all his posts after being filmed in an undercover investigation making racist remarks about Asian homeowners, calling them \"parasites.\" In a Facebook post, Feeney stated \"there is no excuse for my comments\" and accepted responsibility, saying accountability demands his resignation. The incident is part of a broader ITV News undercover operation that captured racist and extreme comments from multiple Reform UK councillors and candidates across the country. Reform UK has stated it has \"improved and prioritised its vetting procedures\" in response. One Reform councillor also characterised the ITV report as \"vote interference,\" though the investigation's findings prompted Feeney's immediate departure.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics",
+      "The Guardian Politics",
+      "BBC Politics",
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c64g1803dkp7o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/politics/2026/oct/16/reform-councillor-resigns-after-being-filmed-making-racist-remarks",
+      "https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cqjdm2nylkz0o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Burnham Requests Manual Records Search Over PM's Former Man City Links",
+    "summary": "Prime Minister Andy Burnham has asked for a \"manual trawl\" of records regarding his former links to Manchester City, following the club's guilty verdict on Premier League rule breaches. The move addresses fresh scrutiny of hospitality dinners the PM has faced in connection with those past associations.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c6x2ve4nr9pgo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Institute for Government Panel Discusses Political Leadership in Democracies",
+    "summary": "The Institute for Government is hosting a November 10 event examining how democratic countries can attract and develop effective political leaders. The panel discussion will address rising populism, declining trust in government, and the challenge of building a diverse pipeline of talented politicians. Panellists will include Australian High Commissioner Jay Weatherill, Harvard Public Policy lecturer Jorrit de Jong, and McKinnon Institute CEO Dr Susan Close, with the event chaired by Institute CEO Dr Hannah White. The event will be held hybrid at 2 Carlton Gardens in London.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Institute for Government"
+    ],
+    "links": [
+      "https://www.instituteforgovernment.org.uk/event/democratic-countries-get-better-political-leaders"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "UK Leaves Door Open to Chinese EV Tariffs as Part of EU 'Made in Europe' Scheme",
+    "summary": "No. 10 has signalled openness to imposing tariffs on Chinese-made electric vehicles should the UK join the EU's Made in Europe package (formally the Industrial Accelerator Act). Downing Street said it would \"welcome the objective\" of UK inclusion after France dropped its opposition to British participation. China has warned such a move would be \"discriminatory.\" The Made in Europe scheme aims to boost European industrial capacity, and Chinese EV tariffs would align with similar EU protectionist measures; UK participation would represent a potential shift toward aligning trade policy with the EU bloc on this issue.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "IMF urges Healey to cut pensions and welfare rather than tax banks in budget",
+    "summary": "The IMF's deputy director for Europe has publicly advised Chancellor John Healey to target savings on pensions and welfare instead of raising taxes on banks, directly contradicting reported plans for additional bank levies in the October budget. The position reflects international financial orthodoxy favouring welfare cuts; supporters of the bank tax argue the sector was bailed out by taxpayers during the 2008 financial crisis and can afford higher contributions now. The timing reflects broader budget tensions between fiscal consolidation priorities and sectoral pressure.",
+    "bias_label": "The Guardian frames bank-tax supporters' position; IMF position presented as institutional guidance",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/business/2026/oct/16/target-pensions-or-welfare-not-banks-imf-tells-john-healey"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Far-right parties surge across Europe with quarter of voters now supporting them",
+    "summary": "Support for far-right, populist parties has reached unprecedented levels in Europe, with nearly a quarter of voters casting ballots for radical right parties in recent national elections\u2014a fivefold increase since 1995. These parties now hold coalition government positions in Croatia, Czechia, Italy, and Finland, and lead polling in Austria, Belgium, France, and Germany. The article is framed around Reddit Q&A responses from Guardian Europe correspondents on the drivers and implications of this trend.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/community/2026/oct/16/far-right-politics-rise-across-europe-afd-germany-elections-your-questions-answered"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Trump says US may strike Iran's Pickaxe Mountain nuclear facility",
+    "summary": "President Trump has indicated the US military may target Pickaxe Mountain, a secretive underground Iranian nuclear facility, in the near term. Pickaxe Mountain (Kuh-e Kolang Gaz La) is a heavily fortified, tunnel-based complex buried roughly 100 metres under a mountain near Natanz in central Iran, approximately 1.6 kilometres south of the Natanz uranium enrichment site that was bombed in US strikes last year. Iran claims the facility is for assembling nuclear centrifuges; analysts suspect it could house uranium enrichment operations or weapons development work. The site has never been inspected by international nuclear watchdogs, and satellite imagery shows ongoing construction and reinforcement of tunnel entrances designed to withstand aerial attack.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWRtOEIzSmZRLXc0aEx6YkF3cGY5a2RwX1pzYmdQZnhqcmkzQUFkbndObFlvZEZybDNwU0lYT1I3U0pUdG9tZzNQTldkRktZajhWaXY2Vjh1NFQtU3BSbE10T2tXREh0dUVVWFQ0TVVsMmcyWDVUS21mQ21FVHVLaTF6M1dCX0NCZndtUy1fd3dXMzZPVDc1WXh3?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Grynspan maintains lead in UN Secretary-General race as voting enters final phase",
+    "summary": "Costa Rican economist and diplomat Rebeca Grynspan, 70, narrowly leads the race to become the next UN Secretary-General in a sixth straw poll held Friday by the Security Council. The current head of UNCTAD (the UN trade and development body) secured the minimum nine encouraging votes needed to remain viable, though she also received five discouraging votes including two from permanent Security Council members\u2014Russia and China, according to diplomatic sources. Two rivals, Argentina's Rafael Grossi (director of the International Atomic Energy Agency) and Guyana's Carolyn Rodrigues-Birkett (former foreign minister), are close behind with eight encouraging votes each. The race is entering its decisive stage with Ant\u00f3nio Guterres's term ending 31 December 2026, though a veto from any of the five permanent Security Council powers could derail any frontrunner. If elected, Grynspan would be the first woman UN Secretary-General in the organisation's history.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWDBseWc1NmlhcXdoLUUwQ2NTYzVOZkVGTXdQXzB0alBKeFpkX285MXZxWUp3VVMzOElaU2hZcTBXRVMwd29NTlpfUXctMWMzdDlWZXV2SVNhM0M1RUpIa3VaMlRnZ0VudTNYZm1hVC1MN211RWx3V2hQVUZUM1hQVnhsTmYwMFI2OVpXMnJBVGl5MkkzeDExTVpqOUpxQ3dXUFFlNFdYV3FBbVdyUUFqNA?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  }
+]
