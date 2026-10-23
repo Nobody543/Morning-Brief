@@ -1,0 +1,282 @@
+[
+  {
+    "headline": "UK to deploy military aircraft against future wildfires following record 2026 summer season",
+    "summary": "The Prime Minister is hosting the UK's first wildfire summit to prepare for future blazes following a record summer of wildfires in 2026.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cwvgd7d4p2vmo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Defence Secretary warns of need to prepare for cyber and climate-driven supply chain disruption",
+    "summary": "The Defence Secretary says the UK needs to be prepared for scenarios that could disrupt essential supply chains, citing both cyber threats and climate emergencies as possible triggers.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "EU and UK consider deferring youth mobility scheme deadline to salvage November reset summit",
+    "summary": "The UK and EU are considering pushing back the deadline for a youth mobility scheme by six months to increase the chances of success at an 20 November reset summit on post-Brexit relations. However, significant sticking points remain: the UK is reportedly still insisting on international tuition fees for EU students, visa quotas, and an NHS surcharge for EU nationals, all of which could derail negotiations as the Prime Minister attempts to unveil a new vision for Britain's long-term relationship with the EU.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/2026/oct/23/uk-eu-brexit-reset-youth-mobility-scheme-summit"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Reform UK donor linked to Iranian religious foundation with ties to supreme leader",
+    "summary": "Billionaire donor Sasan Ghandehari, who pledged millions to Reform UK this summer and donated \u00a350,000 to cover Nigel Farage's Davos costs, previously had business dealings with a powerful Iranian religious foundation under the authority of Iran's supreme leader, according to a Guardian investigation. The revelation raises questions about his past dealings with the Iranian government, which Farage has criticised publicly.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Guardian editorial: AI safety requires global regulation despite US administration obstacles",
+    "summary": "A critical PHP security flaw exposed the dual nature of AI in cybersecurity: the vulnerability was discovered with AI help, but AI also threatens to accelerate exploitation. The piece notes recent AI-related security breaches including an Australian health department hack and a Hugging Face platform raid, and cites UK AI Minister Kanishka Narayan's warning that similar cyber-attacks on Britain are \"likely, if not inevitable.\" The editorial argues that while the current US administration opposes global AI regulation, public demand for protection will ultimately drive agreement on international safeguards.",
+    "bias_label": "Left-leaning editorial perspective critical of current US administration",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/commentisfree/2026/oct/22/the-guardian-view-on-ai-safety-the-push-for-global-regulation-must-advance"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Violent protests escalate in Albania as public anger at Edi Rama's government intensifies",
+    "summary": "Massive anti-government protests have erupted in Albania with demonstrators clashing violently with police. UnHerd's correspondent reported witnessing riot police beating teenage protesters seeking sanctuary in Tirana's Catholic Cathedral, with protesters hurling petrol bombs at officers attempting to charge across the Vodafone Bridge. A nun and protesting teenager expressed fury at the government's failure to help poor Albanians, characterizing the police response as driven by governmental hatred for the protesters. The atmosphere reflects a shift from summer discontent to what the author describes as \"burning, visceral hatred\" directed at Prime Minister Edi Rama's administration.",
+    "bias_label": "Conservative/right-leaning outlet",
+    "headline_only": false,
+    "sources": [
+      "UnHerd"
+    ],
+    "links": [
+      "https://unherd.com/2026/10/the-revolution-arrives-in-albania/?edition=us"
+    ],
+    "category": "UK Politics",
+    "priority": 7
+  },
+  {
+    "headline": "Nordic countries abandon neutrality and accelerate military preparations amid Russian tensions",
+    "summary": "The Nordic region's long tradition of neutrality has ended as countries prepare for potential conflict. Finland-Russia relations have dramatically deteriorated: the Allegro train service between Saint Petersburg and Helsinki has ceased, Russian tourist traffic has stopped, and the previously vibrant cross-border commerce has halted. The piece emphasizes that the region's security posture has undergone \"accelerated Americanization,\" reflecting NATO integration and close US security ties displacing the old non-aligned stance.",
+    "bias_label": "Conservative/right-leaning outlet",
+    "headline_only": false,
+    "sources": [
+      "UnHerd"
+    ],
+    "links": [
+      "https://unherd.com/2026/10/the-nordics-are-preparing-for-war/?edition=us"
+    ],
+    "category": "UK Politics",
+    "priority": 7
+  },
+  {
+    "headline": "IMF and OECD warn that AI advancement could widen wealth gap between rich and poor nations",
+    "summary": "The International Monetary Fund and OECD have warned that artificial intelligence could exacerbate global inequality, widening the divide between wealthy and developing nations.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ0FFZnl0NzhvUHNkTEpENjNIeTlMNktuSk5DRUlZX21yUk9ZTGFhOWNZRGMwRXBrRkV3dmpKMDFUdGZYMlQyYmR0Tm55aUtCSXVWZ0FCZkI5SUQtUGFCXzFRaF9nNW5JU2czZUJmZURDR21VX3FWRXV3a01xMHdZcHlyWDVGNW1MZlBKTkJJNzk3MzBHNXBXcmdFeFVTdS15NG9GSW1jR05Kdw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "EU awards top human rights prize to ICC amid US sanctions escalation",
+    "summary": "The European Union has awarded its top human rights prize to the International Criminal Court shortly after the Trump administration imposed sanctions against the institution. The timing underscores a significant geopolitical rift: the US has increasingly opposed the ICC's jurisdiction and independence, while the EU is reaffirming its support for the court and its role in international justice mechanisms.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeUlQcXVrZnNtRVFtb0d0VldXeG1ya1htcVJyMXVjVklUYTZIZ0p6NXRORTdhY3dtLVRJbDdkSXN3Zm1NUnNTbkFrRVlnWng4VUJ6NVFselBpS0ZrNkhJdTlONVVnbVhYQnhrQ0thRW9oYmk3S1lEQmJaLTJadmhOdV9fSmwzN2diNVU0M0NwWFRITUxuTGlmQjhMdlNFOVZVbks4Wk9jZ2Z6Q1hE?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Extreme heat in Europe kills 50,000 this summer, majority of deaths linked to climate change",
+    "summary": "An estimated 50,000 people died across Europe from extreme heat during summer 2026, with scientists attributing roughly two-thirds of those deaths to climate change. The toll underscores the acute health risks posed by rising temperatures and demonstrates how climate change is now directly claiming lives on a mass scale in populated regions.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiogFBVV95cUxON2Y3SGtTSE5PWlZPdlBnMkUyck9CY3FyUTR6bGx2aHVJQmY3a3kwU0xTSEVHNDB0UE9mdDFjZlJzNVFDaWtkc3ZCcExFOXYwWm4yYXNsblJGeFlZN3pzcVFuN3VzZ3hqVG1zZk1EakhJZ1VJcHh2eloxYlFlRmZXUFphcUc1Y2hZZDdISUUwdHVFdE1TMjVlX0NkLWdqYWhwZmc?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Critical software vulnerability affecting up to 70% of websites faces urgent patch race",
+    "summary": "A major software vulnerability has been discovered that could potentially compromise up to 70 percent of websites worldwide, triggering an urgent global effort to apply patches before attackers can exploit it more widely.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxQQXNid0stVGgtZWpqaVMyd01mNVgzZndaWHhnUTlFT3FKQW1PZ0daVDBfMWxSbThxUzdCSnFNT2U3YWFnMjZvMDVnVFVyUW1DZENvWnFZZU5jRFNCUnlsRE4zU25FZzNpUEUxcDhUYUs3Um1ZZW5tUEc1Z2FwdUF1d2lqVXZ1Z0JyVVkxR1FrZVJ4QTZVX3J4cGZRN2ZiUQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Hackers exploited PHP2Shell vulnerability for four days before vendors were notified",
+    "summary": "Hackers began probing and exploiting a critical PHP2Shell vulnerability at least four days before software developers and security defenders were informed of its existence, giving attackers an early window to compromise systems undetected.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Ars Technica AI"
+    ],
+    "links": [
+      "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/"
+    ],
+    "category": "AI",
+    "priority": 8
+  },
+  {
+    "headline": "UK government plans emergency powers over telecoms during security crises",
+    "summary": "The UK government is moving to grant ministers enhanced powers over telecommunications companies during national security emergencies, specifically including measures to protect undersea cables\u2014critical infrastructure that underpins international communications and data flows.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cwe8lz45d820o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "UK resumes tank barrel production after two decades",
+    "summary": "The UK has restarted domestic tank barrel production after a 20-year gap, with the defence secretary framing the move as evidence that Britain is \"back in the business of making weapons\" for its armed forces, signaling a shift in defence manufacturing strategy.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Newly released files reveal MI5 surveillance of NHS founder Nye Bevan spanning over 20 years",
+    "summary": "Declassified documents show that the British Security Service (MI5) monitored NHS founder Nye Bevan for more than two decades, beginning in the 1930s when he was regarded by authorities as a left-wing firebrand, illustrating the extent of mid-20th century state surveillance of prominent political figures.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c3n049jr2ge5o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "AI minister warns of 500 new vulnerabilities uncovered across UK government systems",
+    "summary": "The UK government's AI minister has disclosed that 500 previously unknown vulnerabilities have been identified within government systems, raising concerns about cybersecurity resilience across the public sector.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Government approves Jackdaw gas field but needs stronger long-term net zero strategy",
+    "summary": "The UK government has approved the Jackdaw gas field off Aberdeen, with Energy Secretary Miatta Fahnbulleh making the case that the decision serves energy security, tax revenue and job creation rather than reducing consumer gas prices. The Institute for Government analysis notes the announcement was well-handled politically\u2014coordinating messaging across ministers and tying future revenues to an ",
+    "bias_label": "Think-tank perspective (Institute for Government)",
+    "headline_only": true,
+    "sources": [
+      "Institute for Government"
+    ],
+    "links": [
+      "https://www.instituteforgovernment.org.uk/comment/jackdaw-government-coherent-net-zero-strategy"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Chancellor Healey faces tight fiscal constraints heading into first budget; must make hard spending choices now",
+    "summary": "Chancellor John Healey delivers his first budget on 28 October facing significant fiscal pressures. Global energy price shocks from Middle East and Ukraine conflicts have eroded the government's buffer against fiscal rules from \u00a324bn to a margin the Institute for Government analysis suggests should not fall much further. The document recommends Healey avoid the temptation to preserve \"headroom\" by delaying tough decisions: borrowing costs are already high, and postponing difficult cuts risks compounding pressures closer to the next election. The analysis identifies multiple spending crises brewing by 2029/30\u2014\u00a3900m in unfunded defence cuts, pressure from a \u00a37bn cost of increasing defence spending from 2.7% to 3% of GDP, and \u00a38\u201315bn in real-terms erosion from inflation alone\u2014making it unrealistic to both protect public services and fund new priorities like adult social care without confronting trade-offs now. Healey is advised to set out a tax strategy with principles and priorities rather than ad-hoc measures, and to provide targeted, time-limited energy support to households facing rising bills (estimated at a 16% jump in January alone) rather than repeating the \u00a335bn costs of 2022\u201323 blanket support.",
+    "bias_label": "Think-tank policy analysis (Institute for Government)",
+    "headline_only": true,
+    "sources": [
+      "Institute for Government"
+    ],
+    "links": [
+      "https://www.instituteforgovernment.org.uk/comment/john-healey-approach-budget-headache"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Burnham should integrate NEET support into broader working-age benefits reform, not create separate system",
+    "summary": "Alan Milburn's review of young people not in education, employment or training (NEETs) has correctly identified system failures\u2014inadequate employment support within social security, overwhelmed mental health services, fragmented local accountability\u2014but the Institute for Government warns against Milburn's reported proposal for a separate benefits system targeting 16\u201324 year-olds. Creating a new system for a group comprising roughly one in ten health and disability benefit claimants would be a \"time-consuming distraction\" and would reintroduce complexity that could undermine local coordination and create problematic incentives around age 25 transitions. Instead, the analysis argues, government should reform the health and disability benefits system as a whole to make it more personalised across all working-age adults, while giving local authorities (mayoral strategic authorities where they exist) flexibility to join-up employment support, education, and health services tailored to their populations. Young people would benefit from targeted intensity where needed but within a unified framework.",
+    "bias_label": "Think-tank policy analysis (Institute for Government)",
+    "headline_only": true,
+    "sources": [
+      "Institute for Government"
+    ],
+    "links": [
+      "https://www.instituteforgovernment.org.uk/comment/fixing-neets-support-milburn-burnham"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Defence Secretary Streeting pursues out-of-court settlement with gay veterans over compensation dispute",
+    "summary": "Defence Secretary Wes Streeting is negotiating an out-of-court resolution to a legal battle over compensation for gay veterans forced to resign from the armed forces because of their sexuality. High court proceedings are underway over Ministry of Defence rules that blocked some veterans from receiving \u00a350,000 payments despite being discharged due to sexual orientation. The Guardian reports talks are happening this week.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/uk-news/2026/oct/23/mod-wes-streeting-legal-battle-gay-veterans"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  }
+]
