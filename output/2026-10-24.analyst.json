@@ -1,0 +1,286 @@
+[
+  {
+    "headline": "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab as part of Budget spending push",
+    "summary": "Chancellor John Healey will unveil AI security spending in Wednesday's Budget, including a \u00a3100 million investment in an AI Biosecurity Lab described as a 'world first'. The initiative is part of the government's spending strategy to bolster UK defences against emerging biological and security threats.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "UK government launches 'Be Ready' campaign urging public to stock emergency supplies amid growing threats",
+    "summary": "Prime Minister Andy Burnham has suggested people stock up on tinned food and bottled water as unexpected events become increasingly common and preparedness becomes wise. Defence Secretary Wes Streeting announced a government 'Be Ready' campaign focused on building national resilience, appearing on BBC Question Time alongside Conservative Tom Tugendhat to discuss the initiative with audiences concerned about everyday threats to national stability.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics",
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/cqj9ky23ymwro?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Ex-Tory campaign chief and wife receive suspended sentences over 2024 election betting scandal",
+    "summary": "Anthony Lee, a former Conservative campaign chief, and his wife Laura Lee have received suspended sentences after he passed confidential information to her about the timing of the 2024 general election, which she used to place bets. The case represents a significant breach of electoral integrity and public trust involving inside knowledge of a major political event.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/ck3r5798p43eo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Institute for Government previews Budget 2026 as Chancellor Healey faces tight fiscal constraints",
+    "summary": "A podcast preview of Wednesday's Budget suggests Chancellor John Healey faces significant challenges in his biggest fiscal announcement yet under Prime Minister Andy Burnham's government. Healey has committed not to raise the three main personal taxes or depart from Labour's fiscal rules, limiting his manoeuvring room to address cost-of-living pressures. An Institute for Government report warns public service performance improvements are unlikely before the next election, raising questions about whether the Budget can meaningfully improve service delivery despite these constraints.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Institute for Government"
+    ],
+    "links": [
+      "https://www.instituteforgovernment.org.uk/podcast/inside-briefing/budget-2026-john-healey-mean-business"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "UK government to intervene in water industry investment and pricing for first time",
+    "summary": "Environment Secretary Angela Eagle has told water company bosses that ministers plan unprecedented intervention in the next Ofwat price review\u2014the regulator's mechanism for setting bills and investment priorities. The government will direct companies to focus on cost control, leak reduction, and eliminating sewage overflows. This marks a significant shift toward direct ministerial control over the historically independent water regulation process.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/business/2026/oct/23/ministers-water-companies-bills-investment"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Russia and Ukraine agree ceasefire in Oleshky town, peace talks planned for next month",
+    "summary": "Russia and Ukraine have agreed to a ceasefire in the embattled town of Oleshky, with both sides confirming the arrangement and working on evacuation timing. The development signals a potential de-escalation, with peace talks scheduled to resume next month, though the agreement remains limited to a single location rather than a broader truce.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World",
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFNJeDNkbkFpbnliam8zamd3UU1pZjgzS1JkNTF3M1dRcG0wbm8yZnpxMmp1UDdGdWpPZ2F4WU95YzZnTzVURnNlbDFId3VzWEpmMnJNQkxSY3ZJRmEycDVFR2F2YUpGaVZLbjZNbm1fTkRiclV6a3pXVmZtekVWaU52aHhHMHl0R3ZjX0hKQ3Z3SjUydzdsSklfRTVReUl2Mkh3RFlZRk0xUW4zVWZkbW5YdEo0UkZsRzZqZ0lIMA?oc=5",
+      "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcllsTk52c1A1a1lKOTR6T2N3aGMxRHAzYURpNl9VbWY4VEM2TlZOYlNGWE4teFJIU3ctb3JYNi1URkVJUUZnQ2ozbFJMeWRlcmZoQ3JYazd6cVdKZ0Y2OWxHR0pRNXFFbENzV05DOWFSa1VaMlZscGNIcXpXaExCeEE4ZmlWX3VZVnBqb3gtS0VaSXpsYVFPVncwalFKM1dXaXdrYmxRVDJkTGdJb2ZGVng0cUctQnZSd09VUERjbXVBLVVDZ3c?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Iran maintains detailed contingency plans to strike undersea cables in Gulf if conflict resumes",
+    "summary": "According to US and allied officials, Iran has developed detailed operational plans to target critical undersea communications cables in the Persian Gulf should military hostilities resume with the United States or Israel. Such strikes would disrupt global financial and communications infrastructure heavily dependent on Gulf undersea infrastructure, making them a strategically significant threat should tensions escalate further.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc28yS2Z0aVExaE1CeEZtYURTUG5NMDBhZnVidVctdjJZak1tMk5oQy1aU0dlQzBJbEV2SWlUdUdxNC1YMngyZEhLM0l3ZmI5dEliUjRPNVdsSnV2QWV2TS1TNVhaN2RTYlpSaEFCMjFHRGs5Z29Cek10c1BfUEZROHpjd2NIRHFfNEhLUGdhbDBXQ2hfXzUtc0daeHZPRlpoTXo5TjlvTVZuWXgwVmtEbG5jemZUWDRvRDJvWVQxb3VKdzZucnBlUEhPZw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "UK government announces $800 million in AI security funding",
+    "summary": "The UK government has set out $800 million of funding directed toward AI security initiatives. The announcement appears related to broader strategy to strengthen the nation's technological defences and position the UK as a leader in responsible AI development and safeguarding.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDJseUNYVnJGcWZWUjlPR0RUSXJHTVItRmh1dkdnNTFiZ2tmTFhUM1p3YnI1T2RGdlpFZ1JWN3BGR2dCajk3Y1pBMlBCYjNFX2dnbjJzZnNJb1BONkNGREFYamNWT1FLRFJXdjdVeEdMUFZnM3FQRXE2VFBIbFdWUVItWEJwd3F4dmFRbHpKTzE4RWpXSGRnTzY4QVdISFJj?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Melania Trump negotiates ceasefire in Russian-held Ukrainian city for humanitarian access",
+    "summary": "According to AP News, Melania Trump has brokered a ceasefire deal in a Russian-occupied Ukrainian city to permit relief aid to enter. The report does not provide additional detail on which specific city, the terms of the agreement, or the scope of humanitarian assistance involved. This represents an unusual diplomatic role for a former First Lady and suggests attempts to facilitate civilian relief in active conflict zones.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Ukrainian forces use deception tactics against automated enemy surveillance in mass autonomous warfare",
+    "summary": "A commentary in War on the Rocks by \u00c9douard R. Maurin\u2014who served in the Pokrovsk command post in January 2025\u2014describes how Ukrainian forces employ deception as a core tactical element in the increasingly automated Russo-Ukrainian conflict. Maurin recounts making a fake radio call he knew Russian forces would intercept; the intercepted message prompted Russian soldiers to reveal their position and prisoner, exposing their true situation. He argues that on a battlefield saturated with sensors and drones, traditional concealment is insufficient\u2014forces must instead generate false narratives (decoys, fake maneuvers, misleading intelligence) to induce wrong enemy assumptions and create \"informational fog.\" The challenge is that modern targeting chains combine both human commanders and automated classifiers, so deception tactics must fool both. Maurin defines effective deception as forcing adversaries to spend more resources engaging decoys than the cost of creating them, while buying real maneuver freedom. He notes that mass autonomous warfare, dominated by unmanned aerial assets, has fundamentally reshaped tactical doctrine and makes diversion essential against drone interdiction on open terrain.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "War on the Rocks"
+    ],
+    "links": [
+      "https://warontherocks.com/deception-in-mass-autonomous-warfare/"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Tory party dismisses activist linked to 'contract killing broker' claim after prior social media work",
+    "summary": "Jack Ross, a Conservative Party activist recently accused of involvement in contract killing brokering, had previously worked under contract for the party's headquarters doing social media work until earlier this year, the BBC reports. The article does not detail the nature of the allegations or the circumstances of his departure from the party contract.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c63r5779vyl9o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Labour demands Green Party councillors disown 'Zionism is racism' conference decision by Sunday",
+    "summary": "Green Party leaders have been given until Sunday by Labour to publicly disown a party conference vote that equated Zionism with racism, the BBC reports. The ultimatum follows internal and external pressure over the policy position, though the article does not specify what consequences Labour is threatening for non-compliance or provide further context on the conference resolution itself.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c81dwz4ygz94o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Government reverses stance on migrant care workers from 'unaffordable' to 'indispensable'",
+    "summary": "Jonathan Portes, writing for UK in a Changing Europe, argues that the government has shifted from portraying migrant care workers as a financial burden to presenting them as essential to the care sector. The article appears to critique this change of framing, suggesting the government has \"moved the goalposts\" on the policy issue, but the snippet does not provide the specific policy details or the government's stated rationale for the reversal.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "UK in a Changing Europe"
+    ],
+    "links": [
+      "https://ukandeu.ac.uk/unaffordable-no-indispensable-the-government-moves-the-goalposts-for-care-workers/"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Institute for Government hosts webinar on Northern Ireland Assembly elections six months ahead of May 2027 vote",
+    "summary": "The Institute for Government is holding an online event on 5 November 2026 to examine the state of Northern Ireland politics ahead of Assembly elections scheduled for May 2027. The event will feature expert panellists including Professor Deirdre Heenan of Ulster University, Sam McBride (Northern Ireland Editor of The Belfast Telegraph), Sir David Sterling (former head of the Northern Ireland Civil Service), and Ann Watt of think tank Pivotal. Topics to be discussed include the performance of the executive since its restoration in January 2024 with the first ever nationalist first minister, political tensions including a row over Drumcree that could threaten the executive's survival, economic performance and budget issues, public service delivery, the implications of Andy Burnham's Brexit reset for Northern Ireland, and intergovernmental relations under Secretary of State Chris Bryant.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Institute for Government"
+    ],
+    "links": [
+      "https://www.instituteforgovernment.org.uk/event/northern-ireland-assembly-elections-2027"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Reform UK prepares appeal as standards commissioner expected to rule against Farage over undeclared \u00a35m gift",
+    "summary": "Reform UK is braced for an adverse finding from the parliamentary standards commissioner over Nigel Farage's failure to declare a \u00a35 million gift from cryptocurrency billionaire Christopher Harborne, according to The Guardian. Multiple Reform insiders have indicated the party expects the initial verdict to find against Farage and is preparing to contest any adverse findings through the appeals process. The party has described itself as being on tenterhooks awaiting the report.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/oct/23/reform-braces-farage-standards-verdict-undeclared-5m-gift"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Free Speech Union convulsed by internal allegations of racism and sexual harassment by senior staff",
+    "summary": "The Free Speech Union (FSU), a campaign group, is dealing with internal grievances involving allegations of racism, workplace discrimination, and sexually inappropriate remarks by senior members, The Guardian reports exclusively. Chief operating officer Sigrun Olafsdottir departed late last week after employees alleged she told a junior staff member she would \"never hire a black person\" in a late 2025 meeting. A second figure is separately accused of making sexually inappropriate remarks about actress Sydney Sweeney. The article does not detail the full scope of allegations or confirm responses from the FSU or individuals named.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/uk-news/2026/oct/23/free-speech-union-allegations-racism-sexually-inappropriate-remarks"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "EU to press UK's Burnham for increased Ukraine defence funding at Brussels summit",
+    "summary": "EU leaders will call on UK Prime Minister Andy Burnham at a Brussels summit to increase Britain's financial support for Ukraine's defence in 2027. EU officials argue that the UK, Canada, and Japan should do more to support Ukraine, noting that previous appeals to these G7 countries for additional aid at recent international meetings have gone unanswered. The summit will also address post-Brexit issues.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/2026/oct/23/eu-uk-summit-burnham-ukraine-defence"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "UK public responds calmly to government's emergency preparedness campaign",
+    "summary": "The UK government's \"Be Ready\" emergency planning campaign has prompted measured increases in sales of essential supplies without triggering panic buying, according to shop owners stocking prepping materials. The article draws a contrast with the government's 1980 \"Protect and Survive\" nuclear war public information effort, which included advice on building fallout rooms and storing bodies\u2014guidance that was met with public scepticism and ridicule. The current campaign appears to be receiving a more measured reception.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/society/2026/oct/23/realistic-and-reassuring-uk-public-responding-calmly-to-be-ready-campaign"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Burnham's \"everyday fixes\" strategy targets small-scale delivery to rebuild voter confidence",
+    "summary": "Prime Minister Andy Burnham has prioritised a strategy of small, visible policy fixes\u2014including measures on bus fares, potholes, and headphone-wearing enforcement\u2014designed to demonstrate to voters that Labour can deliver tangible improvements to daily life. Government insiders report satisfaction with the public response to this approach, which emphasises practical, immediately applicable measures over larger structural reforms. The article frames this strategy through a reference to political satire, suggesting the government is conscious of the need to find policies that are popular and politically safe.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/oct/23/andy-burnham-everyday-fixes-strategy-bus-fares-pubs-potholes-headphone-dodgers"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Trump weighs rapid military conclusion to Iran conflict or prolonged stalemate",
+    "summary": "Donald Trump is evaluating competing approaches to the Iran war: either negotiating a swift end to the conflict or allowing it to continue indefinitely without decisive action. The precise military context and strategic considerations behind this decision are not elaborated in the available snippet.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeGt4QW93RlZCRmRnTV9pMzVTeG55Ty1EbG1wcGU5M0VONm9wM3lEX0lvOEpVcW05OWNSWjJoOTJUSDF5cU1DSFhmZmp2OWdOc1ZPNURIRFF0M3ZzVGxteTRDd2ROZGplLUdWcjJSdUdNUkFoSzYwdDN0dy1yMmttWEdyWGVKeVNmRGE1ODRrcWMzRW9lQTVmMjdsT052QmVFN0Z2cmlRWWM?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  }
+]
