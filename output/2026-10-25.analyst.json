@@ -1,0 +1,272 @@
+[
+  {
+    "headline": "Burnham signals openness to free movement with EU in honest public debate",
+    "summary": "Prime Minister Andy Burnham says he wants a \"factual\" and \"evidence-based debate\" with the public about returning to free movement of people between Britain and Europe, part of broader plans to renegotiate the UK's relationship with the EU. The Guardian reports Burnham has previously suggested the new deal could involve the UK going \"all the way\" and rejoining the EU, with negotiations ahead of an EU summit in November.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics",
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Labour eyes multiple revenue sources for budget without raising income tax",
+    "summary": "Chancellor John Healey is considering four different ways to raise money and boost his fiscal headroom in next week's budget while avoiding an increase to income tax, according to BBC Verify's analysis of options on the table.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Healey's budget to include \u00a31.5bn devolution package to boost regional growth",
+    "summary": "Chancellor John Healey's budget next week will include a major devolution package giving local leaders greater spending power. The plan features a new \u00a31.5bn borrowing facility to be developed with mayors over two years, fulfilling PM Burnham's pledge that local leaders in England will no longer have to \"come cap in hand to Westminster,\" aiming to unlock regional economic growth.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "UK Finance lobby accused of cherrypicking data to oppose bank tax",
+    "summary": "UK Finance, a banking lobby group representing banks including Lloyds, JP Morgan, and Revolut, has been accused by campaigners of misleading the government with selective data about tax competitiveness. The group commissioned a report claiming Chancellor Healey's planned budget tax rise would make London less competitive than rival financial hubs, but critics say the figures omit major competitor Paris, distorting the comparison ahead of next week's budget decisions.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/uk-news/2026/oct/24/banking-lobby-group-accused-cherry-picking-data-healey-tax-rise"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "UAE capital transformed Manchester\u2014Arab Spring fears drove Gulf investment",
+    "summary": "The Guardian examines how Middle Eastern politics reshaped Manchester's landscape, tracing the phenomenon to 2011 when Egypt's dictator Hosni Mubarak was toppled during Arab Spring protests. The resulting power vacuum\u2014with the Muslim Brotherhood's Mohamed Morsi becoming a sworn enemy of the UAE, whose rulers feared Islamist advance\u2014prompted the Emirates to expand investment abroad. Emirati-linked firms' ownership of Manchester land has increased 39% in ten years.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/news/ng-interactive/2026/oct/25/thats-the-way-the-city-works-how-the-uae-changed-the-face-of-andy-burnhams-manchester"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Clashes erupt in Paris as over 400,000 protest across France against Macron",
+    "summary": "More than 400,000 people demonstrated across France with violence flaring in Paris, mounting a substantial challenge to President Macron. Reuters and AP reports describe largely peaceful protests nationwide but street clashes in the capital, signalling significant public discontent.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World",
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5",
+      "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Renters' Rights Act expands tenant freedoms but triggers landlord concerns on rents",
+    "summary": "The Renters' Rights Act has given tenants greater flexibility to leave a tenancy early, a change students are welcoming. However, student landlords warn the reforms pose challenges and have prompted concerns about potential rent increases as the market adjusts to new rules.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cqx29lnzr48po?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Budget to inject \u00a31bn for social and affordable housing, bringing 10-year total above \u00a340bn",
+    "summary": "Next week's budget will include \u00a31bn in new funding for social and affordable housing, bringing the total committed to the 10-year housing programme to over \u00a340bn.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Burnham faces difficult years ahead despite 2040 Olympic ambitions",
+    "summary": "BBC political editor Laura Kuenssberg assesses Andy Burnham's position as prime minister, noting that while he may be dreaming of hosting the Olympics in 2040, he must first navigate economically and politically challenging years in between. The analysis frames the current period as a critical test of his premiership.",
+    "bias_label": "BBC editorial perspective",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Healey's first budget promises 'breathing space' but faces test from global pressures",
+    "summary": "Chancellor John Healey is preparing his first budget, having promised 'breathing space' for households and small businesses as the government attempts to address the cost-of-living crisis. The Guardian notes that global events threaten to complicate his ambitions. The article captures the informal nature of Healey and Prime Minister Burnham's relationship\u2014they meet Sunday nights for curry and political discussion at Downing Street\u2014using the symbolism of an Indian takeaway as shorthand for ordinary treats increasingly beyond reach for many Britons.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/uk-news/2026/oct/24/can-john-healey-make-a-dent-in-the-cost-of-living-crisis-in-his-first-budget"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Brazil's Bolsonaro and Lula head to runoff with polling essentially tied",
+    "summary": "Luiz In\u00e1cio Lula da Silva and Jair Bolsonaro are running neck and neck in polling for a Brazilian presidential runoff vote, according to Reuters reporting.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOW9aaS1WT2hUWE5VTjd3U19BR0VxZ0xtUXd5QjQ5V3EzMkxsYWs2X0lHYm11TzU5YTY3RDQ2dGlnblllZklkV1AySElHOVF6a0RKZmNZZHpJMlVCaE82QjBXN1lHeFNFSGE4VlBjUGVwWlBSWkRQOTE0dzNRZ2NMQm9tWWRzN1FBaHhfbWVqcDl5Qkw5OW5wNlNDMEJjZXVmUkQ3NE5CSmdfci1IMkVVQktUdElSSEd2ZEs2VjRBQktYM3dXc2pvMmFR?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "US intelligence warns Iran has escalated efforts to target American personnel",
+    "summary": "A US intelligence memo has warned of a significant uptick in Iranian efforts to attack US personnel, according to Reuters. The alert represents an escalation in hostile activities.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnBGckdpTkdaSnNZeFIyenI0MVVDMHd6R2ZDcTlUX3I4OWNNMlRjd0FTXzhCY09zakU1MWx2RzBpRW1QYTRxY2M3UWpBZHR3S1JlNjQ0WlIyRlh3ZnhNaVZ0OVcwU21YMjUyVVF0RXB0VXFLMWpGdEVtak1DUktTdUdLWmQyWGRFQ0xmb2Z3WG1nSHdfVUxlbUlsc2RJRmNmWVRHS1Qtd0RCVU92d2t1S19HbjlFVzdoREJONTRNYk1iZw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Houthis claim Saudi oil strikes as attacks reported in Aden",
+    "summary": "The Houthi movement has claimed responsibility for attacks on Saudi oil facilities, with additional attacks reported in the Yemeni port city of Aden, according to Reuters.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Ukraine restores Starshield service as Musk-Kyiv tensions escalate over terms",
+    "summary": "Ukraine says Starshield satellite service has returned to normal operation after a disruption. Elon Musk, however, claims Kyiv violated the terms of service, signaling an ongoing tension between the billionaire entrepreneur and the Ukrainian government over Starlink access.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Kim Jong Un inaugurates new bridge linking North Korea and China",
+    "summary": "North Korean leader Kim Jong Un has visited China to officially open a new cross-border bridge connecting the two nations, according to AP reporting. The visit underscores the strategic importance of North Korea-China relations.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Musk confirms he ordered Starlink speed restrictions affecting Ukraine",
+    "summary": "Elon Musk has acknowledged that he personally ordered the speed restrictions on Starlink service in Ukraine, reversing his earlier distance from the decision. The admission comes after Starlink service to Ukrainian users was restored, intensifying scrutiny of Musk's role in controlling access to the satellite internet service during wartime.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOGd5SnEtSm9xemFDa0s3MnhQUjFKOHZmcUxxcHVJU01FWk5aWWEzQWJKaG1DUGlqMFVIWVJrWXA0NUx6NTVQblRkb2lUNXJSWWdrd3A5VlNuc1BqbWM1TEdCZ0pJaHUwdWFpa1g3MVFkODMzWEZuS21WaGpqSldLTEZqT2xReDFQY1I3NEV6ZEZWTl9Pb2gzbG13?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Brazil's presidential runoff between Lula and Fl\u00e1vio Bolsonaro set for Sunday",
+    "summary": "Brazilians are heading to the polls on Sunday to choose between incumbent President Luiz In\u00e1cio Lula da Silva and Fl\u00e1vio Bolsonaro, the son of former president Jair Bolsonaro, in what is expected to be a closely watched runoff election.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXJEbXYtVm45V3lUY3NuMmNFSUxHcjNYdzhENFJ1SXhCRjJyU0dGYnROb3BWVjA0S0NFa1FHSHkwOVJZODRsalpSSXFGQk9vNDE4NDkxTDFOaDFDX3ZrSmtFbjJOUnBPMU1ZN0RHV0o4UWxpUE0yZjBodDFWMWZ6c3FBWVpZSFhheDViTDJ6MkRaei1R?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Japan's male-only Imperial succession law revision takes effect despite public opposition",
+    "summary": "A controversial revision to Japan's Imperial law reinforcing male-only succession to the throne has taken effect. The change was reportedly unpopular among the public, reflecting ongoing debate in Japan over modernizing the monarchy's rules of succession.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQUFtbVZnRUFQNExhclhieGNGWTdaWkRocms3Nlp2X1pzclRYOHRHZmV2RmhDR0hzOUFQbnBOcW0zaDdRMTlXYVBJN3h6LTEyX3V3NzFuMjZ6X1R2RUlrT19fSlFDekxVMEJ2ZWpuNEZmdjFSemEtU2NUaFcwNDJCMVV1YldGNWdTQVVsenI0bVBUTmdQSnR3N1FNc0ZUVDl2Ty1IeC1DcHBZUQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Iran signals willingness to resume US talks under Pakistan mediation",
+    "summary": "An Iranian envoy has indicated that Iran remains open to negotiations with the United States through a Pakistan-brokered diplomatic arrangement, suggesting continued openness to dialogue despite ongoing tensions between the two countries.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdTR5VVdXaDAyV2lIUndHYkFVb3BPQ3lTWjFMZGxrcmRmR3dPODQzUXdEczBya1ZuQzBvVzJhOWp6a2ZrdkhYZHltOVJld05uNlVZalZEQjBvOWNUSXREeHY4MVg2YVFVaVpTOTl2Qm9vWGVJU0NSdFRvd3J3aVBXcWhKRzRMbnNqZEoxWVdoRExHSzQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  }
+]
