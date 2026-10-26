@@ -1,0 +1,284 @@
+[
+  {
+    "headline": "Chancellor John Healey to lay out UK tax plans in October 28 Budget",
+    "summary": "Chancellor John Healey will announce the UK government's tax and spending plans on 28 October. The Budget is the formal statement of fiscal policy where the government outlines tax changes, spending allocations, and economic priorities.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Serbian strongman Vucic concedes defeat to student-led opposition in parliamentary election",
+    "summary": "Serbian President Aleksandar Vucic has conceded defeat to a student-led opposition movement in parliamentary elections on 25 October 2026. This marks a historic political shift in Serbia after years of Vucic's dominant rule.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUU3TDlMRjZDVkdXVmplZVo5NHhmeGM5NUd5bkx3R2dJVTVBNjVaMmtkYkpJNHZDT1VNMzJTdjVWRG1VUFVMMW83ZmtnU2pOd2RsNlBlcEw5RldCZWNvT3hya3cyVGdacXg3cWd0cUlKYmdrM0JPZzFwSmJISUh0TWhZbVRzMFdfdS1ZZ1R2a2hKdERiQnZXX2pqY2RmV2NnYnZ1UE91eGFQT1pkLUk5eHRHbFVMWDRpWVl3QXA1dw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Belgrade celebrates historic electoral victory as students topple Vucic's political dominance",
+    "summary": "Student-led opposition forces have defeated Serbian President Vucic's political bloc in parliamentary elections, with celebrations in Belgrade marking what observers describe as a historic political upheaval in the country.",
+    "bias_label": "celebratory framing",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaDU5OF9aQ3E2dTNHOFJTREhlbTdKc2pnSkx6Smd0eC1OYzVYc293MVpLNzBrYWZfcnd2VG9rZW9RQVVSQktWNlpYOEdmSEFSS2l0dzBsSHNtLWxBTnZHeThBdWJNOVZwUy1HY1RGRGU5WVZmTzExSklDNkVJb3JYdDAtSF9LX3V6Y1BQOHVwb1l0WXJHdlRqelVubTdrdTZBN1QxZWNXUThwZw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "US and China competing to build rival AI blocs as countries face difficult geopolitical choices",
+    "summary": "The United States and China are each forming competing networks and alliances focused on artificial intelligence development and standards. Countries worldwide are increasingly caught between the two powers as both seek to build technological and political blocs around their respective AI approaches and governance models.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMigwFBVV95cUxPakhwUzlHbnJOemg0S0x1WlNQSUZIaEtpZlNSd0JtZmszRlg2S3QtTzZla3o2WjdDdTlhUFk0M0UteG84UTA4TndIbUgycFJrTFhlTG4yRXQ2STNDOFBuWE10eDhfcVRuLTNJbWRTRkhMSDZzSXVrcGdCZmpkVG9jS3loUQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Serbia's Vucic concedes defeat to student-led movement in seismic political shift",
+    "summary": "Serbian President Aleksandar Vucic has conceded electoral defeat to a student-led opposition movement in parliamentary elections, marking a significant political realignment in Serbia. The AP describes this as a \"seismic political shift\" for the Balkans nation.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZV9RN2t0QWZJWXdXekhjZVNLbU9Xek1ibDZsQTVpMmszTWtzMjdpbTlCeTJEZE1SdkJobXVsWUxLT24tMlY2b1N5bWZCc3dEeDJ5MVduRUhnN3NQLUh2UXRBX0Y1ci1tanJXY1N1OWNMVkdVd1BlR0Y3UFM4eFZ1UEgtS3pXWHI5RmY2TXRlc0d6OEFQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "UK government to double rough sleeping funding to nearly \u00a3900m ahead of Christmas target",
+    "summary": "Prime Minister Andy Burnham is doubling government spending on ending rough sleeping to nearly \u00a3900m by the end of the current parliament, with Downing Street allocating a further \u00a3432m in this week's Budget. Burnham made ending rough sleeping his first pledge upon entering office in July 2026 and has committed to offering every rough sleeper in England a safe route off the streets or wider support by Christmas as a central aim of his premiership.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "BBC Politics",
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/society/2026/oct/25/homelessness-rough-sleeping-double-spending-burnham"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Board of Deputies of British Jews declares Green Party racist over 'Zionism is racism' policy",
+    "summary": "The Board of Deputies of British Jews has declared the Green Party to be a racist party in response to the Greens passing a policy motion stating that \"Zionism is racism.\" This represents a major breach between the Jewish community organization and the Green Party over the framing of Zionism and Israeli politics.",
+    "bias_label": "communal advocacy perspective",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Employers warn government plan to raise apprenticeship costs for over-25s could damage youth employment drive",
+    "summary": "Ministers are planning to overhaul Labour's apprenticeship funding scheme by increasing the cost of training workers over 25 by 25%, designed to incentivize firms to hire and train young people instead. However, Britain's largest employers have warned the government that this approach risks undermining its goal to tackle the youth jobs crisis, as the higher training costs could discourage businesses from participating in apprenticeship programs altogether.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/education/2026/oct/26/training-costs-apprenticeships-older-workers-youth-jobs-crisis-neet"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Cabinet rift over Rosebank oilfield as Chancellor backs North Sea project while Energy Secretary leans toward rejection",
+    "summary": "A cabinet split has emerged over the Rosebank oilfield, Britain's largest untapped oil reserve located northwest of Shetland. Chancellor John Healey backs the controversial North Sea project, while Energy Secretary Miatta Fahnbulleh is reportedly leaning toward rejection following her approval of the smaller Jackdaw gasfield. Fahnbulleh, who holds formal decision-making authority, has distinguished between the two projects: she approved Jackdaw because the UK needs domestic gas for its transition to net zero, but argues Rosebank\u2014which would emit roughly seven times more carbon and produce oil mainly for export\u2014does not serve the same energy security rationale. The decision has exposed deep divisions within Labour, with environmental campaigners backing the likely rejection while industry and some MPs urge approval.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/environment/2026/oct/25/cabinet-split-emerges-over-controversial-rosebank-oilfield-decision"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "PM Burnham's call for EU free movement debate backed by senior cabinet, but raises alarm among 'red wall' MPs",
+    "summary": "Prime Minister Andy Burnham has sparked a party divide by calling for an \"honest discussion\" about restoring free movement with Europe, making clear it would no longer be a red line in EU negotiations. The proposal has been backed by senior cabinet ministers including Angela Rayner and Ed Miliband and by business leaders, but has risked a rift with Labour MPs representing Brexit-voting \"red wall\" constituencies, who warn it could jeopardise their seats. The move signals the government's willingness to reconsider a core Brexit position, though the political sensitivity remains acute given the electoral geography Labour holds.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "North East business and community leaders call for PM action on youth employment crisis",
+    "summary": "Community and business leaders across the North East have united to call on the Prime Minister to give them powers to tackle the region's youth employment crisis (NEET\u2014those not in education, employment, or training).",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Centre for Social Justice"
+    ],
+    "links": [
+      "https://www.centreforsocialjustice.org.uk/newsroom/unleash-the-north-east-to-solve-neet-crisis-says-business-leaders"
+    ],
+    "category": "UK Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Council tax arrears surging as debt crisis deepens ahead of Budget",
+    "summary": "Council tax arrears are rising at an alarming rate of \u00a31,500 per minute, according to analysis published ahead of the government's budget. The figures highlight growing financial strain on households and come as ministers face calls to prevent struggling families being pushed deeper into problem debt.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Centre for Social Justice"
+    ],
+    "links": [
+      "https://www.centreforsocialjustice.org.uk/newsroom/council-tax-arrears-rising-by-1500-every-minute-ahead-of-crunch-budget-analysis-reveals"
+    ],
+    "category": "UK Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Marine Le Pen launches presidential campaign amid protests in France",
+    "summary": "Far-right National Rally leader Marine Le Pen has launched a presidential bid as protests continue to roil France.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdHlyYlVtZ3dZV1ZlUmdLeFZGczB3NnU2R0R4QWxrZEw2SFBoU2l5ckpyblc2NGgxNmdXdFEwdGw3RExIaFFPNkdlVDF1XzRrNFI3Y0g5WFR0MkpZMUpOMW9nZ1ZYQ3VvR2dKRXF1QV9HSE5ZTGtPZkJEYlVNMTdkTWNzeDNqLVFMZXVNQW8wODNRUnBQVjdJNXgxT2p0OURoU0hreHZWako?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Venezuelan opposition leader Machado returns from exile amid democracy concerns",
+    "summary": "Jeanine \u00c1\u00f1ez, Venezuela's opposition leader, has returned after months in exile, though her comeback occurs against a backdrop of deepening questions about democratic stability in the country.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYzc4d3hfVTk4Q0w5QlFPbV9hSTlxdTBKMkxkX0x0bU9DZ3FOdUFyNnZDN2pPXzNRQjloaVRPd1BZZnVJY0ZhQVVoczlCUTBzbUx2cFh0NWZPX1JULV9QODF4YjRjSGVlb3NvZVkyQWo5dGtTam40NDR0VWFubEFtNW5BQ080Wk10T05hVjRya1NDWVhzbnY3Z2xQdWVCN1k4QTZaS1FkeTZIUVVYakNsUHVScFE?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Inside Rosebank: glimpse of life on oilfield at heart of political battle",
+    "summary": "The BBC provides a behind-the-scenes look at life aboard a ship operating in the Rosebank oilfield, which awaits a government decision on whether drilling will be approved.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "UK on course to miss 0.3% aid spending target by \u00a3400m in 2027",
+    "summary": "The UK is set to fall short of its commitment to spend 0.3% of national income on international aid, with forecasts indicating a shortfall of approximately \u00a3400m by the end of 2027. Research from the Center for Global Development has found the government will miss its promised official development assistance target, prompting calls on Labour to close the funding gap in upcoming budget decisions.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Former Tory candidate suspended over contract killer claims worked in Badenoch's office",
+    "summary": "Jack Ross, a former Conservative election candidate, has been suspended from the party pending investigation after an Al Jazeera undercover report showed him apparently discussing the cost of hiring contract killers and offering to \"broker\" the services of an alleged far-right paramilitary group. According to The Guardian, Ross worked as a social media consultant in Conservative leader Kemi Badenoch's office as recently as last year. Badenoch said the party does not condone his conduct.",
+    "bias_label": "neutral",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/oct/25/former-tory-candidate-suspended-over-contract-killer-claims-was-adviser-in-kemi-badenoch-office-jack-ross"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Healey's military-style budget secrecy claimed but not followed through",
+    "summary": "Chancellor John Healey has adopted defence-style \"compartmentalisation\" to prevent leaks from Treasury discussions, amid concern that budget secrets were compromised during his predecessor Rachel Reeves's tenure. However, The Guardian reports the approach appears inconsistent with practice: while Healey warned of his \"war footing\" against leaks starting in mid-August, significant budget policies have been heavily trailed in media coverage nonetheless.",
+    "bias_label": "neutral",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/uk-news/2026/oct/25/john-healey-chancellor-budget-secrecy"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Conservatives accuse Labour of limbo on NHS reform after Streeting's England abolition plan",
+    "summary": "Conservative Home commentary marks the anniversary of Health Secretary Wes Streeting's announcement to abolish NHS England. The post, from shadow health spokesperson Damien Hinds, suggests that a year after that announcement the NHS now languishes in Labour's \"limbo\" while criticizing what he frames as failed reform. Streeting announced the abolition in March 2025 to streamline bureaucracy, with the full reorganisation expected by April 2027.",
+    "bias_label": "Conservative perspective; partisan framing",
+    "headline_only": true,
+    "sources": [
+      "ConservativeHome"
+    ],
+    "links": [
+      "https://conservativehome.com/2026/10/26/damien-hinds-streeting-announced-the-abolition-of-nhs-england-a-year-ago-today-the-nhs-is-in-labours-limbo/"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "How the next eurozone crisis might unfold",
+    "summary": "UnHerd's headline warns that \"French collapse is contagious\", signalling a piece on eurozone vulnerability to a potential French financial or economic crisis. No further detail is available from the snippet.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "UnHerd"
+    ],
+    "links": [
+      "https://unherd.com/2026/10/how-the-next-eurozone-crisis-happens/?edition=us"
+    ],
+    "category": "UK Politics",
+    "priority": 7
+  }
+]
