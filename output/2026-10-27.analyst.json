@@ -1,0 +1,290 @@
+[
+  {
+    "headline": "Anthropic files for potentially historic IPO as CEO highlights AI safety risks",
+    "summary": "Anthropic, the AI company, has filed an S-1 with the SEC for a proposed initial public offering that could rank among the largest IPOs ever. CEO Dario Amodei has warned in interviews accompanying the filing of potential risks to humanity from artificial intelligence. The company simultaneously announced an expansion of its AI support services for nonprofit organizations.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World",
+      "Associated Press World",
+      "Anthropic News",
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTGdsSFROVFREMW5FMGs1dGlzcXBGZlRlUTVoaUdqek43TzBPUDFFUS00Umd2elBzZ3Zja3VQeThmLTVvajcxcnRnRGJlaW5laF9ZaHBrd1k4akdaLWNyamd6UjVsOExSY2k5b0RxSGtvcnR1VXhKXzMyREc1QUxOd0lRdkVzNm1jOEVJZDVPM0RTTVllQ051N2tCeHZsRnlNQ2dYZGZ2RDctSkJBdjZmN3ZDa2hoQkZ6QlE?oc=5",
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlh5REtLQ3ZiYnhaV0ZnZXRhMVkwV282YXN2ODFlQjA4NWx4UHdUWlNwV1lXZnFHcDZ2S2NkMGF3VnVkczNGb1NVQnJNSk5XdEIyTHZRTUlGYlFVSXpadjNTT0VsVjhMUUxqRExWOEdENGM3bl9HUmJ5eEwzT0Jhc2xRNzdfX1RpV3VVcjNxYjM?oc=5",
+      "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnZUdLN3hwaXFFbndLU0FTMC1INVZzenp4cl92WXJqM3VDWTZUSXN2S1NTdzBjeTBDaUZmRHFud1M1azhBX3pmcFAxR3Nzdw?oc=5",
+      "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjdfTUE5cGVOWkJiS0VWSEs5eW1ETHhUUWhWYzVTS3phaDlEMXZJN1dKay1OcGFsMUVwUlZFVjM4N0FGMENPam1qRzRTdFRVU1ZjbEZndFNuRHlQTEcyZl9fX3ZkQmRFX3N6X3RtLUNycmprcjZHV1VMbld3N0RlMnBWVFhtc3ZKZ0lkSktrY1lFY09Q?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Burnham faces mounting policy challenges as Budget looms",
+    "summary": "As Prime Minister Andy Burnham prepares for his budget announcement, multiple contentious issues are piling up for his government, including Brexit-related questions, North Sea oil policy, and debates within his own party. The budget is expected imminently.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Downing Street clarifies Burnham did not propose freedom of movement referendum",
+    "summary": "After PM Burnham fuelled speculation over the weekend about potentially returning to freedom of movement with the EU, Downing Street was forced to clarify his position. The Prime Minister said he wanted to start an \"honest discussion\" about potential options for the UK's future relationship with the EU, but the clarification suggests this does not include a formal commitment to freedom of movement. The Guardian reports that Burnham's comments had prompted questions about how close Britain could become to Brussels.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics",
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Labour splits over Rosebank oil field approval",
+    "summary": "A political battle is intensifying within the Labour Party over the Rosebank oil field development in the North Sea. Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans, indicating disagreement within the party over the project.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Budget week brings key tax policy debates into focus",
+    "summary": "With the budget due this week, the Institute for Government has highlighted five key tax talking points that are dominating discussion. The analysis includes Stuart Hoddinott's commentary on grant funding and council tax, topics likely to feature in the coming announcements.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Institute for Government"
+    ],
+    "links": [
+      "https://www.instituteforgovernment.org.uk/ifg-news/five-key-tax-talking-points-next-weeks-budget"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "New Cabinet Secretary Antonia Romeo tasked with overhauling British civil service",
+    "summary": "Antonia Romeo, the Cabinet Secretary, has been charged with overhauling Britain's bureaucracy. The Institute for Government has published analysis of her appointment, with expert Alex Thomas quoted in the Financial Times discussing whether Romeo can succeed in reforming the civil service.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Institute for Government"
+    ],
+    "links": [
+      "https://www.instituteforgovernment.org.uk/ifg-news/shes-been-tasked-overhauling-britains-bureaucracy-can-antonia-romeo"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "AI embedded across Home Office to enforce immigration rules, report reveals",
+    "summary": "According to research by the Open Rights Group, artificial intelligence has been embedded across the Home Office in near-total secrecy as part of what the report characterizes as reinforcing a \"digital hostile environment\" for immigration. The technologies are being used for tasks ranging from detecting suspected sham marriages and determining asylum seekers' ages to checking phone contents of new arrivals. The extent of AI deployment has been kept largely out of public view.",
+    "bias_label": "ORG is an advocacy group critical of immigration enforcement; framing reflects activist perspective",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Budget to scrap controversial carers' allowance \"cliff-edge\" penalty system",
+    "summary": "Chancellor John Healey will announce in Wednesday's budget the abolition of the controversial \"cliff-edge\" rule that penalized unpaid carers with thousands of pounds in deductions when their earnings exceeded the weekly limit. The Guardian reports that Healey will introduce a new digital taper system for carer's allowance to replace the punitive mechanism, which has long been regarded as one of the UK benefit system's most feared and unfair administrative practices.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/society/2026/oct/26/carers-allowance-cliff-edge-abolished-in-the-budget"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Student-backed opposition ends Vu\u010di\u0107's 14-year dominance in Serbian election",
+    "summary": "After 14 years in power with his Serbian Progressive Party (SNS), Aleksandar Vu\u010di\u0107 faced an unexpected political defeat in parliamentary elections, with student-led opposition movements emerging as a serious challenge to his dominance. Reports of election irregularities including voter intimidation and beatings at polling stations marked the vote. Pre-election tensions ran high, with authorities amassing riot police and groups of armed men gathering in Belgrade's city center, leading many to expect violence. The outcome marked a significant shift in Serbian politics, with Gen Z demonstrating electoral power against the established order.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "UnHerd"
+    ],
+    "links": [
+      "https://unherd.com/2026/10/how-gen-z-conquered-serbia/?edition=us"
+    ],
+    "category": "UK Politics",
+    "priority": 7
+  },
+  {
+    "headline": "China's AI sector faces reckoning as investor enthusiasm evaporates",
+    "summary": "After years of explosive growth and venture capital flooding into artificial intelligence startups, China's AI bubble has burst, with the market contracting significantly as investor confidence wanes. This reverses the frenzied expansion that characterized the sector in recent years as companies raced to capitalize on AI's potential.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnhLb1ZGYUdnbENkWmMyZDZqTHlsckJwbEsxWVZGTnI5U2lPcFNXLXFoYmRRZm1rU2NWREZrWGVRblRES2FmdkwtUVIzMDlTS2N4ZW5vNno1Y2JCR1FzclhmdUVBOU5jMElCd2FwTlN1VzdfOU94YXlFc2VSWmRObXZyMVhyNnlf?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Serbia's new opposition leaders inherit complex governance challenges",
+    "summary": "With student-backed opposition forces having defeated Aleksandar Vu\u010di\u0107's ruling coalition in recent elections, incoming Serbian leaders face a daunting array of political, economic, and institutional challenges as they prepare to take power.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNTRFU0EzLUl3eFBOWEpjUDBKSmh3ZjQyd1ZIQlVlQm0wS0pRM203aEhwSXZocXowZFdzbFVlOU9iREJtbXpfMmswbjdoLTlvQmUtV1pzNHhHdENZQXRwQ1h0S2VSR3Q0REE0VFpkcUtBaUpCWWRxNEZFMGtrRTBVSThLcE9TRW03LVFDd1FRT1h6Zw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "After electoral loss, Vu\u010di\u0107's political future remains uncertain",
+    "summary": "Following his unprecedented election defeat at the hands of student-backed opposition movements, Aleksandar Vu\u010di\u0107\u2014who had dominated Serbian politics for over a decade\u2014faces questions about his role in the country's political future.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWDBXeHFlUjhKM2poLUxJVXp5S1RtbEYzVzdqeEU1d2YzNFpraU02SVhwTzVPUU9ERno4bElMZzdGQ1JJY2NraXMtRExidHpOOEtUZkVBaFk3Z2RxVjJhSHJELTFqdUx0SThqV3N5cGcwWUl2cUcxbTZrcHZBS0dXRU56MzNFTExhc0VzT1VvQUV1ejBQZlpONTgtcEFwNXRScTJVcXdGSHpmZkpXdVBsRDFGcy1wVzg?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Hezbollah mobilizing Iranian funds to prepare for escalating regional conflict",
+    "summary": "The Lebanese militant group Hezbollah is receiving financial support from Iran to prepare for potential new military confrontations in the Middle East, according to unnamed sources familiar with the arrangement.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxQajh2NzdqZUljUEFSTWFPOV9odmZYWE5sRkVLbUhzRndmN0dxSGRwM09CbVpZRjBXZTJrckJHRFV6RzBUTThlQ3pHQ0hWNWZuaFhCc2wwWGRwSDVmb2d1ME9UMmt0ZUVkTlA0WnpjY1o0R2Z2RzhvQXl3MHNHdEQ3YXdsMi0zTHFFTlBJekI1bnY4M3VRUFhzUnMzcGdVeHBPTm90MDFabFpnalo0RThZdENtMEVHSFU?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "UN inquiry finds Israel continued genocide allegations in Gaza following temporary truce",
+    "summary": "A United Nations investigation concluded that allegations of genocide by Israel in Gaza persisted even after a ceasefire agreement, marking a significant finding by international investigators.",
+    "bias_label": "UN inquiry carries institutional perspective on Israel-Palestine conflict",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN2xxeTlxYThOMDR2al9fZldibDQ4bUJBczVwTEJsRGJxQUJZeWZzZWphQTlzd3pqaW1rUFJvU2VLUElyOGduUDVNYXh2eFFzNHQzU2x0OTRZMGxldlA5bXVtcWcySTdUOS1KOTBVLXNjc1JGcy0tdnFnUjRNM1RyVzk3ZFZza2dhQkhSUkE4TTFBM2RfeF9OTzRLcExrOEw0S25vMjR3aFlRcExuWE83V3dCUGQtSE5Fanc?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Vu\u010di\u0107's political mastery undone by generational shift in Serbian politics",
+    "summary": "Aleksandar Vu\u010di\u0107, a political veteran who had outmaneuvered rivals throughout his 14-year tenure, faced an unexpected electoral defeat when student-led movements mobilized Serbian youth to challenge his dominance.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWDdtZ1hWbUZINk5VcFBWaVlqd1J5V1hjNmlUZ1p6MWxxdmlsbDVCdzNUaWpDcmhQQ2c3aWVnNXZETkM1VGNyNDZVMFVINUY1a3JiYlhMdU1pZUtZX3BOcWJWeVpUazV3YWV0eE1PRGtubDBFZFlhUUFRU00xTWx4al9xWnhMVTFuTmVkUGFkTkZXNU5rYV93aGpmWUJBM1JsdVZ3?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Judge rules Trump DOJ violated law in firing ex-FBI director's daughter from prosecutor role",
+    "summary": "A federal judge determined that the Trump Department of Justice illegally terminated Maurene Comey, daughter of former FBI director James Comey, from her position as a federal prosecutor.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRlRQeTlsV0JqcVB1Wm9YcWhFMFBmX3lOdXVwUnJyMm1LQjlrbndRMDBMZTBEeFdJNDUxUG1XS1dqaEVaRlJhUm93WWNyenYtZTNDelJnc01vaHJoeUZUUFAyRTBTdUZoZlI3TGNMMkJpR2pzUFhYdEFmRy1ZR1lqNU9rR1VXYTkwbGJrYlN2V25fbDJObkJTa1Nva0RFcTg?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "UN-commissioned experts: Gaza ceasefire has not halted Israeli genocide",
+    "summary": "UN-commissioned experts have concluded that the Gaza ceasefire has not stopped Israel from committing genocide, according to a statement from AP News. This assessment appears to reference ongoing UN investigations into alleged violations during the conflict, though the headline-only source material does not provide detail on the experts' specific findings or methodology.",
+    "bias_label": "AP News headline reflects UN expert assessment; framing emphasizes genocide claim as determined conclusion",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZnd1NVJUWmc4MHhtYUdaTUc3VzBGSkFET0RBbkdTM1hJZFRQWUlKOVA0Qm9uUTUxTi1hNGROUU1MWnliMjVrLXdzRXlxd0xjM1NBOUZOS09pZWRaR0YwdmNxcWlJYm5jZkdJSlJtV1QxUWhsZENVMGdPcHNHSUZjUi15Vl9mclBmdWtaZjhqclVCaDVpSlBN?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Lula wins unprecedented fourth term in Brazil, halting regional rightward shift",
+    "summary": "Luiz In\u00e1cio Lula da Silva has won Brazil's presidential runoff on October 25, securing an unprecedented fourth non-consecutive term with 51.8% of valid votes to challenger Senator Fl\u00e1vio Bolsonaro's 48.2%. The victory is historically significant\u2014it marks the first time since Brazil returned to direct elections in 1989 that a candidate who lost the first round has won a runoff. Lula's win blocks a rightward shift in Latin America that the Trump administration had backed; former President Jair Bolsonaro (Fl\u00e1vio's father, currently jailed) refused to concede and has called for annulment of the results. Markets were caught off guard, with Brazilian assets falling sharply. At age 80, Lula will be among the oldest sitting leaders in the Americas alongside Trump and Nicaragua's Ortega.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLXdnZW1zQllMZHM0bV9NQXpGVW1VWEZUU3ozczVHNjZmTkZOVTRVakJrYXU5RkpId0otb2Z6T3pkTTlaUDV0YklHRTh6R1VEVnBGTG5wQlI2MXByQzhkMGVSX2w5ay1PZUtFVTV2aThFc0J5OXlMRzcwWjRTbW5laWpGcGVOMHJ4NWsyY1Q1X2E1ZVVpRDFpanpPbVNib0E3MVRqb3B3YUpGOHdDQWE0S3RwMWdZUQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "US escalates Iran tensions ahead of Israeli elections; Netanyahu campaigns on toppling regime",
+    "summary": "Tensions between the US and Iran are intensifying, with the United States evacuating more troops and diplomatic personnel from the region, moving a third aircraft carrier strike group to the Middle East, and reportedly preparing strike options against Iran. Diplomatic efforts have stalled. Ahead of Israeli elections scheduled for October 27, Israeli Prime Minister Benjamin Netanyahu has been campaigning on the platform of toppling the Iranian regime after reportedly considering another major round of strikes earlier in the month. The report comes from War on the Rocks' analysis of geopolitical tensions involving America's \"greatest challengers,\" suggesting an escalation in direct hostilities risk.",
+    "bias_label": "War on the Rocks covers strategic analysis of US adversaries; framing emphasizes military escalation indicators",
+    "headline_only": true,
+    "sources": [
+      "War on the Rocks"
+    ],
+    "links": [
+      "https://warontherocks.com/tensions-rise/"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Boston Dynamics stands firm on $1.3M ICE robot dog deal despite 300 internal protests",
+    "summary": "Nearly 300 Boston Dynamics employees have petitioned the company to cancel a $1.3 million contract to supply four modified Spot robots to US Immigration and Customs Enforcement, but the company has decided to proceed with the deal. The robots, modified by Connecticut-based contractor Radeco and renamed \"Cerberus,\" have been equipped with military-grade additions including a robotic arm, thermal camera, and sensors for detecting explosive materials. The contract was finalized in September 2026. Boston Dynamics employees argue the deal risks reputational damage and association with ICE's immigration enforcement activities; the company counters that the Spot platform comes with strict ethical terms prohibiting weaponization, and that the robots will be used by ICE's Homeland Security Investigations unit, which focuses on transnational criminal matters rather than removal operations. Boston Dynamics has stated it would void warranties, terminate software licenses, and pursue legal action if ICE misuses the robots. The petition, sent to leadership in early September, included roughly 150 anonymous signatures; the company employs more than 1,500 people.",
+    "bias_label": "Ars Technica AI focuses on technology ethics concerns; framing emphasizes employee opposition and use case tensions",
+    "headline_only": true,
+    "sources": [
+      "Ars Technica AI"
+    ],
+    "links": [
+      "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/"
+    ],
+    "category": "AI",
+    "priority": 8
+  }
+]
