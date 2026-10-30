@@ -1,0 +1,268 @@
+[
+  {
+    "headline": "Living standards set to fall amid budget forecasts, think tanks warn of 'painful years' ahead",
+    "summary": "UK budget forecasts show growth in living standards grinding to a near halt, prompting warnings from think tanks of difficult years ahead.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Chancellor John Healey shelves welfare cuts in budget but faces warnings of \u00a328bn public finance shortfall",
+    "summary": "Chancellor John Healey has backed away from cutting welfare costs in his budget, but experts and think tanks including the Institute for Fiscal Studies warn he has ducked major tax and spending decisions, leaving a \u00a328bn shortfall in public finances that will force brutal spending cuts later.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/uk-news/2026/oct/29/john-healey-budget-backs-away-from-cutting-welfare-public-finance-shortfall"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "PM Andy Burnham opens EU rejoin debate despite political risks, citing cumulative Brexit costs",
+    "summary": "A Guardian opinion piece argues that Prime Minister Andy Burnham is right to open a debate on Britain rejoining the EU, despite the political risk, because Brexit continues to damage the economy. The article notes nearly 60% of Britons now regard Brexit as a mistake, with estimates putting accumulated economic costs at 6\u20138% of GDP.",
+    "bias_label": "Pro-EU, supportive of Burnham's reopening of the Brexit debate",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/commentisfree/2026/oct/30/brexit-eu-debate-again-political-minefield-andy-burnham"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Editorial: Brexit debate reshaped by geopolitics; Conservative leader Kemi Badenoch resists reopening",
+    "summary": "The Guardian editorial argues that the terms of the Brexit debate have fundamentally changed since the 2016 referendum\u2014Russia's 2022 invasion of Ukraine has shifted European solidarity from abstraction to urgent defence necessity, and Trump's presidency has eroded confidence in a US \"special relationship.\" It contends that a reappraisal of Brexit is therefore warranted. PM Burnham acknowledged this at Labour conference, putting all options including rejoin on the table, while Conservative leader Kemi Badenoch rejects opening the question, telling MPs Labour should be grateful for the Brexit deal negotiated by her party.",
+    "bias_label": "Critical of Conservative position, supportive of government's willingness to reconsider Brexit",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/commentisfree/2026/oct/29/the-guardian-view-on-a-changing-brexit-debate-kemi-badenoch-is-trapped-in-denial"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Netanyahu's coalition falls short in Israeli election; opposition faces coalition choice between Netanyahu or Arab-Israeli parties",
+    "summary": "Israeli elections on October 27 produced a complex deadlock: neither Prime Minister Benjamin Netanyahu's bloc nor the opposition alliance led by Gadi Eisenkot secured enough Knesset seats to form a government independently. The opposition now faces a difficult choice between partnering with Netanyahu\u2014despite campaigning against him\u2014or allying with Israeli-Arab parties, which performed unusually well. Netanyahu remains in a caretaker position while coalition negotiations commence. Domestically focused, the campaign glossed over Palestinian issues, yet the outcome matters regionally: Israeli forces are fighting in southern Syria and Lebanon, the country faces Iranian threats and Houthi strikes, and the Palestinian conflict continues.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUlRWdElCT21MdGllQ29QbmxreHhfeTJvaUQ5Rjd2VndKSFRqSmJVMEhKY1VpOTNYWm1zZklsVWVjY0FHbDZxenZUa2NFaWQ0NEluY1ZXV1lqSWNPOWVyMXZ4eGhuQnkxLWVha01PVlhLb2l4Y2RzdENjSTQ0c3UweG5qTFZiOWE1MHFoVllsQjdqeURjUUxfSHpCWnlwNFdnR0N1Y2h1dUw5VElo?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Military experts examine what constitutes a 'revolution in military affairs' and whether one is underway",
+    "summary": "A War on the Rocks podcast episode explores whether militaries have genuinely experienced a revolution in warfare, or continue to chase an elusive transformation. Featuring experts including Mike Horowitz, Stacie Pettyjohn, and Benjamin Jensen, it questions what makes military change truly revolutionary and debates whether current shifts\u2014often framed around drones and AI\u2014represent genuine transformation or persistent myths about military revolution.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "War on the Rocks"
+    ],
+    "links": [
+      "https://warontherocks.com/what-israels-election-results-mean-for-the-middle-east-and-beyond/"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "OpenAI describes layered monitoring system to detect frontier AI model misalignment",
+    "summary": "OpenAI has outlined its approach to detecting misalignment in frontier AI models through layered monitoring, aiming to catch unauthorized agent behavior before incidents escalate and enable responders to intervene.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "War on the Rocks"
+    ],
+    "links": [
+      "https://warontherocks.com/whats-a-revolution-in-military-affairs-good-for/"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "PM Burnham says welfare reform cuts will happen 'as soon as we possibly can', but offers no timeline",
+    "summary": "Prime Minister Burnham has committed to cutting the welfare bill but has not provided specific timelines or detailed plans for how this will be achieved. The Budget announcement lacked substantial detail on welfare reform policies, drawing criticism from opponents who questioned the vagueness of commitments without concrete implementation dates.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Former Burnham advisor Andy Haldane gives Budget a low score of 4 out of 10",
+    "summary": "Economist Andy Haldane, who previously advised Prime Minister Burnham, has assessed Chancellor Healey's Budget as significantly underperforming, awarding it a score of just 4 out of 10. His critical evaluation suggests substantial dissatisfaction with the government's fiscal direction from a prominent economic voice close to the administration.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/videos/cve8rjl6ewjno?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Lib Dem leader Davey attacks income tax freeze as a \u00a376 billion 'stealth tax'",
+    "summary": "Liberal Democrats leader Ed Davey has characterized the government's decision to freeze income tax thresholds as a hidden tax increase worth \u00a376 billion. The freeze, which prevents threshold adjustment as inflation rises, effectively increases the tax burden on working people without explicitly raising rates.",
+    "bias_label": "Partisan framing; Lib Dems oppose the measure",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/videos/cx62y550nrpjo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Institute for Government warns Healey's civil service cuts lack practical tools and may miss targets",
+    "summary": "The Institute for Government has questioned whether Chancellor Healey's ambitious plan to cut civil service administration budgets by 20% by 2029/30 can be achieved, noting the civil service failed to meet previous targets set by Rachel Reeves. The analysis identifies that voluntary exit schemes are insufficient and that the civil service actually saw exits decline in recent years\u2014falling from 38,610 in 2024/25 to 37,945 in 2025/26. The think tank argues that tighter devolution of powers from central government and more predictable compulsory redundancy rounds every two to three years would be needed to hit targets. It also warns that Healey's plan to fund a new \u00a350m \"transformation fund\" and AI organization called \"GovAI\" relies on savings that are \"currently more imagined than real,\" and argues the government must focus AI adoption on achieving policy outcomes rather than adopting technology for its own sake.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "Institute for Government"
+    ],
+    "links": [
+      "https://www.instituteforgovernment.org.uk/comment/john-healey-needs-reality-check-civil-service-cuts"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Lib Dem MP Caroline Voaden accuses Nigel Farage of shoving her in parliament",
+    "summary": "Liberal Democrat MP Caroline Voaden has accused Reform UK leader Nigel Farage of grabbing her by the arm and shoving her aside during the state opening of parliament in May this year. Voaden revealed her account after Farage disclosed on Wednesday that a \"physical altercation\" in parliament had prompted him to avoid attending the Budget.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/oct/29/nigel-farage-accused-shoving-female-lib-dem-parliament"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Nicotine-free vapes banned for under-18s; Burnham denies blocking minister speech on EU ties",
+    "summary": "The UK government has banned shops from selling nicotine-free vapes and nicotine pouches to children under 18 as of today under the Tobacco and Vapes Act, extending restrictions that previously covered only nicotine-containing vapes. The government notes vaping is safer than smoking for established smokers but remains harmful to children and non-smokers. Separately, Prime Minister Burnham has denied claims he prevented ministers from publicly discussing plans for a closer relationship with the EU, amid reports he wrote to ministers asking them not to \"advocate for specific options\" on the EU relationship.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/live/2026/oct/29/budget-john-healey-labour-uk-politics-latest-news"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Iran bypassing US sanctions through military agency network, weaponry smuggling continues",
+    "summary": "Iran maintains a hidden network of military agencies that are successfully circumventing US economic blockades and sanctions restrictions to acquire hardware and military equipment. The sophisticated evasion system enables Iran to continue acquiring capabilities despite international sanctions pressure.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWDdNT2d1X203WGstY0tRd0xFeXFhWlBQVmlXM2hRRXdzZHQ3UmszXzNXcVE3LTB5TWhUcXJwWUVlSi15cGFUNVFqd2xTNllBQm9PdlphUVQ3bU1pOTI5dUtGb3pZYUstMmpaa2hzbk5RXzd2bVp5YmlhR19nYkNJTjdfTG11amxxZ0dOWXBveEowTC1wRHozRWxPYUx5OXo2TWpjdHRnOXc5eTRQWXN6S2RyWVUxVF8wMGk0?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Putin signals Moscow wants improved European relations, warns conflict has no winners",
+    "summary": "Russian President Putin has stated that Moscow seeks better ties with Europe and emphasized that the ongoing conflict will produce no winners for any side. His comments reflect diplomatic positioning on the future of Russian-European relations amid the wider conflict context.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU1BuNGpORFprSUxsY212N0RyamVmZVQ0a3lJRW1zQk9oM2U3a3ZzMDV4YWNBaWFsd1dvYjVCRUcwVFR5dGdfTV85Q2MxN20xR1FaZ09WdDNrdTU1dmhMYXRxYkFfN21oQWllbFNSamo0WVRhbU9BNWtsVkV3d2NuQ3hfczk3cV9VTFM4bl9mRTBkU1FsTnl6RDZUZEl1Wm9sSElGaDVmU2tJc0dZRWU2bFBYWlp6X2tTdk9EcWhyMFZXOTlF?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Ukraine halts strikes on Russian refineries after Trump pressure, WSJ reports",
+    "summary": "Ukraine has paused its strikes against Russian oil refineries following pressure from Donald Trump, according to the Wall Street Journal. The move reflects evolving diplomatic dynamics as the US administration signals a shift in its approach to the conflict.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTzRwZjRhSTRCWExya3Z3cXViLVE1MVRNT0hLOGlQUFBidEM4eVdBM0VkRWdKVU9pa1VDdTduV2F1X3dSMldRcVJ5RDY0UVItSFhTWWVYbzBraHZOZU12WU0xUmZCR1paTW9wRmV1bVdLTTZVX0tmUDdSbE16ZGtDNk1HWExsbEx6TG9QNkVGR0hBRDlscU1NaEVtRy1OaEI1RjRkaGxzSjhJMTVhOXpxcGl1TS1wWExHZ3c0QkFJMU1YLWhn?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Philippines-China tensions flare at end of ASEAN defence summit",
+    "summary": "Tensions between the Philippines and China resurfaced as the ASEAN defence ministers' gathering concluded. The incident highlights persistent friction over contested maritime territories and competing interests in Southeast Asia.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYlpNUVZydmhPLWpKam5sVDc3aHJaang1akJ4QnRMT2k0aktqTHRxaGZSV0JoZFJ6bDcwem1TcXl5cTdfYk84bGxGYkFFNzQwTXBXZy1qMUhCVUVrekc0eXFyRWYzUkFaUGdVemthalBvaTZYakd6TGhfWHdBU01PdS10QkE3VHJVVUdRWWZ2YV9nLVNWc0t3R2w0YUJMQTM2Tjg0cTVnWEIxbEhhNlNiZkhQRndoNThrd25OTTcybw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Fl\u00e1vio Bolsonaro's arrival in US carries political implications",
+    "summary": "The arrival of Fl\u00e1vio Bolsonaro, son of former Brazilian president Jair Bolsonaro, in the United States is expected to have political ramifications, though the AP story does not detail the specific impacts in its headline.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX1RjSUJaWm1teFllT29tSGZwdzUzd0p2OHRMWjhJZnNCbFE3aTBsU2ZRcS14SmFPV05VWDBfS2ZDc29pcUxvOGhLRmFvUFVpMVh1aVljcjVyb2dRTXpuVjktd1dlZVo0LUZ1NlpXMUVJT1I2eGl0V3RGbDluT1dWaXZSOXpodkduc25wUkxtS19laWRyNDVQNjgwOFc?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Defense tech sector faces contradictory signals amid funding boom and startup struggles",
+    "summary": "The defense technology sector presents a paradox: while capital, valuations, and defence budgets hit records, investors and leaders report growing unease. Production contracts remain difficult to secure, and many startups struggle to survive the \"valley of death\"\u2014the phase between initial funding and commercial contracts\u2014risking both individual companies and broader sector investment.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "War on the Rocks"
+    ],
+    "links": [
+      "https://warontherocks.com/cogs-of-war/a-tale-of-two-markets-a-dickensian-take-on-the-coming-years-in-defense-tech/"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  }
+]
