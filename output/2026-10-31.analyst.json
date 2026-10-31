@@ -1,0 +1,294 @@
+[
+  {
+    "headline": "John Healey's budget: Short on big decisions, long on smaller immediate measures",
+    "summary": "Chancellor John Healey presented a budget framed as providing \"breathing space\" and described as short on major structural changes but packed with smaller policy announcements. The budget includes immediate measures rather than transformative decisions, with several difficult policy choices deferred to 2027. Among the notable elements is a fiscal devolution roadmap that would replace direct grants to mayors with income tax sharing\u2014allowing mayors to retain more revenue if their areas grow faster. This represents an ambitious shift in central-local government relations, replacing grants with tax revenue and giving mayors greater policy flexibility over spending areas like skills and transport, though the roadmap is not implementation until April 2028. On growth, the budget contains over 30 pages of measures including energy policies, data-centre acceleration, relaxed high-talent immigration rules, and redirected climate spending toward defence, though economists note most measures will show effects only over years or decades. The government cut energy department budgets by over \u00a33bn, much directed to defence, raising concerns about meeting green heating targets. Observers characterize the budget as a holding exercise preparing ground for more challenging work ahead, with major decisions on welfare reform and spending reviews left unresolved.",
+    "bias_label": "Institute for Government analysis; treats budget as understated in ambition",
+    "headline_only": false,
+    "sources": [
+      "Institute for Government",
+      "Institute for Government",
+      "Institute for Government",
+      "Institute for Government"
+    ],
+    "links": [
+      "https://www.instituteforgovernment.org.uk/podcast/inside-briefing/healeys-budget-policies",
+      "https://www.instituteforgovernment.org.uk/article/comment/fiscal-devolution-roadmap-radical-reform-otherwise-quiet-budget",
+      "https://www.instituteforgovernment.org.uk/comment/budget-2026-business-and-growth",
+      "https://www.instituteforgovernment.org.uk/comment/abolishing-public-body-practice"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Burnham offers formal apology for Britain's role in slave trade but rules out reparations",
+    "summary": "Prime Minister Andy Burnham signaled willingness to offer a formal state apology for Britain's role in the transatlantic slave trade ahead of a Commonwealth leaders' summit in the Caribbean, going further than any previous British prime minister on the issue. Writing in The Guardian, he said he was open to calls for an official apology and offered formal talks with affected countries and campaign groups. However, Burnham explicitly rejected financial reparations as \"not the right answer,\" arguing that \"British people can't be made to pay for the wrongs of slavery.\" Instead, he proposed working with Commonwealth partners on economic restructuring. The statement comes during Black History Month and acknowledges Britain's contradictory history\u2014the country both led abolition movements and participated extensively in the slave trade.",
+    "bias_label": "Burnham's own framing in Guardian opinion; left-of-centre publication",
+    "headline_only": false,
+    "sources": [
+      "BBC Politics",
+      "The Guardian Politics",
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/30/andy-burnham-call-formal-apology-britains-role-in-slave-trade",
+      "https://www.theguardian.com/commentisfree/2026/oct/30/british-people-slave-trade-reparations-andy-burnham"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "G20 family photo cancelled after protests over presence of Russian minister",
+    "summary": "The planned formal group photograph at a G20 meeting was cancelled after protests and confrontation over the presence of Russia's foreign minister. UK Foreign Secretary Ed Miliband directly challenged his Russian counterpart at the meeting, accusing Russia of killing innocent civilians in Ukraine. The cancellation reflects heightened tensions around Russian participation in G20 events.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Budget green spending cuts threaten Britain's heating targets",
+    "summary": "Chancellor John Healey's budget included cuts of over \u00a33bn to the energy department's budget, much of it redirected to defence spending, raising concerns that Britain will miss its targets for decarbonizing building heating systems. Critics argue the cuts undermine the green agenda previously championed by Ed Miliband when he was energy secretary. Experts warn the reduction in renewable and green heating investment will make it harder to hit national targets for heating homes without fossil fuels.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/environment/2026/oct/30/john-healey-budget-cuts-miss-green-heating-targets"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Trump says Iran conflict will be 'wrapped up soon'",
+    "summary": "In a brief statement, former president Trump suggested an ongoing conflict with Iran would be resolved quickly.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV29DcEtjV3gtcWtydlBDWXZPblY0Szg5NmZZNFZ2WGxmTHFsX096SlJoem40ZFpBRkFvcW41UGtrMVZBeEVPS2dxN205OG5rM2VNSE5CcGJfMGlLNUgxZWRTeXFENTU0ajlIaUZoWUhZblk0LTQtZzZHSlZaSG9JQy0wazJLQU1vakZXdDd5aw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Over 160,000 expected at German Halloween protests as Gen Z activism spreads",
+    "summary": "Hundreds of thousands of Gen Z demonstrators were expected to gather for Halloween rallies across Germany as youth activism continues to spread across Europe.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVVU2eHhKcXB0TU1teDBNamJNdjczWUVuNFpYVDBQUTNCMEJwYmYweGE1MXFsXzAxcGdYVlVObG1VQjg3dm94dXUyc2F5UHd6TkE0cUdQb2xpTk8tczhWNWdMR3pubExzLVkwZzdTWUY4bjhocmFMeWhzUE01WE1qTkZzNHBZZm1RUDlUQkJxSG5HT2tyS1ZDQm9GeWtXdjJOTXBrY29EZmJVVkxKOHNDLUc0RXY2VG8?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Polish police secure Constitutional Tribunal amid protests over court chief's suspension",
+    "summary": "Polish police secured the country's Constitutional Tribunal building as protests erupted following the suspension of the court's chief.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMitAFBVV95cUxONTN6V2ZLYWRNNzFWb3hYckNxQzgzMXZlTHY2MGN3NldSRW1BUGEtX0NUVTRzREhQcTdldGtuNkFVRzY4ZFlYRUYzS2Q0Y0tuT1hYbmpVMmZ4T3pjQjB4Si1sRndxN1haVVJ6dnlVbElWRW5vWC00Mnd6dnRsNkFsZXc2WUlRTnlxM3pmNHBUN1BERGdJcElnb1hrbGpudHFMbzJaWGxrdmx1T1c3cDJYOUplUnk?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Israeli negotiations complicated as Netanyahu's coalition loses parliamentary majority",
+    "summary": "Israel faces difficult coalition negotiations after PM Benjamin Netanyahu's bloc lost its parliamentary majority, complicating efforts to maintain government stability.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFpTUTA2NWczOGNBdDdvTzZHdzFGTFpfdXB1Zmk5aTUtMUN5TzZjcXhSZEFtQUJPNEoxWHY0bUVway1oUDZoNFJKOGZmdnROU1NsczlTWW1zZFUxNnhKNjlBN3psQjdlRWZxZ2ZFb2huUDBZTW40UGVURGVWVVVKTFlWaDlxMkh2TkRVbERlRHZsRngxSnNsVUQ1dmlEZ0dVTVFwbDk5Z1M1RmZ0NkE?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Israel's election produces deadlock, no majority for either bloc",
+    "summary": "Israel's final election count from October 27 shows no clear path to government: Prime Minister Benjamin Netanyahu's bloc secured 53 seats in the 120-member Knesset, while the opposition led by Gadi Eisenkot won 48 seats. Neither reaches the 61 seats needed for a parliamentary majority. Arab-Israeli parties hold 19 combined seats, creating a potential coalition math problem: Netanyahu cannot likely ally with Arab parties without losing rightwing settler parties, while Eisenkot's bloc could potentially form a majority with Arab backing. The election was viewed as a referendum on Netanyahu's leadership following the October 7, 2023 attacks and subsequent war in Gaza.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaWVVeUpwMzVxRDdSZ3V5aEdiRjFqYnhtek9XSEh3WVRjNkpjdVFkY3JSS0o5NC0yWEd5V0ctWkhycWt5dHJKdFNSM1Y0bnI3dGExanhKMTQxeWxYWkxzM0tkWXVpb19qczU4b3JmNExfZTRjZGdNbm45VjhnRHcxTEo5eTFKNlpmN3RFbl9rT3cxckM3VHlDS1RmSGpZYllOTmpSdXJyMA?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Home Secretary Mahmood expected to announce changes to migrant worker rules",
+    "summary": "Home Secretary Akhilesh Mahmood is expected to announce changes to rules governing indefinite leave to remain for migrant workers already in the UK, following internal government opposition to the planned stricter regulations. The feed snippet indicates the announcement is imminent but full details on the proposed changes are not available from the limited source text.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cm62yxxd992eo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Burnham meets Scottish and Welsh first ministers on devolution powers",
+    "summary": "Andy Burnham held talks in Glasgow with Scottish First Minister John Swinney and Welsh First Minister Rhun ap Iorwerth to discuss devolving regional and local powers as part of the government's devolution agenda. Swinney and ap Iorwerth stated that decisions on local devolution rest solely with their respective parliaments\u2014the Scottish Parliament (Holyrood) and Welsh Parliament (Senedd)\u2014not Westminster, marking a boundary on how far the English-style regional powers can be extended across the UK. Burnham characterised the talks as progressing the \"no nation left behind\" agenda, while both first ministers indicated spending powers for regions could move forward.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics",
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cqr7yp8dngn8o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cmg4706xkp35o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Green mayor defects to Labour over Zionism motion",
+    "summary": "Drew Creek, a mayor, has joined the Labour party after the Greens passed a policy motion that prompted his departure. The feed snippet provides minimal detail on the substance of the motion.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/ck20r295pw2vo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Former Labour leader Kinnock: welfare cuts deepened Welsh disaffection",
+    "summary": "Former Labour leader Neil Kinnock has argued that the government's winter fuel allowance cuts turned existing Welsh disillusionment with Labour into \"active dislike,\" contributing to Labour's political difficulties in Wales.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/ckg5j4jp5d5lo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Scottish and Welsh first ministers set limits on Westminster devolution push",
+    "summary": "Scotland and Wales's first ministers, John Swinney and Rhun ap Iorwerth, have made clear to Andy Burnham that decisions on extending local devolution rest solely with their own parliaments, not Westminster. The statement came after talks in Glasgow about localised employment and reindustrialisation powers as part of the government's push to extend English-style regional devolution across the UK. Downing Street has characterised the discussions as constructive, but the first ministers' position marks a clear boundary: Scottish and Welsh legislatures will decide for themselves whether and how to devolve power further, rather than accepting a UK-wide devolution framework imposed from the centre.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/oct/30/local-devolution-decisions-scotland-wales-first-ministers-tell-burnham"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Swedish climate academic condemns UK travel ban as 'drift into authoritarianism'",
+    "summary": "Andreas Malm, a Swedish climate academic and author of *How to Blow Up a Pipeline*, has condemned a UK travel ban imposed on him as a \"drift into authoritarianism.\" Malm says he was \"kept in the dark\" by UK immigration authorities over the reasons for his electronic travel authorisation (ETA) being revoked. The source does not specify the stated grounds for the revocation or whether Malm has received any formal explanation from the Home Office.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/uk-news/2026/oct/30/andreas-malm-uk-travel-ban-drift-authoritarianism"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Unison leader: public sector workers treated as afterthought compared to North Sea oil jobs",
+    "summary": "Andrea Egan, general secretary of Unison\u2014the UK's largest trade union\u2014has called for the government to give public sector workers (in the NHS, education, and care) the same political attention that has been lavished on protecting North Sea oil and gas jobs. Egan characterised the recent decision on the Jackdaw oil field as evidence of the government's \"massive political focus\" on the energy sector while public sector workers are treated as an \"afterthought.\"",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/oct/30/public-sector-afterthought-north-sea-oil-jobs-unison"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Britain risks losing AI data centre investments due to energy supply crunch",
+    "summary": "A Conservative Home opinion piece argues that the UK is missing out on artificial intelligence opportunities because it cannot reliably power major new data centres. The article references the next \"Loughton\" facility\u2014referring to the Nscale Loughton AI data centre in Essex, which was expected to house 45,000 NVIDIA GPUs and is a key part of the UK's AI infrastructure strategy. Microsoft recently withdrew from the project citing power grid delays that reportedly extend into the early-to-mid 2030s. The author contends that building gas capacity near demand while fast-tracking nuclear power are necessary to reduce balancing and integration costs and get power supply up to speed\u2014otherwise \"the next Loughton will go somewhere else.\" The piece frames this as a critical policy challenge for UK AI competitiveness.",
+    "bias_label": "Conservative outlet, opinion-focused",
+    "headline_only": true,
+    "sources": [
+      "ConservativeHome"
+    ],
+    "links": [
+      "https://conservativehome.com/2026/10/30/ted-newson-britain-is-missing-the-ai-boom/"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Why Europe's kids are revolting",
+    "summary": "An UnHerd article headline asks why Europe's youth are rebelling, with the cryptic closing line \"The system won't save them.\" The feed snippet provides no substantive detail about which movements, grievances, or countries are involved.",
+    "bias_label": "Opinionated, cultural-focus outlet",
+    "headline_only": true,
+    "sources": [
+      "UnHerd"
+    ],
+    "links": [
+      "https://unherd.com/2026/10/why-europes-kids-are-revolting/"
+    ],
+    "category": "UK Politics",
+    "priority": 7
+  },
+  {
+    "headline": "Poland's president returns from Senegal as top court chief suspended",
+    "summary": "Polish President Karol Nawrocki cut short a trip to Senegal on October 30 after police entered Poland's Constitutional Tribunal and its president, Bogdan Swieczkowski, was suspended. The suspension escalates a long-running power struggle over the court between Nawrocki\u2014an ally of Poland's former nationalist Law and Justice party\u2014and Prime Minister Donald Tusk's centrist government. Swieczkowski, a former deputy justice minister under Law and Justice, had refused to allow judges nominated by the current parliamentary majority to assume their duties, while Nawrocki earlier this year blocked three of six judges nominated by parliament. The institutional paralysis reflects deeper conflict over judicial independence: the EU accused the court under Law and Justice of favouring Polish legislation over EU law. Tusk's coalition, which took office in 2023, pledged to restore rule of law and reform the court, but has faced sustained obstruction. Police were deployed after protesters gathered outside the court building.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc2p4TC1POGdvdHlLdGMyVVl1Nmw5dHhWdEZkS0FCZVBMazc3dzdQaElfeXBIcGRNV1NxZTRENXBKSHJRTkZnb2ZkelBMd0VlQjJHYkE3MFFCbGwtTFhfOEQwbHJYSDJlMGZSd2ttNm16ejVQTzg2SHBrOHZCZGk0ZVR4dUp5b0lZMWpkRU1NLTFzWDRHUl9RdDRLNmFyTW9tVXhLYmZOeGdBTFFlRl9UM3Q3SElzdw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Dockworkers strike across Europe and beyond over arms shipments and war",
+    "summary": "European and global dockworkers struck on October 30 in protest against arms shipments and war deaths, according to Reuters. The brief feed item provides no detail on scale, duration, specific ports affected, which conflicts the strike relates to, or which workers' unions or organizations are involved.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN3NLLUpOZmk5ZjdPZmJWYnYyVnlBcnpzdGlsQmRqTHVweGladWdBZTQ3WFNPblI2ZzlTcFJVeEJXSmpIaEt5UU96QW5uOG9yeGN4cjg5c0hDUFozM0xaZGlISkpKbzU3ZXNnQThFNjBjT3pIMjZvSy1Nc3JONUpWeUhDQW9rX2FxbWktNm5OSk9VdURZbWE5ZWdCQjczWFJyYjlRZ3JvSE1nRVJ1ZWwxMUhDZU1nRVNpa0JTcjRmbGZkYkZ5RzJv?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  }
+]
