@@ -1,0 +1,288 @@
+[
+  {
+    "headline": "How US Election Changes May Shift Trump's International Posture",
+    "summary": "BBC analyst Chris Mason examines the implications of the US election outcome for international relations, specifically asking whether Trump's defeat at home makes him more likely to be combative abroad. The article uses this question as a framing device for how the result might reshape US foreign policy, particularly its impact on the UK government's approach.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c615j8pw1y81o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "UK Deemed 'Dangerously' Reliant on China for Critical Minerals",
+    "summary": "A parliamentary investigation by the business select committee has found the UK faces serious strategic vulnerabilities due to its dependence on China for critical raw materials essential to defence, renewable energy infrastructure, and AI development. The committee is calling for an urgent centralised policy and a new 'critical minerals finance facility' with grants, equity, and debt funding to accelerate diversification of supply sources and reduce this dependency. The MPs warn that without action, net zero targets are also at risk.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Global Reactions to Democrats Winning US Midterms",
+    "summary": "Reuters reports on international political responses to the Democratic victory in the midterm elections, covering how the outcome reshapes global perspectives on US policy direction particularly on issues like Iran, trade, and broader foreign relations.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World",
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMk5tUl8yRml4eVVXZThHYnhwejMtb3VqUTR6c3lIel9CUjlQYnprMFdJOGRkY1BvcXU5eS0zeEg3Wnc3bHhPTnYyMms5bmpYVmxUVGNpeEJzZGhLUUVWcWY2dDhZTXBOR1pSRldGRUZyeGVkMU5RMkREejBqLUh5Y1IzTklIRTdHeUtweFh0SWVocUZuYlNmNTg5ZGFDa3c?oc=5",
+      "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVkVUcncxLUJqT2dDRWNjUTNjVUh5cmxVYmVRUUJQZkcydUhDcGNkMWdTT0lYTlBTemFEZHF5Zjc2VERfOTFyT0tIcEhFSFo5QzNvTXZlaTNmUDUxY2J4ZFhKeDN4dXlpZmtJMWJxRkVnYjFXNnJZdEM3WGRoUXg3RVlaUWN1dV9wZDE2WHp2ZGJ6MHZUbXlyZXJzT2JPZUZSZEtFMGRqMF95enlWZ2c?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Trump Faces Critical Decision on Iran Policy After Midterm Defeat",
+    "summary": "Reuters analysis frames Trump's midterm loss as creating a stark fork in the road for Iran policy: whether to pursue a negotiated settlement or escalate confrontation. The piece suggests his domestic political defeat may reshape calculations around international engagement, particularly toward Iran.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3dTRDFGYS1HSWtZcGh3ZTh2MjRleFhNUkwtR0wwSUd3TWlsQU1tcjI2ZG1fa1RxNHEyRDJsSUpjTzNGb0xTRE90Umh1RVdncGxtN29NNVhXel9PMlZ3UEQ1bDJzTkh4V052MEh5UFFteDRHakRVTzVQLS1rdjEzM2xjZDlYdjhCWkxwMkZOMjVSUlhOV2NCVl9ETFROeEN3ZENWQmZiejJhLXctcHFDUkc5d3k?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Why Modern Wars Are Becoming Harder to End",
+    "summary": "A War on the Rocks roundtable of five national security experts examines the structural reasons armed conflicts are increasingly difficult to resolve decisively. According to former US Assistant Secretary of State Dafna H. Rand, wars in the 21st century no longer typically end in clear peace settlements or total victory; instead they settle into recurring pauses or frozen conflicts. She notes that the US finds it difficult to shape war outcomes even when providing crucial military and financial support to allies\u2014particularly when Washington and its partners disagree on political goals or what victory means, public support wanes, and interests diverge over time. Additional perspectives explore factors like greater global economic interdependence allowing outside powers to sustain losing belligerents.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "War on the Rocks"
+    ],
+    "links": [
+      "https://warontherocks.com/why-are-wars-increasingly-difficult-to-end/"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Tech Industry Dismisses Voter Backlash Against AI as Anti-Trump, Not Anti-Tech",
+    "summary": "Ars Technica reports on Big Tech's response to the US election outcome in which voters overwhelmingly supported restrictions on AI and data centers. The tech industry is claiming the backlash reflects anti-Trump sentiment rather than genuine public concern about artificial intelligence and its expansion, effectively downplaying voter appetite for technology regulation.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Ars Technica AI"
+    ],
+    "links": [
+      "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/"
+    ],
+    "category": "AI",
+    "priority": 8
+  },
+  {
+    "headline": "UK Commits to 'Time-Bound' Talks on Slavery Apology",
+    "summary": "The UK has agreed to 'structured dialogue' with Caribbean nations over the next year on slavery reparations, according to Commonwealth leaders including Antigua and Barbuda's Prime Minister Gaston Browne. The agreement came from the Commonwealth heads of government meeting and represents a consensus on moving forward, though a specific timeline for resolving the apology question remains unconfirmed. British diplomats are emphasizing urgency despite the lack of a fixed date.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "BBC Politics",
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/nov/04/debt-relief-aid-no-replacement-slavery-reparations-uk-told-caribbean"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "UK Government Bans New North Sea Oil and Gas Licences",
+    "summary": "The Labour government has published legislation that would end the granting of new oil and gas licences in the North Sea, marking a definitive shift away from fossil fuel development in UK waters.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cqn734d24l0go?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Milburn review recommends 'flexi-jobs' and subsidies for disabled young people",
+    "summary": "The government-commissioned Milburn review of youth employment will recommend creating and subsidizing paid jobs for disabled and chronically ill 16- to 24-year-olds as part of an \"opportunity revolution\" to reverse labor market discrimination. The review will propose introducing \"flexi-jobs\" alongside employment subsidies and intensive skills support to help this cohort access work. The review is due to report this month.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/society/2026/nov/05/milburn-review-jobs-revolution-young-people-disabilities-neets"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "UN refugee agency raises concerns over UK's 30-year settlement waiting period for refugees",
+    "summary": "The UN refugee agency (UNHCR) has criticized a government plan requiring refugees to wait up to 30 years before gaining permission to settle in the UK, saying it \"raises significant concerns.\" The policy was unveiled this week by Home Secretary Shabana Mahmood as part of a partial softening of her immigration plans, though she maintained rigorous rules for those who arrive on small boats. The 30-year earned settlement approach targets refugees arriving via informal routes into British territory.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/2026/nov/04/unhcr-criticises-uks-30-year-earned-settlement-plans-for-refugees"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Care workers face hostile environment despite Labour's partial U-turn on visa rules",
+    "summary": "A Guardian opinion piece by columnist Frances Ryan criticizes Labour's ongoing crackdown on care worker visas despite a partial policy reversal this week. The Home Office has been pushing to include care workers in a policy forcing low-paid migrant workers to wait 15 years before UK settlement\u2014a move described as counterproductive given the social care system's acute staff shortages and declining numbers of both British citizens and immigrants taking care roles.",
+    "bias_label": "Opinion/editorial",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/commentisfree/2026/nov/05/care-workers-visa-migration-labour-shabana-mahmood"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Netanyahu rivals cite Democratic US election victory as opportunity to push for his ouster",
+    "summary": "Israeli political rivals of Benjamin Netanyahu are leveraging the Democrats' success in recent US elections to campaign for his removal from office, according to Reuters reporting. The framing suggests Netanyahu's domestic opponents see shifting US political dynamics as creating an opening to challenge his leadership.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXFMUXhNOFRueTBpaDBRdk9WX0pJUW5DT21NakZ4WHlIZERjUWpfZHdjUkZ5OTRlSml1WnFNOGIxUEpBakFJbG90ZnFZMFh0Y2VwMGJ0VWJXVWZyMnBMWk5pMGpEa2NyQUN1dExweU1wYVhIdUtFUVBWcEViMlFTS2VBZDNaQmRsU0dfQ09Gd1FKOE9WN2ZDeFlTYjdlQ2k0QnJXeUpUeWgzWENBTkoyTmlwa2lvRkRuRURnZUFsdkw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Women and minorities achieve historic political breakthroughs in Democratic victories",
+    "summary": "Democrats' recent election victories have resulted in historic gains for women and minorities in US political representation, according to Reuters. The reporting highlights record-setting outcomes for previously underrepresented groups in electoral outcomes.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMisAFBVV95cUxNajdEWW5uUmVIMVJpcmRhTjBNUnl5NUY5ZGdmdDJnWTRIVUViQ1hNWGl0VmE1aGd6R1E0dGpNM3p5Mk1WRTVNVlBCZ1VpMmxjejJtdmZfOTEtRlg4MjhhNERqOHczUVY5VkZHUmhmbmkwS0ZRRkh2eDNsMzdPazRva2lSdHlXdEhIcWlWSjhIS29JTzJiWDJtdUVQQUwwbndhMEoyVnBfNENzMTZwcGxUXw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Zelenskiy expresses hope that US election outcome will boost aid for Ukraine",
+    "summary": "Ukrainian President Volodymyr Zelenskiy has indicated that the recent US election results could generate increased support for Ukraine, per Reuters reporting. The statement suggests Ukrainian leadership views the new American political landscape as potentially more favorable to continued military and financial assistance.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjFLdFdwNUNSQ1l4UnhlT3A0TTNua2ttWWJvNWtNQlpUVlZncVRzTnVZRUkydktKS1IwaHBQU243ajRzUC04N3lEZXhlV3hKczc3V1VvUjFCcy1ESXBUU09YVlBoVlNUaHVrTHR2SWFhMEIxNmlPazBWbTZZdEN2bWRmYmtrYzRqMy15ckpiWDdYNTJHYUUzdmZwZU05MnRiaTBVVTVmUnZtLXJyOEE?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Data center opposition emerges as significant political force in Trump-era midterm elections",
+    "summary": "A Reuters analysis suggests that opposition to data center projects demonstrated considerable political power in recent electoral outcomes affecting Trump-aligned candidates, marking what the report frames as a notable shift in grassroots campaign influence on midterm results.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ0RKVlY1MlliV3dhVWp3b2FVOGNsTGEyYnZLb1ZENVpINVdLdDVFTnNsazZ5b3FsbmVocktWZUhacFZmRU83cEFLOTNnOVBKZXJ6RUFoTjFncjJsNHB4Z25QMHlVLTNPRnE5TE5KNU9NN2JQQ09rQmo2N1N4dHFGNUEySXhLUVFhZVlJU0ZUd0V6aXhKVy1OT3JIa3lwdUpDT184VXpQYkthTXg1VWc?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "AI shopping agents pose emerging threat to Amazon and Walmart's digital advertising revenue",
+    "summary": "Reuters reports that artificial intelligence shopping agents could undermine the advertising business model relied upon by major retailers like Amazon and Walmart, representing a potential disruption to a significant revenue stream as AI tools increasingly handle consumer purchasing decisions.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUWZfYmc3VnVieU56OVF4S1RhMlVMMUhXR2JjZzFhVnVvcnBhLTU0aHFEUDVlN044aThuQWZ4UWpOY1c0cm5wT24xTktkRS1FVjI4VndwLU9WbzFSek1ublFKTmQ2UUxPMTVoam9lcmxnYUM2WGgxdUVOMF9EZ0MyVENMRDU3VUlZQk5yUGd0QXdQWWZUbVo0cVZ2azZFSUFERjhVX1pxaDVOQ0trZ1dRNTR4RFpBenh1QUgyWQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Ukraine's corruption police tie senior security officials to criminal ring",
+    "summary": "Ukraine's law enforcement authorities investigating corruption have linked senior security officials to involvement in a major criminal organization, according to a report from Reuters. The development marks a significant finding in ongoing efforts to combat corruption within Ukraine's security apparatus, though the feed snippet provides limited additional detail on the scope or nature of the alleged criminal activities or the specific officials involved.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOF9zQS1BZmV0MzhxeXhlN0xKYllETXY0YnNaWUw2LW9DckM1UjJXejFPRi1LMXlRSVB4SWwzQWNjWXlPUkgyVGNzOEhjczhrTjhEUUpaSUMxRVU0TndFaWJKS3RRVVBWMXNtX3JNVGFoQ0VJdmJGNUNsWWVsZ0lLWFBMRlBNMzY4aUM1N0doZVFsb2dtQUtmRXAzdHZxZ0VERlQ1Vm9yd0tFa0NFYUxJ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Hong Kong activist Joshua Wong sentenced to 10 years for national security conviction",
+    "summary": "Hong Kong pro-democracy activist Joshua Wong was sentenced to 10 years in prison on November 4, 2026, for his second conviction under a Beijing-imposed national security law. The sentence\u2014one of the heaviest under the law, matching that given to former law professor Benny Tai and surpassed only by former media tycoon Jimmy Lai's 20-year sentence\u2014comes just two months before Wong was due to be freed from a previous conviction under the same law. The prosecution charged Wong with conspiracy to collude with foreign forces, citing his advocacy work abroad, including lobbying efforts and coordination with overseas-based activists. Critics view the new conviction as evidence that national security charges are being repeatedly weaponized to extend incarceration of political prisoners, as part of a broader crackdown on Hong Kong's once-thriving pro-democracy movement that intensified after Beijing imposed the national security law in 2020. Hong Kong authorities maintain the law is essential for stability following the 2019 pro-democracy protests.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeW4tNlZjWHJjNXhIQXJhS3owZ3JIQ1U0VEo5RERfSGhldWx6Z0lQSzZTcmR5TU9aVzd3aWJaZVJwMHRIRVViMndnNDBESERVM2F6UWNyakVEMXdkNllqY3hOSTRzMV9yVGpIT1I1YkZjT01JNFF4cE05VW1VMzNNcjh2T1JqaEI5dGJBNGltcVhmaF9pYnM2WGg4MUJpOFRMY1NwcVVOR1RfdXRkaElFMEY2alEtWDhtYWswaA?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Trump faces Democratic probes and succession race after midterm election losses",
+    "summary": "After the midterm elections, former U.S. President Trump confronts the twin challenges of potential Democratic investigations and competition within his party to succeed him. The AP coverage notes Trump's historical ability to escape political consequences is changing in the face of electoral losses, marking a shift in the political dynamics surrounding the former president. The articles suggest this moment represents a meaningful break from Trump's past capacity to weather controversy without visible political damage.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World",
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekd4UWJndllyRDU5WTZ0c0ZDVlk4cEk2X3ZxcWhBUmVySWtTVGtvZk9HRTdzUWtuczQxTlEtNWFQTExrb296SzFwQkoxZnJpT0hndjFnMzhlb1oxN09IUmV2YjFMX2J4UUUwVk1QR1J6T2dRQjFjWG0weWViWTcxZWJ5QW52RUxja3Z3bXV0Q3lVd3AxUHc?oc=5",
+      "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMGdQR1FWSTFPNVdyeFBOWndlR2Y0d28wV2FtQ3hCVFNiMHNnX1k3MWpiYjhQVmlKMmEtNlYtaTBqRVJkYUlCeDI3Ni1McEVwOGxXZ1RVQzJodzlRLUNkTWxoSmZSa1FXbE05SnZ3Tlg0LUtzYVUzRkxoaW1rdTN6ZC1ad056NUVwSmlJbUdMTHB6d0JyUXZEUVpIRldBSk0tSTVnOW54MDU4RkN1c0E?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Joshua Wong sentenced to 10 years in prison in second national security case",
+    "summary": "Hong Kong pro-democracy activist Joshua Wong received a 10-year prison sentence in his second national security conviction, announced November 5, 2026, extending his detention by a decade just as his previous sentence was nearing completion. The Beijing-imposed national security law\u2014which criminalizes secession, subversion, foreign collusion, and terrorism\u2014has been used to prosecute Wong twice and 165 others in total, with only two acquittals recorded among all those charged. Wong, who came to prominence in 2012 as a high school student protesting national education and later co-founded the political party Demosisto, has become a target because Beijing views him as an anti-China, pro-independence figure crossing its red lines. The successive prosecutions exemplify critics' concerns that national security charges are being weaponized to keep dissidents imprisoned indefinitely, while Hong Kong authorities argue the law is necessary for stability.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVJKOWdMTUYyUUxqRVNtLXBGc2hjTTYwa3NQa0FNVXpKb3dnQzFySkJIY2I1MkhmZ0pscjE5SlFaQjEwZUROUjA2TlJlT1RVSjdYVkVycHZXcndMdW5Ic2Jtc1R3VW8wbWdvMm9BR2haOGZQblF6MjloYVFkU0t0ZU1tUTFkb1lVdm1QTl8tY3FFN2tBdGRMN3p6RUlLQ2NyZ184ejJJelYzVzdiNVVV?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  }
+]
