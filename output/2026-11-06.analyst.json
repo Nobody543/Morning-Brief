@@ -1,0 +1,284 @@
+[
+  {
+    "headline": "Bank of England raises interest rates to 4%, first increase in over three years",
+    "summary": "The Bank of England raised its base rate by 0.25 percentage points to 4%, marking the first rate increase in over three years. Most analysts had expected the move from the previous 3.75% level.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Bank of England rate rise draws criticism amid cost of living crisis",
+    "summary": "The Guardian criticises the Bank of England's decision to raise rates to 4% as ",
+    "bias_label": "Opposes rate increase; expresses household hardship perspective",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Trump claims recent meeting with Putin's envoy, signals optimism on Ukraine deal",
+    "summary": "Donald Trump stated he met with Dmitriev, a Putin envoy, and indicated he expects a Ukraine peace deal in the near term, per Reuters reporting.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World",
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQkIyajduM2t4eXl5eGs0V1hHU0Y2amcxWjM1dmthWmtDekkwV3V5MElyZlpjZFlfOUVENC1fSXJ2S0llMDloc2VJZmktZG5jUWFvMVUwbTJ6VkNuSF9EX0dEdzliNnlzN0J6RlIydnVMVE9sdVNpV3J1VzR0MTdfRk51WVE0dVk?oc=5",
+      "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWkhXRFdJbFdiTmQySWJyWVRIbHhpdFlXaVRSQmh6UzJvbDJSbWZUdGRwM0VPaFpHbkVpc1VmSlAybEFJUTN0cmNMWkpuX1FJSE8zT3NBYXdXY05lLUhjTldMelM1eGdUWWVnbF9qb0s3VFMySFJ1Qk5GTFJmeXVHM1NLaHNEMzdrZjhXNWpEcVhOQTdSV3V6SVVMQU0xMGtNbUhkblZRdG82aUdvTWxLbHZQUmFpdEh5WUV4ZUgtZU1JcjFjaUxZ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Trump political setbacks create near-term opportunity but long-term challenge for China",
+    "summary": "Reuters analysis suggests Trump's recent political difficulties signal short-term advantage but longer-term difficulties for China, though specific details are not available from the snippet.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVBkVEFRMUNIQ0xmQVZXR1lLZmJBeVJiMXJMalZKLTRCaG00cmhCWjVKQjZmUUh3ajlGY3hjejlwRm40M1BNVXlwWFJjcXU0Um40QVNQY1BjNEZFbGF0RUdvamZYNlBCelY2UFBuOHVzU2pRYWk5RXRPbjU5QkdwcUo2cXhKU2JqMy01ZHpoQk5MbTg2a19rdXRCR1JLeFI2RzJMNDNtMm9LelZOWS1vaVpyNG5GS2pManc?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Nvidia chips stranded in Hong Kong as China blocks import approvals",
+    "summary": "Reuters reported that advanced Nvidia computer chips are accumulating in Hong Kong after China withholded import approval, in an exclusive investigation.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHNUQnlURFBWSTlTSE5wNWUzekR0cDZfcWQzQVRFLVNweXJiSGhtSFZ6cWdvMXF4SHpLRy1YT1Y2QjJZMGxRajNaRGQ1Y25SVGkycEphaU4zTTRJSzV0QjNPTFMxeEl0Mm9CdGFQc0JJTHBNemVoSXdkTnhsR1FNR0t1b2hoUHdfSW0yVnlGMl95Qkd4dDAtMGdhYTFhUzRhc0U1Mm9fdGxLRnhacUNr?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "UK government moves toward mandatory salary disclosure in job postings",
+    "summary": "The UK government is requiring firms to publish salary ranges in job advertisements ahead of new legislation. Officials argue the change will aid jobseekers and help prevent pay discrimination.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Putin not invited to UK's 2027 G20 summit due to Russia sanctions",
+    "summary": "UK Prime Minister Andy Burnham announced that Russia's Vladimir Putin will not be invited to the G20 summit scheduled for November 2027 in Manchester, citing international sanctions against Russia as the reason.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cmqjnkn8951qo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Farage warns Trump may escalate Iran conflict following midterm election setbacks",
+    "summary": "Reform UK leader Nigel Farage expressed concern that Trump might intensify military action against Iran following midterm election losses, alleging Trump broke a campaign promise by initiating the conflict.",
+    "bias_label": "Anti-Trump perspective from UK opposition figure",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cqz0vz55jpglo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Palestine Action co-founder challenges Supreme Court on government proscription",
+    "summary": "Huda Ammori, co-founder of Palestine Action, is contesting the government's decision to proscribe the activist group. The challenge centers on whether the ban undermines confidence in anti-terror laws more broadly\u2014a legal test of how the government applies its proscription powers.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cmr4yvel29keo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "UK energy minister summons suppliers to meeting ahead of \u00a32.5bn debt relief scheme",
+    "summary": "An energy minister has told bosses of Britain's major energy suppliers to do more to help households manage unpaid bills this winter before the government spends nearly \u00a32.5 billion to write off record-high energy debts affecting about 2.4 million households. The suppliers were summoned to a roundtable meeting on Thursday to discuss the debt relief plan, signaling government pressure on the sector to act before public funds are deployed.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/business/2026/nov/06/minister-energy-suppliers-help-households-unpaid-bills-debt-relief"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "UK government considers restrictions on smart glasses sales over secret filming concerns",
+    "summary": "The UK government is considering placing restrictions on smart glasses sales amid concerns the technology is being used to surreptitiously film women. Safeguarding minister Satvir Kaur hinted in Parliament at a potential ban on selling the technology \"to certain users,\" suggesting a targeted approach rather than an outright prohibition.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/uk-news/2026/nov/04/uk-government-considers-smart-glasses-ban-over-secret-filming-concerns"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "EU demands UK commitment on discounted university fees for European students before summit",
+    "summary": "The EU is seeking a firmer pledge from the British government to guarantee European students discounted domestic tuition rates before a summit scheduled for later this month. At a Wednesday meeting of senior EU diplomats, at least six member states called for a clear commitment from the UK, with some suggesting that failure to agree could delay a prized food and drink trade deal.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Burnham initiates structured dialogue on slavery apology, but rules out reparations",
+    "summary": "Prime Minister Andy Burnham has asked Commonwealth nations affected by Britain's role in slavery to help shape a formal apology through a \"structured dialogue\" during the Commonwealth Heads of Government Meeting in Antigua and Barbuda. Though the plans for talks were received positively, the British government is still rejecting calls for financial reparations, which campaigners have sought for decades.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/news/audio/2026/nov/05/will-the-uk-finally-pay-slavery-reparations-the-latest"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Burnham seeks to reshape Chagos Islands deal as US resistance emerges",
+    "summary": "Prime Minister Andy Burnham has said he wants to \"recast\" the UK's agreement to cede control of the Chagos Islands following US resistance. The US suggested the deal could instead be modelled on its arrangement with Denmark over Greenland, indicating disagreement over the approach to the disputed territory, which hosts the strategically important Diego Garcia military base.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/nov/05/andy-burnham-recast-chagos-islands-deal-us-resistance"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Former UK ambassador warns of diplomatic challenges as Trump faces midterm defeat",
+    "summary": "Kim Darroch, Britain's ambassador to the US from 2016 to 2019, reflects on the implications of Trump's midterm defeat for UK-US relations. The commentary piece draws on Darroch's experience during Trump's first presidency and notes that while the president's power is diminishing domestically, he may look to foreign policy to reassert influence.",
+    "bias_label": "opinion/analysis piece",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/commentisfree/2026/nov/05/trump-midterms-defeat-how-should-uk-deal-ambassador-kim-darroch"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Britain eyes lessons from Dutch slavery apology backlash as it plots its own",
+    "summary": "Prime Minister Andy Burnham's pledge to seek \"structured dialogue\" with former colonies over Britain's slavery apology follows a path the Netherlands began five years ago. The Dutch experience\u2014which many felt was mishandled and exclusionary, mirroring past inequality\u2014offers cautionary lessons as the UK, alongside the royal family, attempts a historic shift in how it addresses its colonial past.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/world/2026/nov/05/what-can-britain-learn-dutch-slavery-apology"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "AI backlash could threaten Anthropic's IPO timing, potential investors warn",
+    "summary": "Potential investors have told Reuters that public backlash against artificial intelligence could pose a risk to the timing of Anthropic's initial public offering. The concern reflects growing scrutiny of AI companies and their societal impact, which may influence investor appetite for AI-focused IPOs in the near term.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGVmWktzeU5zbmRiaDdiZ2pxbEJhRk94VGN2V1lxUmpTNTFFNjhLR0puTjROeHE4UENDYjQ3OEFNbHdralNNdVJ2ZThsMldHZFlrcDZ1U21BTS1aeHU1aGNUNWRnTHc2SU5DVUktREt0Q3hzUkNhN1VJNDZYR3JLdjhwZUlaQjZCSl9Oa1dfT0d2dUotaWhDMkgxU1RBdVJOSEMwMzJsd0M3TmIyTGZ2WFZpVQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Trump retains dominant influence over US foreign policy despite midterm congressional shifts",
+    "summary": "Despite Democrats gaining ground in midterm elections that altered the composition of Congress, Trump continues to exercise commanding influence over US foreign policy decisions. The report suggests that regardless of congressional changes, Trump's control over foreign policy matters remains largely intact.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaFdhWXVRZDFtNThlVzMtcUs4eU9nTlVZZHJHZzAxbUhKNVBYN3FoR0lSMHJNSzVkQVJQdXlaWTZQZXNwUzEwSkhxRjBwQ1dRZzIyMFV5QkhTaWRmWHVKWEdSQmhyR1NHaUhyMlpnV09GVkxPbmh5MTlUZEphbVE1OENqSXlNTmdEejZPbUlNdmdzRTBiRnVYTHNuWHVQUEo0VXFvODJTaElxQQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Democrats block Trump-backed redistricting effort in post-midterm congressional landscape",
+    "summary": "A Democratic electoral wave has derailed Trump's efforts to redraw US House districts, suggesting that the party's midterm gains have given it sufficient power to block the redistricting initiative. The result reflects the shifting balance of congressional power following the recent elections.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcGl1SHNUa3JaWGtRLVF6Z21vRzE0emFIdnVMbmFualV3ME1KbTZXYkt6MkZCaDJKbmZ1MHFzZFh6SVdLOWFxXzF5OG5YcGZzLVI5SjhqUktLRW14N0Rud0FZMENNbHZ6TFp1d20xT1dINGswaU5Wc0JNd055dEtmQWtNb0tSZTdzWl94ODdHVlluMU9ETFVaMmgyVHMyMldtYkhFWkVXRjVPeXBDT0x3VmVGcENNUUlsZGk4?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "California governor grants clemency to all 548 death row inmates",
+    "summary": "The California governor has announced plans to grant clemency to all 548 inmates currently on the state's death row. This represents a sweeping act of executive clemency affecting the entire state death row population.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFpTdTN5c1lMaW81c2hwQkJjQ2E3U1hWWGVTUjlraUJoLVNxdGcybWNVY1FXMm03MXZkeWEwVWpabEcwdW9qRkxBeXhZRGlJRUp2NVl0T1pjWFBNRE9hX21ySTVraGxaTm54OS1TXzB6NXJLY2NkQ3JURnluWWpEM0g0VmRGMm1XczdBR1ZTVjZFRkxzejg3UjJ5eTNCZmxlbXVmczZ6bmZYd3Q0aE82LQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  }
+]
