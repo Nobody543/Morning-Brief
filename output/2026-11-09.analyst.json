@@ -1,0 +1,284 @@
+[
+  {
+    "headline": "Government expected to reduce EV phase-out targets this week",
+    "summary": "The government is expected to announce a reduction to its electric vehicle targets this week. While the current policy calls for petrol and diesel car sales to end by 2030 and all new cars to be zero-emission by 2035, the revised targets appear set to be less ambitious.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "TUC chief warns youth employment crisis needs major investment boost",
+    "summary": "Paul Nowak, general secretary of the Trades Union Congress, has called for drastically increased government investment in employment support to address Britain's youth jobs crisis, ahead of a significant report expected next week. He warned the government has a \"once in a generation chance\" to secure young people's futures and urged ministers to avoid making arbitrary cuts to benefits before the anticipated Milburn review is published.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/society/2026/nov/09/uk-young-people-job-work-employment-crisis-paul-nowak-milburn-review"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Burnham's Christmas homelessness pledge under pressure amid rising rough sleeping",
+    "summary": "Labour minister Andy Burnham's pledge to house every rough sleeper in England by Christmas faces serious challenges as rough sleeping numbers increased by nearly 1,000 between January and June 2026. The effort is hampered by a severe housing shortage, with official figures showing rising numbers of people on the streets despite the government's aim to get everyone indoors for the festive period.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/society/2026/nov/09/burnham-homelessness-pledge-rough-sleeping-england"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Independence concerns raised as US AI safety center staff report to White House",
+    "summary": "Staff at the US center for AI safety are reporting to the White House, raising concerns about the center's independence from political influence. The arrangement has prompted questions about whether the center can maintain its autonomy while maintaining direct reporting lines to the executive branch.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZy1KSXNvR1dGeEJmdHRLLUNyanRpWlFMR3JKVlhQR3AyMU83Vkp1bTk0Y2tXUUhEVHdIUzZpQ2o5RmVzclR3S1QtVjlacmthZlQ0OUFyTTRzbl9Nb3JpMlFreTFPdzVoRlRNeDZNMlRBODVieTBXbU9vSTNSN1VvT2lNNjVfcXBaMmpTaTJtS2Q?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Culture secretary defends UK Erasmus scheme return amid Remembrance Day row",
+    "summary": "Culture Secretary Lisa Nandy has dismissed claims that the government is politicizing Remembrance Sunday following controversy over the UK's decision to rejoin the EU's study and work scheme. Nandy argued that the scheme's reinstatement honors wartime sacrifice and rejected suggestions that announcing the policy around Remembrance Day was politically motivated.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Education secretary warns against treating secondary schools as 'early exam factories'",
+    "summary": "Education Secretary Lucy Powell has warned that schools' widespread practice of teaching GCSE subjects to younger pupils\u2014as early as year 9\u2014is turning secondary schools into \"early exam factories\" and increasing disengagement from education. Powell plans to include proposals to end this practice in an overhaul of England's national curriculum and says she will reduce the amount of GCSE content to make it easier to fit into the official timetable.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "NHS launches \u00a340m winter scheme to keep vulnerable patients at home",
+    "summary": "The NHS is deploying a \u00a340 million scheme in England this winter aimed at preventing unnecessary hospital admissions among vulnerable patients. The program will see family doctors offer 300,000 people with frailty and long-term conditions health checks, medication reviews, and respiratory tests designed to keep them well at home and reduce winter pressure on hospitals.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/society/2026/nov/08/gps-extra-checks-winter-nhs-hospitals-england"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Russell Brand conviction should prompt media industry to protect women, Nandy says",
+    "summary": "Culture Secretary Lisa Nandy has said Russell Brand's recent conviction for rape and sexual assault should serve as a wake-up call for the media industry and broader public life. Nandy highlighted an ongoing problem with exploitation and abuse in the media industry, noting that women who come forward are too often not protected by institutions and that power imbalances make speaking up come at heavy personal cost.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Culture Secretary Lisa Nandy warns against revisiting Brexit, but backs closer EU ties",
+    "summary": "Lisa Nandy, UK culture secretary and member of Prime Minister Andy Burnham's cabinet, said she wants to avoid repeated arguments over EU rejoinment but backed pursuing closer ties with the EU to fulfil promises made in the original referendum. Her comments highlight divisions within the government over whether to revisit Brexit, with Nandy appearing to oppose full rejoinment while still advocating for strengthened EU relations.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "UK wasted \u00a3100m on unused Brexit border inspection posts",
+    "summary": "Five of seven Brexit border inspection facilities built in England and Wales never became operational, resulting in at least \u00a3100 million in wasted taxpayer money, according to reporting based on government disclosures. The facilities were abandoned as the Conservative government vacillated over whether to implement goods checks at the border post-Brexit. This waste is part of the broader \u00a34.7 billion cost of Brexit cited by the National Audit Office, which included customs software transformation and other border systems.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/nov/08/uk-zombie-brexit-border-inspection-posts-check-goods"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Labour MP urges UK to ditch Palantir NHS contract next spring",
+    "summary": "Ben Coleman, a Labour MP on the health and social care committee, argues that the UK should end its \u00a3330 million contract with US tech firm Palantir to run the NHS England federated data platform when it expires in March. Coleman contends that public trust in Palantir is low, its benefits are contested, and other tools could deliver comparable advantages. He warns against replacing Palantir with a single British firm, as that would not give the NHS the supplier independence it needs\u2014the ability to switch vendors without losing the infrastructure it has built.",
+    "bias_label": "Labour-aligned opinion piece",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/commentisfree/2026/nov/09/british-people-palantir-nhs-health-data-us-tech-firm"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Nearly a million young people in the UK lack jobs, education or training\u2014part of an emerging 'lost generation'",
+    "summary": "An estimated 981,000 young people in the UK are classified as NEET (not in education, employment or training), a figure former New Labour minister Alan Milburn is investigating and has termed a 'lost generation' and 'moral crisis'. The annual cost of supporting such young people is put at \u00a3125 billion\u2014more than the UK spends on either education or defence. The piece, by Guardian columnist John Harris, profiles real NEETs like 23-year-old Callum Atkinson from Rochdale, exploring the job-search barriers they face including AI-generated rejection emails.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/commentisfree/2026/nov/08/young-people-soul-crushing-reality-neet-alan-milburn-life"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "AI-generated complaints overwhelm UK public sector inboxes",
+    "summary": "MPs, local authorities, lawyers, schools and other public institutions are experiencing a surge in AI-generated correspondence\u2014half the emails one Labour MP's office receives are now some form of AI, according to a caseworker with a decade of experience. Though volumes began as a trickle in 2024, they have grown into what workers describe as an 'onslaught,' making requests and complaints more complex and time-consuming to process despite AI's theoretical efficiency benefits.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Nvidia CEO Jensen Huang admits affair as company probes whether he was target of Chinese espionage",
+    "summary": "Nvidia is investigating whether CEO Jensen Huang was targeted for espionage by a Chinese national with whom he had an affair. The investigation centers on whether Huang's personal involvement posed a security risk to the company or provided intelligence access to a foreign power. No further details on the nature or scope of the alleged espionage are available from the sources provided.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World",
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFNRSy1yS0duakdXT1hKbjI2MkFsMVhHeTQ1VVh4QlZYOVdvd0ZKaWVjTzFXT2JCRlR2T2IzSjRKcENSTkNLbVR2VU90Q1VyUHhEZWp0NGZLQUZPRXJ1NlNVNG9OZ0U0T2VwYmJuaURBMWVBYXhHd1hDb00zZU9aUXJGaU10bmFrclgySUZoUE1GX210Q19TQ1pXRjJTVFpoZjN2NG9qblVQMXhHUC1vV3JxaHkxbVJiVkhldEZISHlCdw?oc=5",
+      "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUzB5YTdpVVRqQUNKMHhoR3ZQNEdMb00yeU1kQUpTM2tDT2lHbTRmb1p5NHpmdDZqZ21EQlVNTEIzd2tlbDh2cUIwM1RNOVVQeFF6bDdjbXplNjhnWU1VUTR1NndXOFRGTUJlbHJGcmstaWgxWGdSX05SWW9qWmRaUlpLVTBGX1VNc3RnOEpqSktRZW96d0lVYVd0SEg5ZGlnd1FFMDNpdWo?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Trump signals willingness to accept AI guardrails as risks manageable",
+    "summary": "President Trump stated that artificial intelligence risks can be managed and signaled openness to guardrails governing AI development and deployment. The remarks indicate a potential shift in the incoming administration's approach to technology regulation, though no specific guardrails or policy proposals were detailed.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR0pjQ3BqWnFTMHRZQTVMM0NKR0FIN3RFUnZadVNsY0N5cGV2VkEzeFRtSUhhOEtZLUNyVDBMa05vZDdIS05Qa0s2QUhNWTRJZ3F1OE11SG53RFYtY1pPeWFIQ1d3YTJkNFNyaS11aUJ5UU1zU3pWQ08wNXJ2N2lVajJnblJSLUh4Zks2TTdaaXRVWFpKdEJRMTM3c2hPRy11aXpDTlM3cw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Trump says Iran military strikes unlikely if diplomatic talks progress",
+    "summary": "President Trump stated he is highly unlikely to order military strikes against Iran if negotiations progress, suggesting a preference for diplomatic resolution over military action on the Iran question. The conditional framing leaves open the possibility of strikes should talks stall.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "South Africa's ANC takes a beating in municipal vote, setting up tough coalition talks",
+    "summary": "South Africa's African National Congress (ANC), which has governed the country since the end of apartheid in 1994, suffered significant losses in municipal elections. The poor showing has triggered difficult negotiations over forming coalition governments in key cities and regions, weakening the ANC's traditionally dominant political position.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUWgtMk9QU2tBNWhzbzUwRWFhUGFmeXFEZkRsVlBaVjk1U2hGVlRIUzhuUkhCRlE5OFNzcWwzT1QwbFAyTzdtc1J2eDh6Mzl0OVJkZFI5OUVoSU41N3JvSUM5dmsxYmFoOWl2dldEQ2J4THlmWFhkQWxvcHVnTEZLQ1Nvc0t1Q3MzMkkwSGgxRWhjSktRX1I2N201SGhMYWNJQ1NsM0lkZ1FrZGcyRUFVTm1qZHhRaTcxb3pQdVNNQQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Trump expects to meet Xi and Putin at China APEC summit",
+    "summary": "President Trump stated he expects to meet with Chinese leader Xi Jinping and Russian President Putin at the Asia-Pacific Economic Cooperation (APEC) summit being held in China. The announcement signals potential high-level diplomatic engagement at the international economic forum, though detailed discussion of any planned agenda was not indicated.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY0h5RWRYOHBsak5MVm5FQy1UV09NSk1odWFia1BUV1VJeVE5Z01CU0NqLVc1ckZ0V1FGSndBMUVMSlRyOVpnNktxVmNoZm13Y1FwTUw3QWxGYk5YR0VHX0k5VFlFZDJXWTJBYi03dWJ6c1MxLXZQdDVCWVBDOUJDOW5rLUdFYkZjaVZzRkNzTVd1YnpvV0tHV0p1YlNQbTRzVUE?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Trump to meet Qatar's prime minister amid challenges in Iran diplomacy",
+    "summary": "President Trump is scheduled to meet with Qatar's prime minister, as efforts to engage diplomatically with Iran face complications. The meeting underscores the importance of Gulf allies in any Middle Eastern diplomatic strategy, though the specific hurdles blocking Iran diplomacy were not detailed in the announcement.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdS16MHhHTm9BaFNxQWlxTTl4Mm1YbHktbTZ3Yi0yY1MtdkJSQ0Q0RWI0eko3cVhDVHlybTBMTU05cDhwdG5oQzhVSS1ndXhfOWV6eEQ1M2J0cFI0SzFXenhSMWF1YzcyNkVzQ3lDVVRVVWhGbVA2cHdPV3BHc3B2UG82eUxHcHFCbHJ5c2xCU05nU01uYlJjU1pMZU5XWUFHdFFlaV9ma0RPOGFwYmVsY3dtTTcxQQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Russia claims strikes on Ukrainian power infrastructure and Black Sea targets",
+    "summary": "Russia stated it struck power substations in Ukraine and attacked three ships operating in the Black Sea. The claimed strikes are part of Russia's ongoing military operations against Ukrainian infrastructure and naval assets in the contested waters, though independent verification of the strikes was not provided.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN3I3aVRlN2tQellIUkRxQVR6VFhUWkRfZlJQUWsyR3g0S0w2Wlg1cUt6SW9fc081c1hfcTdPSTJwZzJIWUVtQXN1SVJiRm9zTWJKYjM2RTV3TWVBa001Y1RmeVhEOHVnb3pCSUt5T3BxU19VeDhXNGdmNkg0SlNHUWszcHI3X1hsbjJiWFN5MXlEcHdVM21wNTJrRHlVeTFQZl9CYlRwMmY?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  }
+]
