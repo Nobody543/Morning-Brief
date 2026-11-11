@@ -1,0 +1,276 @@
+[
+  {
+    "headline": "Conservatives pledge \u00a336bn welfare cuts including restrictions on ADHD benefits",
+    "summary": "Conservative leader Kemi Badenoch launched a \"Welfare That Works\" policy document on 10 November outlining \u00a336bn in benefit reductions, with shadow minister Helen Whately warning that ADHD claimants with \"milder cases\" risk being pushed onto \"a conveyor belt\" toward long-term dependency. The proposal drew immediate criticism from Labour, with the party describing it as \"a charter for human misery.\" Even within conservative media, critics noted that public trust remains fragile on welfare issues and cautioned that the Tories cannot assume the policy will automatically restore confidence in their approach, particularly given recent Labour government struggles with welfare credibility.",
+    "bias_label": "Conservative policy announcement; Guardian opinion coverage reflects left-leaning scrutiny",
+    "headline_only": false,
+    "sources": [
+      "BBC Politics",
+      "The Guardian Politics",
+      "ConservativeHome",
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c3j474prl2r7o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
+      "https://conservativehome.com/2026/11/11/emmanuel-igwe-kemi-must-still-build-trust-on-welfare/",
+      "https://www.theguardian.com/politics/2026/nov/10/john-crace-kemi-badenoch-tough-love-war-on-benefits"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "UK cabinet secretary calls Whitehall \"tame and risk-averse,\" pledges radical civil service overhaul",
+    "summary": "Antonia Romeo, the UK's top civil servant, delivered a lecture at the LSE on 11 November describing the civil service as overly \"tame, reactive and risk-averse\" and pledging a \"completely new approach\" to managing civil servant performance in the face of AI disruption and global threats. Prime Minister Andy Burnham and Deputy Louise Haigh attended. The Institute for Government analysis welcomed Romeo's rhetoric on the urgency of reform but warned that her credibility depends on delivering \"quick, big wins\" rather than merely launching yet another review\u2014noting a pattern of failed reform promises stretching back over a decade, with her own review not due to report until summer 2027. Critics cautioned that without concrete early action, belief in the overhaul will fade.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "The Guardian Politics",
+      "Institute for Government"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/nov/11/whitehall-tame-reactive-risk-averse-antonia-romeo-cabinet-secretary",
+      "https://www.instituteforgovernment.org.uk/comment/antonia-romeo-reforms-match-rhetoric"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Britain signals willingness to discuss paying into EU funds for electricity market access",
+    "summary": "Hamish Falconer, the cabinet minister negotiating UK-EU relations, told the Guardian on 10 November that Britain is willing to discuss paying toward EU infrastructure schemes in poorer regions in return for access to the European electricity market. He said the two sides have not yet accepted the principle of linking electricity trade to an EU \"cohesion fund\" but confirmed the issue will be discussed after the next EU summit as part of deeper bilateral engagement over the coming years.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Russia and Ukraine hold first US-mediated peace talks in nine months in Abu Dhabi",
+    "summary": "Russian and Ukrainian delegations held trilateral talks with US mediators in Abu Dhabi on 10 November, the first such meeting since February and the first in nine months, lasting approximately four hours. US Secretary of State Marco Rubio described the session as \"very productive,\" while Ukrainian President Volodymyr Zelenskyy called it \"constructive and quite substantive,\" noting discussions centered on humanitarian issues including prisoner exchanges and the return of captured civilians and children. Russian lead negotiator Vladimir Medinsky expressed hope the talks would \"advance on the path towards peace.\" The talks, expected to resume 11 November, will address security guarantees and broader European security arrangements, though both sides remained publicly cautious about prospects for breakthrough. Trump's envoy Jared Kushner proposed a new European security architecture involving Russia and European states, building on discussions about prisoner swaps and de-escalation.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVExTdERDcjlMTVdhVllZOW9xZDhyZl9rSGt1YS1WNFdvMFRuZzBrZ0JWRW9vVWVzZFUxc2ZUd2k1cU5VSWZHTDc4TUVxc0NsQzRaaVlXSXpKdDczUW80a3BQUXF0Q3RXaXlVazJkcVBaWFhzN082T3QyaTNwODNQT2o3OGJDYnl5emtrcVhUVVUzSlhJTXpHakpOcTNNR1J5cFJXZ0lYSWN2ZU9q?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Nvidia board launches investigation into CEO Jensen Huang over alleged Chinese intelligence targeting",
+    "summary": "Nvidia's board opened an independent investigation into founder and CEO Jensen Huang after reports he had a romantic relationship with Alice Huang, a Chinese businesswoman identified by US intelligence agencies as working for China's Ministry of State Security. Intelligence officials from the US, Singapore, and Taiwan assessed she was a Chinese spy; reports indicate their relationship, dating to at least 2023, may have facilitated at least $7.5 billion in chip shipments through Chinese companies, though Nvidia's board stated it has no reason to believe national security or company secrets were compromised. Huang admitted to the affair in an email to staff, saying he had \"fallen short\" of his responsibilities. Congressional scrutiny intensified, with bipartisan calls for answers and Commerce Secretary Howard Lutnick reportedly receiving classified warnings. Nvidia's stock fell 4% on news of the investigation, raising investor questions about his future as CEO, though Huang pledged to cooperate and the company stated he remains committed to leading Nvidia.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Google DeepMind's AlphaProof verifies Signal's encryption with millions of lines of formal proof",
+    "summary": "Google DeepMind announced a breakthrough in formal software verification: AlphaProof Code agents generated over three million lines of machine-checked proofs in the Lean programming language to verify Signal's core cryptographic protections down to machine instructions. Formal verification\u2014proving mathematically that code behaves exactly as intended\u2014represents a significant advance in ensuring the security of critical systems, moving beyond traditional testing methods by providing absolute assurance rather than probabilistic confidence.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Ukraine created first-of-its-kind dedicated military branch for unmanned systems to exploit speed advantage",
+    "summary": "In late 2023, Ukraine's military leadership chose to establish the world's first dedicated armed forces branch for unmanned systems, despite traditional doctrine arguments that drones lack a singular domain of war. The decision reflected a collision between career generals favoring integration into existing branches and civilian-background reformers emphasizing rapid adaptation. Author Oleksiy Honcharuk, who advised the branch's first commander and helped build the 412th \"Nemesis\" brigade, argues the real innovation is structural: Ukraine's unmanned forces operate in what he calls the \"Time Domain\"\u2014a competition not for territory but for speed of adaptation. A unit updating tactics and technology every six weeks maintains advantage over one updating annually; with roughly 2.5 percent of Ukraine's military personnel, the unmanned forces have accounted for roughly a third of Russian losses in the past year. Under Russian material superiority across traditional measures, innovation speed was not an advantage for Ukraine but \"a condition of existence.\"",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "Google DeepMind Blog"
+    ],
+    "links": [
+      "https://deepmind.google/blog/introducing-alphaproof-code/"
+    ],
+    "category": "AI",
+    "priority": 9
+  },
+  {
+    "headline": "Labour MPs raise concerns Burnham's 10-year plan lacks radical detail",
+    "summary": "Labour MPs from the Reindustrialisation Research Group (ReRG)\u2014many representing former \"red wall\" constituencies that swung Labour's way in the recent election\u2014have expressed alarm that Andy Burnham's 10-year government strategy will not be radical or detailed enough. The group is meeting Sally Jameson, the Cabinet Office minister, on Wednesday to convey their concerns about the prime minister's long-term direction. The pushback from within Labour's own ranks suggests tension between Burnham's vision and the expectations of MPs from traditional working-class seats who helped deliver the party back to power.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/nov/11/labour-mps-raise-concerns-andy-burnham-10-year-plan-not-radical-enough"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Niesr warns Bank of England's cautious rate rise risks prolonged inflation",
+    "summary": "The National Institute of Economic and Social Research (Niesr), a leading independent thinktank, has strongly criticised the Bank of England's response to rising inflation, arguing that last week's hesitant interest rate increase will likely make inflation a persistent feature of the UK economy. Niesr forecasts inflation will remain above the Bank's 2% target until at least 2030, and warns that the timid approach risks locking in higher interest rates for an extended period. The critique reflects a broader debate about the appropriate pace and magnitude of monetary tightening needed to tackle current inflationary pressures.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Scottish Labour leader Marra advocates EU rejoin but acknowledges difficulties",
+    "summary": "Michael Marra, leader of Scottish Labour, has stated that the UK should pursue rejoining the European Union, while emphasizing the need for \"solidarity, not separation\" and acknowledging that \"re-joining the EU won't be easy.\" The comments reflect Scottish Labour's distinct position on UK-EU relations within the broader Labour party.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c820v0e43xr4o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Russia prioritizes European security framework in Ukraine peace talks",
+    "summary": "A Russian delegation source has indicated that establishing a new European security framework is the main focus of Russia's approach to ongoing talks over Ukraine. The statement suggests Russia's negotiating position centres on broader security architecture rather than narrower military outcomes.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeV9jM2c1bUNuM1JEalVybmVybVZfM1docm42TjZ6QWdiNFZmeWItTndYZjk0dExkMUhnQzlLWTRGWDJuVVoxR2NBMlQtZW1nY1owdE5IaWM5SVBoTXp3NjdROWhRcjh3Z3A5SFl6VExpWGJ2WFl5TnZ0UUxQamgxcXdUNE1BSER5cUdqVVdwc3pJcWYzc1dGNmlmS1FkdmJMb1o3T282eU9FMDM1ZWw4VURkQ3BXQUJqdEVkUGZndl9vSTNWWGc?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Zelenskiy reports positive signals from US envoys on Ukraine diplomatic efforts",
+    "summary": "Ukrainian President Zelenskiy has expressed satisfaction with messages received from US envoys regarding diplomatic initiatives aimed at ending the war in Ukraine. The comment indicates ongoing engagement between Ukraine and the United States on potential peace negotiations.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOE1NajdIbmstcUtMa2VYcTRvZlFjbElZOG1aZVN6NDFyU1pxbTNlVkR6SnRqejAyYkMwcy0zV0YyT2lCeEtfaVNEVUwzaWo1cFA5Uko1QzVCQU13UDFhN1RWZGxwSjRqbmJEeUlqWVYwX0xuQ0EySE5wWk85X1Y4RXFUVnprRmw3eFpkY0RDbk1HTFg4N1I0X082Z3RNSkpOUDd0bGw0aFA0Zmdad2ozakRBQ0ZOeU1fTnZ4bExVUQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Ukraine presses US to accelerate air-defence interceptor deliveries amid Russian attacks",
+    "summary": "Ukraine is urging the United States to speed up deliveries of air-defence interceptors as Russia continues targeting the country's power grid. The request underscores Ukraine's immediate defensive needs against Russian aerial strikes on critical infrastructure.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTGdwSTdVbDNKcWFuM2ZVdk0zSmFHNkh2UFFLR1JQZnUzeXB3aFBWS1NDcTJWWWV3R1lxR2VseHRYdkpQX0xjRGFFekdiRUdQSVhYWktBTVV3TV90RHVhRUJGWHZ5XzllTTRQckZ6WG12MWxNZ2NTclBua3VHaWs4aHRnX2NZLXF0bjB6MF9kUzBRcVlBZzFPaTAwaFJXeXRqOUxDcm1YZHFpZEVFRm9rTDc1S3kyVDlxdGpDbUlOYw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Canada reimpose sanctions on Iranian nuclear entities",
+    "summary": "Canada has reimposed sanctions on 11 Iranian entities deemed to be contributing to Iran's nuclear activities. The move represents a hardened stance on Iran's nuclear programme.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUZmREVMbUtQd1F6bVdxUUNDSWx1bThmbXBERGNOSk9JVG9JMVlYNkRvRW5BdVkydEVZQmROcXBVMUptMGUwYmZYQXhtTUpkTmJYQkFUWG41bVBESldpd2ZyWlpJMFNHLTQ5bjIwZEpIWUVVcmhxRVl5Z3QxNEl5SDd2XzJGaGVPRTFIb3ZiN19Kb2hCUEtuenBNbTJMdmhSTXc2a2w2V1FFcktPX1kxR1hreWxKaGFZaUdQZQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "US Treasury Secretary Bessent relocated to military base amid Iranian security threats",
+    "summary": "US Treasury Secretary Henry Bessent has been moved to a military base following Iranian threats, according to unnamed sources. The relocation reflects elevated security concerns tied to Iran-US tensions.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT3lYOEw5X1FaSkpweDhiUmp3d0QybFR3ZU4xRl8wYXRRMS1CbzFFWENqLXNBVDZhOHBvSHdXSFh3NW5oNXEyUjRfWmFMT0g1bkV2NXRWWDc5UUpsaXVWLWxwQ0RLSkRkTW5jSWlkQ1p1dzFRa2pySzFVTklVb0k3TFo1bmZPb0lZTXVId1oyN2hCZGxkRmZua2R1ay1LN3VkNE1zb1FFNHUwNGNwSlBVdE5aMzFocFlGWTNINElWV3BvY21lOWRNTmxaNHB2dw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "US Secretary of State Rubio says major Iran military operations not necessary given economic pressure",
+    "summary": "Secretary of State Marco Rubio stated that large-scale military combat operations against Iran are not required, given the effectiveness of a US economic campaign against Tehran. The comment suggests the Trump administration views financial and economic measures as a sufficient tool for pressuring Iran without escalating to direct military engagement.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxOek5yNnd3UkRRS2RHYjY5MlR1NU9KQnFWcW43RGV1VHI5Yzhxc3RseUstNnVCbXVlUTN3T1hTcE9RUEFGT0R6Q0JUTmQxNW1aX2lZM0RXZkNjLTgwdWQ5aFN1OGM2LTBLcV91MlBkdDE0a2VCQk5nNUdDOGo1ZHI2TW9Pa010QjlrcjQwU0htVjlTMlVOUXJ2cThHQ0JHY09rSHFyYVgtNzNhMXNVVzJ3UTZTb1R6cmM?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Slovakia's PM Fico accuses Germany's Chancellor Merz of 'blackmail' over Ukraine funding and EU budget",
+    "summary": "Slovak Prime Minister Robert Fico has accused German Chancellor Friedrich Merz of \"blackmail\" after Merz made Germany's support for the EU's 2028\u201334 budget conditional on all member states contributing to Ukraine's financing. Merz had written to European Council President Ant\u00f3nio Costa stating that Berlin would not approve the next seven-year budget unless all EU countries agreed to fund Ukraine, which faces a \u20ac70 billion funding gap in 2027. The EU is expected to cover approximately \u20ac45 billion of that shortfall. Merz is leveraging Germany's position as the largest net contributor to the EU budget to force hesitant member states\u2014including Hungary, Slovakia, Bulgaria, and the Czech Republic\u2014to commit to Ukraine aid. Eastern European leaders, particularly Fico, have rejected linking Ukraine financing to the broader budget negotiations, viewing it as coercive. The dispute reflects a fundamental tension in European decision-making: Merz's use of budgetary leverage to ensure unified support for Ukraine versus the objections of net-beneficiary countries seeking to avoid additional obligations.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZnM0RUlnSmE5cHpkOFdfNWYteFFwaW5pY1hkZDBmbW5MYTFQMHdxN3ZoYlg2bmwyN19QWVFCT2MwdGh2M1pFOWtNNUx4azYtZ1NZNHBXMlZ2WXdsV2lsNFdEQVB4UTI5NXdDdTZwMW5aQU5oSVhNdWtDblFHUXBZcDFlMl9jWlZJeEFzblNFaldIMlFBTlExVkxZa1NiNGNNbkNSM1hqNmRGQUc0ajJ6akh3cjVzaW5XNnZn?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "German military bans commercially available Chinese drones",
+    "summary": "The German military has implemented a ban on commercially available Chinese drones, according to reporting from the German newspaper Spiegel. The move reflects security concerns over Chinese technology in sensitive military environments.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVncwXy1KTUlVb2o0WUVHY0JEZ3lkbVJFSl9zTzRqQU1nUV9nV3hDcnU5bVhIbGxQZDlWb0doMHdZcUdxVC1YdUFNNG1IMHk2dks0azFIdXJPQ2VZX3FabVRTM2puNm9XQUJCSHZVSGZJRUpUUHVfUnNFQkNfQUYwc0VPT3poV1VBWTY1a2lVVlo5alNJVWJiM0NUWGc4M3NGV1lGd3plNVVTeXFfbDR5dXJsZGZuWnE5dlR6STVfZGlCdEtRM3ZPcg?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Senate Republican Kevin Cramer calls for Nvidia CEO Jensen Huang to resign over alleged Chinese spy affair",
+    "summary": "Senator Kevin Cramer, a Republican member of the Senate Banking Committee, has called for Nvidia CEO Jensen Huang to step down following revelations of Huang's affair with a Chinese businesswoman allegedly working as a spy for Beijing. Cramer told Politico that the potential for extortion involving Nvidia's sensitive chips was \"so tremendous\" that Huang must resign. The FBI is investigating the matter, President Trump said on Monday. Huang has admitted to infidelity in a memo to employees but provided no details. Nvidia's board stated it has no reason to believe US national security or company secrets were compromised and that Huang has committed to cooperating with an internal review. Trump, speaking to Huang directly, said the CEO claimed he had no idea the woman was a spy, and Trump said he believed him. Cramer's call for resignation underscores lawmakers' broader concerns about national security vulnerabilities in the semiconductor supply chain and the potential for Chinese intelligence to exploit corporate executives' personal conduct.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakhNTHdFSEhVdlBiTnJYLTZJZklCRG1iOWR3SzRlNW5MNGdGZ2xBcUtLZXdwSm5qZ1lpei1DOHdIUGpkdmVaZ3cwM29INlJ1c3V1T1hLSUcxdFYwSGdGM2tnV1VNVEZiMWYzYlUzQUpyV3F6N3VLbHlkWTVCaDczZmJLdVNsbUZhX2lWRnVMR28zZDZUUFBvUjdqdUR2VW84SndUNkFzWk9Fd2RwYnFfU2ZjRW5USXNkNXBZ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  }
+]
