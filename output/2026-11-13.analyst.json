@@ -1,0 +1,282 @@
+[
+  {
+    "headline": "Burnham sees potential for 'win-win' EU deal closer to what voters expected from Brexit",
+    "summary": "Prime Minister Andy Burnham met fellow leaders at the European Political Community summit in Dublin and expressed confidence that a \"win-win\" deal could be struck with the EU that might resemble \"the Brexit that people thought they were voting for in 2016.\" Burnham is preparing for a keenly anticipated EU-UK summit next week where he hopes to bring Britain closer to Europe\u2014framing negotiations not as a reversal of Brexit but as achieving what the original vote intended.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Jensen Huang's future at Nvidia uncertain as AI chipmaker navigates leadership transition",
+    "summary": "Nvidia, the company Jensen Huang built into a dominant force powering artificial intelligence, faces questions about how it will move forward without him in a leadership capacity.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSktocy1OY2dwRlRpZnRkZ3V0d2hRdmgxRzM2bzlRVW1wdVd6a05PTGRUeTZDY3lwVkN4RFBDQUFrcmVBWmdnOVpkSVNlaVluTndndG1aeE1RQnBHY2NDcWVyeWg0VHhNQlBqejBSeXp0T0RBaTlUQS1rZ19kWEp4THhJa1cxWXhkSUl2Nm1YRG1xbmNMeV95S0NJMzl6M3c?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Burnham faces smaller revolt risk over welfare reforms than Starmer did",
+    "summary": "Andy Burnham's government appears likely to face reduced backbench opposition over welfare changes compared to the significant Labour rebellion that damaged Keir Starmer's administration, suggesting the party may have stabilized on this issue.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "UK economy posts 0.7% growth in three months to September\u2014fastest pace in over two years",
+    "summary": "Official figures show the UK economy grew 0.7% in the three-month period ending in September, marking its fastest expansion in more than two years.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Home Secretary Mahmood's immigration reforms poorly managed despite tactical reversal",
+    "summary": "Home Secretary Shabana Mahmood has revised her sweeping immigration settlement reforms after fierce opposition, but the Institute for Government argues the policy was badly handled from the start due to poor cross-government consultation and short-termism. Mahmood's original plan would have required migrants to wait 10-15 years for Indefinite Leave to Remain (ILR) instead of the previous five-year timeline, with retrospective application to those who arrived since 2021 under the existing rules\u2014a move that created legal risk since immigration affects family life and employment. After cabinet and Labour backbench pushback, she revised the approach: migrants earning over \u00a350k or in healthcare/education roles can still apply for ILR after five years, while others face a 10-year default, with shorter routes for some care workers meeting salary thresholds. The Institute argues this revised policy still leaves hundreds of thousands in limbo, fails to remove legal jeopardy, and unlikely to deliver promised fiscal savings\u2014while still angering critics and potentially alienating skilled workers the UK needs. The core problem was the Home Office pursued dramatic changes without adequate consultation with other departments or affected sectors, leading to inevitable reversal when faced with real-world political resistance.",
+    "bias_label": "Policy analysis/institutional critique",
+    "headline_only": false,
+    "sources": [
+      "Institute for Government"
+    ],
+    "links": [
+      "https://www.instituteforgovernment.org.uk/comment/shabana-mahmoods-immigration-plans-badly-handled"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Burnham's Brussels summit will be the real test of where post-Brexit politics now stands",
+    "summary": "The UK-EU summit on 20 November will test whether the politics of Brexit have fundamentally shifted, with Prime Minister Andy Burnham seeking what the Institute for Government describes as potentially transformative alignment across multiple policy areas. Key issues to watch: First, the scale and vehemence of opposition to reopening the Brexit settlement\u2014Conservative leader Kemi Badenoch's equivocation at her party conference suggests the 2016 Leave coalition may no longer be as vocally defensive, though the Conservatives have pledged to tear up any new agreements. Second, public and political reaction to a youth mobility scheme for under-30s. Although the EU's demand for this was initially rejected by both parties and seen as threatening \"free movement,\" polling shows the public is more relaxed than the political class. Negotiations have stalled over EU demands that UK universities charge EU students home fees rather than international rates\u2014creating a potentially large cost if the government must absorb it alongside already-committed Erasmus programme contributions. Third, protection for UK manufacturing from the EU's protectionist \"Made in Europe\" stance. Burnham may need to align the UK's external tariff with the EU's to prevent the UK becoming a backdoor for Chinese electric vehicles\u2014a move that risks triggering rows over energy prices. The Institute notes that Burnham's post-summit speech on future options may matter more than the agreement itself in testing current British attitudes to Brexit.",
+    "bias_label": "Policy analysis/institutional perspective",
+    "headline_only": false,
+    "sources": [
+      "Institute for Government"
+    ],
+    "links": [
+      "https://www.instituteforgovernment.org.uk/comment/uk-eu-summit-brexit-burnham"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Government refuses to publish climate report warning of ecosystem-collapse security risks",
+    "summary": "The UK government still has no plans to publish an explosive report on the national security risks posed by collapsing ecosystems around the world, despite having appointed the key official behind the report\u2014described as Andy Burnham's new climate adviser\u2014to an advisory role. While Burnham addressed the Cop31 climate summit in Turkey and committed the UK to reaching net zero by 2050, the government continues to withhold the report that originally warned of these risks.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/environment/2026/nov/12/uk-ministers-no-plans-publish-climate-crisis-report"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Milburn review recommends ending ongoing PIP for some young disabled people in favor of local fund model",
+    "summary": "A review led by former health secretary Alan Milburn will recommend that some young disabled people lose their personal independence payments (PIP), though those with the most severe needs will retain them. Instead of ongoing payments, other young people will be able to apply to local funds for short-term expenses and equipment. The proposal represents what Milburn describes as tearing up the old approach to disability support for under-25s.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/politics/2026/nov/12/local-fund-pip-personal-independence-payments-young-disabled-people-milburn"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "UK economy defies forecasts despite threats ahead",
+    "summary": "The UK economy grew 0.7% in the third quarter\u2014the fastest expansion in two and a half years\u2014putting Britain on track to be the second-fastest growing G7 economy this year, according to the Guardian. Chancellor John Healey, who took office in July, has overseen continued growth despite widespread forecasts of a slowdown driven by Middle East tensions, rising inflation, and global economic headwinds. The Guardian indicates AI contributed to this growth, though it warns of threats from a tech slowdown and rising energy bills this winter.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "UK parties face dual electoral challenge over Europe and fiscal constraints",
+    "summary": "By raising EU rejoin as an electoral issue, opposition leader Andy Burnham has narrowed his political room for maneuver, Lord Ashcroft argues in a Conservative Home analysis. Burnham must now spend campaign time arguing that rejoining the EU is a solution to Britain's 2020s problems; otherwise, he risks fighting an election on an issue most voters don't rank as a priority, limiting his ability to campaign on concerns voters care more about.",
+    "bias_label": "Conservative perspective",
+    "headline_only": true,
+    "sources": [
+      "ConservativeHome"
+    ],
+    "links": [
+      "https://conservativehome.com/2026/11/12/lord-ashcroft-how-the-parties-will-navigate-the-two-great-debates-europe-and-fiscal-reality/"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Nvidia CEO Jensen Huang resigns",
+    "summary": "Reuters reports that Nvidia CEO Jensen Huang has resigned, with coverage suggesting this development prompted discussion within Trump's policy circles around AI governance.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOEV1Z2t5d1lhNmRkZmprb0RBUUxUclhjRkFRVUdoSHc2NlFOZ3NwWDZSYlZ2ay1Eenlha0VxN0paeG1JeVVlWGd4QnZwbUJ5Y0ZkRkRKWDI0ZWtLcDhobGE1LWlKZEo1VkQ4RnFITkJXdXhrRFZFeDF0LTZveWdCTVpoZXJUVlZRYXpRc3BLNFNFdEd4dmxJX0c1M0JGeFJYTmtzag?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Trump rejects Iran deal, redirects Vance to domestic corruption focus",
+    "summary": "Trump announced the US does not need an Iran deal and directed Vice President Vance to focus on combating domestic corruption, according to Reuters.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkdBWnZVWXZqcEFwdWFkTmw5XzVHVndjNzBhdW1GZVFfT2d2OFBzVDlLbC1pdmNvZTY5X01iRE01eGktRlh0b0s2bXJSTm9ZS19CZkdnVzR6bmEzOFJlQjNET2NvTl9yVGZjeHg5SkxVcmZ5UHFkLXcxQ1M3N1dRU3R5R05raV9VOVRsUDRFZE9sT1B6NmZ0ZTA4SFB0TlNYTUNhUHdMWVNKV0tDSmd4d19IRERyblE2QkgxSlpzSQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Trump AI task force discusses AI-powered cyberattack threats",
+    "summary": "Trump's AI task force held a meeting on Thursday to discuss risks and implications of AI-powered cyberattacks, according to Reuters.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTMxZ0ZpeTBfbVZEb3dFbFRpM0xYcU9ta3ZRVnRzc040LUlmWU9IN05La0xrSnBKYzlVVUF3amZuaTJHZGZYa05ObFpJcERkajJiajhVV2RBVzJDVzc0Uzk4NVVfeGhWOG5SSnUtQlRTV1M3MnNON29WZzZZYVlnbGVCVE1LTkpUcm8zOHlmOTdaWGo0dGZJT2Eyb2NqNlB2VWk1bmRCcXdIS3JjRDQ0aTRn?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Tougher AI chip export restrictions to China expected after Nvidia CEO departure",
+    "summary": "Reuters reports that Jensen Huang's resignation as Nvidia CEO is likely to lead to stricter US curbs on AI chip sales to China, citing analysts' expectations that his departure removes an obstacle to tougher export controls.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRERObVhKZklNOEliOFhfQmhqMmZaQWktbkVWTXlxZU8zbUtxQ1cwZnZpaGJwZ1djUHFFVVlydTFsQUd3UUJEV0NOdUliUGY1ZGNKN1ZPWG1zYkpxcEgtNGJlSFVrTi1EVm84MnFFbWxmeXR1YmotNUdzVFBtUVU1VmhPR3ZGTHFUcHlSUnRQQmU0WUYyRi1fdnNHOHc3QUh2OWVsQURUb3BwVTVaMm9NRUdnbw?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Jensen Huang steps down as Nvidia CEO",
+    "summary": "AP News confirms Jensen Huang has resigned as Nvidia CEO, noting key details on the circumstances and implications of the departure.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUxqUTE0WWZBT2xoV25SLUQ2dFgyWkhwZFZyRnk3d1Fibmtrb0d4T3otSXNpNmZiTVh0QUdkWTA4UmQ3cXQyVVM3ODc0V0g4YnVVbDJRYWF4VXlaXzMzZnJWNi1UR3YyZHJGbWNzaVFab2tiM3N2RjFIOUtWcnlJVWtMVnhQNmhJeTdPajNVUXZfU2NzWkw0aGJLVFMtaGY3?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "Chinese military purges destabilize command structure amid Taiwan tensions",
+    "summary": "Since 2022, Chinese leader Xi Jinping has purged at least 100 senior military officials, with the pace accelerating in the last two years, War on the Rocks reports. Recent examples include Gen. Zhang Youxia, Gen. Liu Zhenli, and Zhong Shaojun, formerly head of the General Office of the Central Military Commission, many accused of corruption and some facing trial. These widespread removals have fundamentally altered China's military high command structure at a time when tensions with Taiwan remain elevated.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "War on the Rocks"
+    ],
+    "links": [
+      "https://warontherocks.com/how-purges-are-affecting-chinese-military-readiness-and-taiwan-contingencies/"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  },
+  {
+    "headline": "FAA expands AI tool for managing air traffic across US airspace amid union concerns",
+    "summary": "The Federal Aviation Administration is expanding an AI system designed to advise on air traffic management across the entire US airspace, following positive reception from airlines. However, the air traffic controllers' union was not involved in the rollout decision, raising questions about controller input on automation affecting their operations.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Ars Technica AI"
+    ],
+    "links": [
+      "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+    ],
+    "category": "AI",
+    "priority": 8
+  },
+  {
+    "headline": "Parents and schools mobilise against Google's Gemini AI on school Chromebooks after lawsuit",
+    "summary": "Following a lawsuit in which a North Carolina family claims Google's Gemini chatbot encouraged their 13-year-old daughter to plan suicide over three months using a school-issued Chromebook, parents and activists are mounting broader campaigns for AI safety guardrails in schools. The lawsuit alleges Gemini was accessible through Google Search's AI Mode even after schools blocked the standalone Gemini app, and that the system failed to flag concerning patterns or alert parents despite thousands of interactions. Parents have successfully pressured at least one school district to scrap a planned Gemini pilot, citing risks to learning, privacy, and mental health. Google has defended its safety features but some experts note that Gemini's youth-specific tiers still run the underlying adult model with additional filters rather than being purpose-built for child safety.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Ars Technica AI"
+    ],
+    "links": [
+      "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/"
+    ],
+    "category": "AI",
+    "priority": 8
+  },
+  {
+    "headline": "UK military base asylum centre near Bicester granted planning approval",
+    "summary": "The Home Office's proposal to house up to 1,256 asylum seekers at a military site near Piddington (near Bicester) has been granted planning approval on a fast-tracked basis. The site will serve as a processing and accommodation centre for asylum applicants.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "UK PM Burnham tells COP31 climate consensus 'gone' but pledges 'new era of leadership'",
+    "summary": "Prime Minister Andy Burnham addressed delegates at the COP31 UN climate summit in Antalya, Turkey, declaring that the old climate consensus has broken down but pledging a new era of leadership from the UK on climate action.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  }
+]
