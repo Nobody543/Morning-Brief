@@ -1,0 +1,250 @@
+[
+  {
+    "headline": "Milburn report recommends National Insurance cuts for under-25s and youth employment reforms",
+    "summary": "Alan Milburn's long-awaited report on young people and employment, due to be unveiled this week, will recommend gradually reducing employment costs over five years as part of a broader jobs strategy for under-25s. The Work and Pensions Secretary indicated support for establishing a legal right to job support for young people, saying current support levels are too vague. The report sits at a juncture: a million young people are not in education, employment or training (NEET)\u2014a figure driven by austerity, the Covid pandemic, AI's disruption of the jobs market, and cost-of-living pressures. The Milburn proposals face political tension: Prime Minister Burnham previously criticized benefit cuts as \"crude cuts,\" yet the report also proposes government-subsidized work placements. Conservative voices see potential to support elements of the plan but question whether Labour will focus on the right components.",
+    "bias_label": "ConservativeHome: sceptical of Labour's implementation and subsidised placements",
+    "headline_only": false,
+    "sources": [
+      "BBC Politics",
+      "BBC Politics",
+      "The Guardian Politics",
+      "ConservativeHome"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push",
+      "https://conservativehome.com/2026/11/16/helen-whately-where-milburn-gets-it-right-well-back-him-but-the-risk-is-that-labour-will-only-back-the-wrong-bits/"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Jensen Huang discussing potential return as Nvidia CEO, FT reports",
+    "summary": "According to Financial Times reporting, Nvidia CEO Jensen Huang has been discussing a possible comeback as CEO with allies. The snippet provides no additional detail on timing, context, or current status.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjJiT3lpV1Ezamlva2NQWFNtWlB6VnRkdXhSOVBselpmQUk5Y2x0RGUyajctclFfY19VMW0wc1Z1VFBhZkdUM2QyUHE3ZC15MUUxVkk4VkJJM25jTFhlM2RaTkFZaGF0UXNUTlp3aFBfckxCaURVUWZMNVBIQ0hZU2FxWThpQldRUjM2RERqalRRNFhGaWJlZFkzWFZkRnFDRzBHamc3ZDZFLWtVdGFuZDEwUQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Post-Brexit food checks create delays; UK to have voice but no vote in new EU food rules deal",
+    "summary": "The government is proposing a reset of post-Brexit relations to address friction over food regulations, with EU Minister Hamish Falconer insisting the UK would retain some influence over policy in a new arrangement. In practice, the delays and inspection hold-ups are already affecting hauliers: perishable goods including Morrisons products are languishing at inspection points like the Eurotunnel terminal in Calais due to regulatory friction. The deal being negotiated would give Britain a voice in EU food policy discussions but crucially no voting power\u2014a trade-off the government is framing as sufficient influence.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "BBC Politics",
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/politics/2026/nov/15/drivers-delays-brexit-food-checks"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Conservatives pledge to cut school exam screen time and reduce coursework",
+    "summary": "The Conservative Party has announced education proposals for England aimed at addressing excessive screen time and over-reliance on artificial intelligence, pledging to halt screen-based school exams and cut coursework. Further details from the announcement are not available.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "PM Burnham pledges early intervention and benefits support to tackle youth unemployment crisis",
+    "summary": "Prime Minister Andy Burnham has pledged a \"root-and-branch rethink\" of childhood support policies to address the youth unemployment crisis affecting a million 16\u201324-year-olds. He framed the NEET problem not as a generational failure but as a political one, emphasizing that young people \"did not wake up and decide they did not want to work.\" Burnham committed to government intervention across all life stages where young people fall behind\u2014starting in childhood, well before unemployment becomes a concern\u2014and promised more vocational training opportunities in schools. The statement comes as Milburn's report on youth employment is being released, which will recommend welfare changes that Burnham previously criticized as crude cuts, signalling tension within the government's response to the jobs crisis.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "The Guardian Politics",
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
+      "https://www.theguardian.com/commentisfree/2026/nov/15/britain-young-people-crisis-alan-milburn-review-welfare-childhood"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "Labour backbench rebellion over Rosebank oilfield expected to reach 100 MPs",
+    "summary": "As many as 100 Labour MPs are expected to sign a private letter opposing the giant Rosebank oilfield development. Currently 75 MPs have already signed the letter, which is being delivered to Prime Minister Andy Burnham in the coming weeks. The rebellion reflects broader discontent among backbenchers over multiple government policies this week, with rebellions also brewing over Europe (the EU reset discussions) and welfare changes (the Milburn recommendations). The 2024 cohort of Labour MPs is playing a significant role in the Rosebank opposition campaign.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/business/2026/nov/15/rosebank-oilfield-mps-rebellion"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "ASEAN and China fail to conclude South China Sea code of conduct",
+    "summary": "ASEAN (Association of Southeast Asian Nations) and China have failed to finalize a code of conduct governing activities in the South China Sea, according to Reuters reporting. No further detail on the reasons for the failure or negotiation timeline is available from the snippet.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb1RJdXlfUmlvM01RTEVHbEIzRzA0eTYxLWVtMGdlOEhXT1hyRHl0ejhBMjBvSGFVU25SUTNsMXJXV3ZhRkRldDJOd3VMTWdqSTdpQ0FXcHl4aGtUbzNQWWdnSlpQWkM3d1d1VldFeE4wNmMwZUhrVEdyQnlTdTBTNDM1a3oxRVZCS0pTRnpSLXRMbFVOM1VrUWY2bWFZQU41VDV5cg?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "China pushes AI-native education for new generation",
+    "summary": "China is undertaking a drive to build an AI-native generation, integrating artificial intelligence into education systems. Reuters provides no additional detail on the scope, implementation mechanisms, or specific policies involved.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxNdVUtY3hKeno0SFNRY2lXTS1Ka29uakhJcGlqMmw5YldNRElPQWJPVjRWcU5IXzZRaDhPZ2F5MExxQjdGZEVsNXZNd1dvSnA3OEJoSVNlbzFxdHFRNWF3RUNSV21rOW12Z1NSdVROTXdfdU5hS1p6SHh2eFdyaXJUN1BJbk9YZWtGamowbWVhTV92SGNTMjhTVS1ZZHdtQQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "OpenAI claims breakthrough in lattice definition of the Standard Model using GPT-6 Astra",
+    "summary": "OpenAI reports progress on a candidate nonperturbative lattice definition of the Standard Model\u2014a framework for casting fundamental physics in discrete space-time rather than the traditional continuous formulation. The announcement highlights that GPT-6 Astra, the company's latest AI system, played a role in developing a detailed proof of the concept. While the full technical content was unavailable, the development suggests an intersection between large language models and theoretical physics research.",
+    "bias_label": "OpenAI corporate announcement",
+    "headline_only": true,
+    "sources": [
+      "OpenAI Blog"
+    ],
+    "links": [
+      "https://openai.com/index/step-toward-defining-the-standard-model"
+    ],
+    "category": "AI",
+    "priority": 10
+  },
+  {
+    "headline": "UK considering new appeal rights for families in special needs education overhaul",
+    "summary": "The UK government is considering major concessions to its special needs and disabilities (SEND) education reforms in England, potentially introducing appeals to an ombudsman or review panel for parents dissatisfied with provisions. This addresses sustained criticism from campaigners and parents' groups who have complained that the reforms, as currently drafted, would weaken legal protections that allow families to challenge education decisions through high court tribunals. The move signals government responsiveness to pressure to preserve meaningful appeal mechanisms while proceeding with the broader SEND overhaul.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/education/2026/nov/16/families-rights-appeal-support-send-overhaul-england"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "HMS Vengeance concludes record seven-month Trident patrol, raising concerns about fleet maintenance",
+    "summary": "The Trident nuclear submarine HMS Vengeance has returned to HM Naval Base Clyde at Faslane in Scotland after a record seven-month deployment, during which it spent 217 days submerged. The submarine began patrol on 12 April and returned on Sunday, met by Defence Secretary Wes Streeting. The extended deployment has prompted concerns about the pace of maintenance work on the Royal Navy's ageing Trident fleet and the strain placed on crew members by such lengthy operational periods.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "The Guardian Politics"
+    ],
+    "links": [
+      "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour"
+    ],
+    "category": "UK Politics",
+    "priority": 8
+  },
+  {
+    "headline": "House of Lords committee recommends paid crisis training time for UK workers",
+    "summary": "A House of Lords committee has recommended that workers should be given paid time off to train for emergency scenarios including war, power cuts, and cyber-attacks, signalling the committee's assessment that UK civil preparedness requires broader national mobilization beyond traditional emergency services.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "BBC Politics"
+    ],
+    "links": [
+      "https://www.bbc.co.uk/news/articles/cq8j4yn1vjymo?at_medium=RSS&at_campaign=rss"
+    ],
+    "category": "UK Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Analyst argues structural limits to US economic decoupling from China",
+    "summary": "An UnHerd analysis contends that the United States cannot sustainably maintain economic separation from China despite the onset of what the piece frames as the \"great decoupling,\" suggesting that structural interdependencies will constrain any lasting divergence between the two economies.",
+    "bias_label": "Right-leaning commentary outlet",
+    "headline_only": true,
+    "sources": [
+      "UnHerd"
+    ],
+    "links": [
+      "https://unherd.com/2026/11/why-america-cant-keep-china-down/?edition=us"
+    ],
+    "category": "UK Politics",
+    "priority": 7
+  },
+  {
+    "headline": "Estonia closes Russian border crossings after attempted arson attack",
+    "summary": "Estonia is moving to close Russian border crossings in response to an attempted arson attack, signalling escalation in cross-border tensions between the NATO member state and Russia.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkhQYlBYSGp1OG16aUlIS0JBcWpXQnpYbDlDaVFqb0V4cG04dm9wbnptbW1WRnI1bmh2ck0tTmM2Vl9pYVN2dG5NVmpTM2liUG9JWDNkVTZPVUxQc0swQ3FuN3UyZ2tyanRHVENpeUQtbTl0Z3RYSlIzVFB3QnFtdzVvWURCWDlCVjhlclpUTlpWaVhxektwaEFtY2Z2ZGRUYmJ1Z0ozUW9jY0lSOURycDkxSktlRnc?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Pro-Russian Moldovan region Gagauzia to hold runoff election on November 29",
+    "summary": "The pro-Russian autonomous region of Gagauzia in Moldova is set to hold a runoff election on 29 November, following the earlier inconclusive first round. The outcome remains politically sensitive given the region's historical alignment with Moscow and ongoing geopolitical tensions over Moldova's European integration.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaVlzWjFtblBHOU9keDYzSkExSzFVWUFwNDlIR01OYmFYakhQUTBUYnBPN0ZNcV9ORWhXNnBvVnUxZzJHU04tYjZ5VmR6ZTkxQl9HZ3cxWUJndmtIWUU3TVh6VHJoRTVVZlJJXzhmdTBncjVGTmlQVUh3WEVCS3lxQS1xcFktWVVVZm0wM1VHQmdWUk84TTVTbg?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Swedish opposition leader Andersson secures backing to form government",
+    "summary": "Ulf Kristersson, described as Swedish opposition leader, has secured crucial political backing needed to form a new government, marking a significant step in Swedish coalition negotiations.",
+    "bias_label": "",
+    "headline_only": true,
+    "sources": [
+      "Reuters World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX29seW5hQW1UY2N4aDVKX3ZEYV9NeHk1RE52blpnbi1uRHhqeXlPOXBfQU5qa3hrLTVaUDZmSDgwM193VE1aMnE3Z0pFYVZIckpqaHJLTlBBNWllREpNV1NDTk1TM2lhNmlKSGxtWVVSMUh2Q3JXNlcwUHZjSWFvU1hpMGRVR1RWajVlM1h5ZU45OTJjajlCTWRLYjlMc3cxUTlkNjVLVEphYUh2QzZVcUVnNmQ?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 10
+  },
+  {
+    "headline": "Trump Heads to Asia Seeking to Reset Momentum After Midterm Losses",
+    "summary": "President Trump departs Monday for Asia to attend ASEAN and APEC summits in Manila and Shenzhen, aiming to shift focus away from Republicans' midterm election defeats and his party's loss of Congress. The centerpiece is an unprecedented three-way nuclear talks summit with China's Xi Jinping and Russia's Putin to discuss stockpiles and Ukraine settlement prospects. Trump also plans to announce commercial deals and push Pax Silica, a U.S.-led coalition on technology export controls and critical minerals, to counter Chinese influence in the region. However, his political position at home\u2014including an air travel meltdown and incoming Democratic congressional majorities set to block his agenda\u2014undercuts his negotiating leverage, and experts expect modest results rather than major breakthroughs.",
+    "bias_label": "",
+    "headline_only": false,
+    "sources": [
+      "Associated Press World"
+    ],
+    "links": [
+      "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1NqQ012SUxkSlBybGhjS290cUFLdzVaU0NabWlVbkN3Y3IzbzRqTGsteHlBOFMwUFF6M21sa0lhVGZsaUM2MkZwaHBCN3ZqRGVKSk5DWFdOVGhVR2JHcXo2OXFtQTNrUm9jSWxqWVZ0cndRMHB0UnRtWm1rc29heE9xLXdtRnhhZ0tCdW1yZHlhVEJTN0E?oc=5"
+    ],
+    "category": "Global Politics",
+    "priority": 9
+  }
+]
